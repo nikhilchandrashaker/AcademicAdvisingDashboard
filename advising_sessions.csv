@@ -1,0 +1,851 @@
+session_id,student_id,advisor_id,session_date,term,contact_method,primary_topic,duration_minutes,action_items_count,followup_required,followup_completed,notes
+A00001,S0408,ADV07,2026-08-25,Fall 2026,Phone,Course selection,60,1,Yes,Not applicable,Synthetic example; no real student information.
+A00002,S0100,ADV03,2026-10-02,Fall 2025,Video,Registration hold,30,1,Yes,Not applicable,Synthetic example; no real student information.
+A00003,S0219,ADV01,2025-01-02,Fall 2025,Video,Course selection,15,1,No,Not applicable,Synthetic example; no real student information.
+A00004,S0426,ADV01,2025-05-22,Spring 2026,Phone,Career planning,45,3,Yes,No,Synthetic example; no real student information.
+A00005,S0465,ADV02,2026-05-08,Spring 2025,Video,Academic performance,30,3,No,Not applicable,Synthetic example; no real student information.
+A00006,S0102,ADV06,2024-11-05,Fall 2025,Video,Financial aid referral,15,0,No,Not applicable,Synthetic example; no real student information.
+A00007,S0197,ADV04,2025-02-22,Spring 2026,Phone,Career planning,45,0,No,Not applicable,Synthetic example; no real student information.
+A00008,S0301,ADV02,2025-01-02,Spring 2025,In person,Academic performance,30,2,No,Not applicable,Synthetic example; no real student information.
+A00009,S0119,ADV07,2026-08-29,Fall 2025,Email,Major exploration,30,1,Yes,Not applicable,Synthetic example; no real student information.
+A00010,S0437,ADV02,2026-01-22,Spring 2025,In person,Major exploration,45,3,Yes,Yes,Synthetic example; no real student information.
+A00011,S0230,ADV03,2025-04-11,Fall 2026,Phone,Course selection,30,1,Yes,No,Synthetic example; no real student information.
+A00012,S0032,ADV02,2025-03-03,Fall 2025,Video,Academic performance,30,2,No,Not applicable,Synthetic example; no real student information.
+A00013,S0006,ADV03,2025-07-11,Fall 2024,In person,Degree progress,30,1,Yes,Not applicable,Synthetic example; no real student information.
+A00014,S0431,ADV08,2024-10-09,Spring 2025,Phone,Financial aid referral,30,4,No,Not applicable,Synthetic example; no real student information.
+A00015,S0499,ADV05,2024-12-27,Spring 2025,Video,Graduation planning,15,4,No,Not applicable,Synthetic example; no real student information.
+A00016,S0280,ADV06,2025-04-18,Fall 2026,In person,Career planning,45,1,No,Not applicable,Synthetic example; no real student information.
+A00017,S0377,ADV08,2024-08-27,Spring 2026,In person,Career planning,30,3,No,Not applicable,Synthetic example; no real student information.
+A00018,S0325,ADV04,2025-09-15,Spring 2025,Email,Registration hold,30,0,No,Not applicable,Synthetic example; no real student information.
+A00019,S0184,ADV08,2026-05-14,Fall 2026,Phone,Course selection,30,2,Yes,Yes,Synthetic example; no real student information.
+A00020,S0453,ADV06,2026-02-03,Fall 2026,Video,Graduation planning,60,4,No,Not applicable,Synthetic example; no real student information.
+A00021,S0088,ADV08,2025-07-14,Spring 2025,Email,Major exploration,20,0,No,Not applicable,Synthetic example; no real student information.
+A00022,S0379,ADV03,2026-01-22,Fall 2026,Video,Career planning,30,2,No,Not applicable,Synthetic example; no real student information.
+A00023,S0474,ADV02,2025-03-29,Fall 2026,Email,Graduation planning,20,4,No,Not applicable,Synthetic example; no real student information.
+A00024,S0082,ADV01,2025-02-12,Fall 2024,Video,Academic performance,30,3,No,Not applicable,Synthetic example; no real student information.
+A00025,S0087,ADV07,2026-10-04,Spring 2025,Phone,Career planning,20,0,No,Not applicable,Synthetic example; no real student information.
+A00026,S0047,ADV05,2025-02-09,Fall 2024,Phone,Academic performance,45,4,Yes,Yes,Synthetic example; no real student information.
+A00027,S0305,ADV07,2024-08-31,Spring 2026,Video,Course selection,60,3,No,Not applicable,Synthetic example; no real student information.
+A00028,S0021,ADV05,2025-01-04,Fall 2025,In person,Major exploration,45,2,No,Not applicable,Synthetic example; no real student information.
+A00029,S0221,ADV05,2025-03-06,Fall 2024,In person,Academic performance,60,1,Yes,Not applicable,Synthetic example; no real student information.
+A00030,S0039,ADV04,2024-10-10,Fall 2025,Video,Degree progress,45,4,No,Not applicable,Synthetic example; no real student information.
+A00031,S0091,ADV08,2025-01-04,Fall 2024,In person,Academic performance,45,1,Yes,No,Synthetic example; no real student information.
+A00032,S0437,ADV01,2024-08-25,Fall 2026,Video,Course selection,30,3,No,Not applicable,Synthetic example; no real student information.
+A00033,S0338,ADV07,2024-09-27,Fall 2024,Email,Graduation planning,15,3,No,Not applicable,Synthetic example; no real student information.
+A00034,S0500,ADV04,2025-11-09,Fall 2026,Phone,Academic performance,15,0,No,Not applicable,Synthetic example; no real student information.
+A00035,S0294,ADV04,2025-07-19,Fall 2025,Email,Registration hold,15,3,No,Not applicable,Synthetic example; no real student information.
+A00036,S0423,ADV02,2025-10-29,Spring 2025,Video,Academic performance,30,0,No,Not applicable,Synthetic example; no real student information.
+A00037,S0007,ADV02,2026-06-09,Spring 2026,Phone,Career planning,20,1,Yes,Not applicable,Synthetic example; no real student information.
+A00038,S0051,ADV05,2025-09-22,Fall 2024,Video,Graduation planning,30,1,Yes,No,Synthetic example; no real student information.
+A00039,S0241,ADV08,2026-06-25,Spring 2026,In person,Major exploration,30,1,No,Not applicable,Synthetic example; no real student information.
+A00040,S0405,ADV01,2025-05-04,Fall 2025,Email,Career planning,15,3,Yes,No,Synthetic example; no real student information.
+A00041,S0440,ADV08,2025-08-03,Fall 2024,In person,Degree progress,30,4,No,Not applicable,Synthetic example; no real student information.
+A00042,S0316,ADV03,2026-03-21,Fall 2024,Video,Registration hold,30,4,Yes,Yes,Synthetic example; no real student information.
+A00043,S0228,ADV02,2025-07-01,Spring 2026,Video,Career planning,20,2,No,Not applicable,Synthetic example; no real student information.
+A00044,S0177,ADV07,2025-11-01,Fall 2026,Phone,Graduation planning,30,4,No,Not applicable,Synthetic example; no real student information.
+A00045,S0390,ADV05,2024-08-31,Fall 2026,Phone,Academic performance,60,1,No,Not applicable,Synthetic example; no real student information.
+A00046,S0194,ADV01,2026-10-08,Fall 2025,Email,Academic performance,20,1,No,Not applicable,Synthetic example; no real student information.
+A00047,S0265,ADV01,2025-11-07,Fall 2024,Phone,Career planning,20,4,Yes,No,Synthetic example; no real student information.
+A00048,S0321,ADV05,2025-07-06,Spring 2025,In person,Financial aid referral,30,2,No,Not applicable,Synthetic example; no real student information.
+A00049,S0121,ADV01,2025-07-14,Fall 2026,Video,Course selection,30,4,No,Not applicable,Synthetic example; no real student information.
+A00050,S0040,ADV08,2025-05-15,Spring 2026,In person,Major exploration,30,1,Yes,No,Synthetic example; no real student information.
+A00051,S0259,ADV08,2026-02-06,Fall 2024,Email,Career planning,60,3,Yes,Yes,Synthetic example; no real student information.
+A00052,S0278,ADV06,2026-09-29,Spring 2026,Phone,Financial aid referral,30,3,No,Not applicable,Synthetic example; no real student information.
+A00053,S0068,ADV07,2026-07-16,Fall 2026,In person,Major exploration,30,2,No,Not applicable,Synthetic example; no real student information.
+A00054,S0452,ADV01,2026-07-31,Fall 2024,Video,Degree progress,30,3,No,Not applicable,Synthetic example; no real student information.
+A00055,S0474,ADV02,2026-08-02,Fall 2024,Phone,Academic performance,30,0,No,Not applicable,Synthetic example; no real student information.
+A00056,S0358,ADV04,2025-11-28,Fall 2025,Email,Major exploration,30,0,Yes,No,Synthetic example; no real student information.
+A00057,S0461,ADV08,2024-09-26,Fall 2025,Email,Registration hold,45,4,No,Not applicable,Synthetic example; no real student information.
+A00058,S0126,ADV08,2025-03-24,Spring 2025,In person,Course selection,30,3,No,Not applicable,Synthetic example; no real student information.
+A00059,S0359,ADV03,2024-12-21,Spring 2026,Email,Academic performance,30,4,Yes,Not applicable,Synthetic example; no real student information.
+A00060,S0144,ADV08,2024-11-11,Fall 2026,Email,Course selection,30,1,No,Not applicable,Synthetic example; no real student information.
+A00061,S0258,ADV01,2026-10-07,Spring 2026,Email,Graduation planning,20,4,No,Not applicable,Synthetic example; no real student information.
+A00062,S0213,ADV03,2025-03-17,Fall 2026,Email,Career planning,30,0,No,Not applicable,Synthetic example; no real student information.
+A00063,S0380,ADV05,2025-07-08,Fall 2026,Video,Graduation planning,20,0,No,Not applicable,Synthetic example; no real student information.
+A00064,S0356,ADV07,2025-11-29,Fall 2024,Email,Course selection,60,3,Yes,Yes,Synthetic example; no real student information.
+A00065,S0209,ADV01,2025-09-24,Fall 2024,Email,Registration hold,20,4,Yes,Not applicable,Synthetic example; no real student information.
+A00066,S0459,ADV03,2024-09-04,Fall 2026,In person,Financial aid referral,60,4,Yes,Not applicable,Synthetic example; no real student information.
+A00067,S0477,ADV03,2025-01-30,Spring 2026,Phone,Financial aid referral,20,1,Yes,No,Synthetic example; no real student information.
+A00068,S0047,ADV05,2025-12-01,Fall 2026,Phone,Course selection,20,3,No,Not applicable,Synthetic example; no real student information.
+A00069,S0301,ADV04,2025-06-14,Fall 2024,Video,Academic performance,30,2,Yes,Not applicable,Synthetic example; no real student information.
+A00070,S0328,ADV06,2026-04-27,Fall 2026,Email,Course selection,30,0,Yes,No,Synthetic example; no real student information.
+A00071,S0307,ADV08,2025-02-19,Spring 2025,In person,Degree progress,30,2,No,Not applicable,Synthetic example; no real student information.
+A00072,S0311,ADV05,2026-02-14,Spring 2025,Phone,Academic performance,60,1,No,Not applicable,Synthetic example; no real student information.
+A00073,S0416,ADV02,2024-10-14,Spring 2026,In person,Academic performance,30,3,No,Not applicable,Synthetic example; no real student information.
+A00074,S0258,ADV05,2024-08-25,Spring 2025,In person,Major exploration,30,4,No,Not applicable,Synthetic example; no real student information.
+A00075,S0297,ADV05,2026-10-02,Fall 2026,Video,Course selection,60,4,Yes,Yes,Synthetic example; no real student information.
+A00076,S0169,ADV01,2024-08-21,Fall 2024,Email,Registration hold,15,4,No,Not applicable,Synthetic example; no real student information.
+A00077,S0080,ADV01,2025-10-16,Spring 2025,In person,Career planning,45,4,Yes,Yes,Synthetic example; no real student information.
+A00078,S0266,ADV07,2026-06-06,Spring 2025,Video,Degree progress,45,3,No,Not applicable,Synthetic example; no real student information.
+A00079,S0282,ADV06,2025-02-14,Fall 2024,In person,Career planning,30,1,No,Not applicable,Synthetic example; no real student information.
+A00080,S0265,ADV03,2026-01-21,Spring 2026,Phone,Graduation planning,15,0,No,Not applicable,Synthetic example; no real student information.
+A00081,S0215,ADV02,2026-02-23,Fall 2026,Email,Course selection,15,1,No,Not applicable,Synthetic example; no real student information.
+A00082,S0410,ADV01,2025-12-16,Fall 2026,In person,Major exploration,45,1,No,Not applicable,Synthetic example; no real student information.
+A00083,S0431,ADV08,2024-09-06,Fall 2024,Video,Registration hold,30,1,No,Not applicable,Synthetic example; no real student information.
+A00084,S0345,ADV06,2025-05-17,Fall 2026,Email,Career planning,60,1,Yes,Not applicable,Synthetic example; no real student information.
+A00085,S0130,ADV02,2025-07-28,Spring 2025,In person,Financial aid referral,60,2,No,Not applicable,Synthetic example; no real student information.
+A00086,S0415,ADV06,2026-06-28,Spring 2025,Email,Academic performance,45,0,Yes,Not applicable,Synthetic example; no real student information.
+A00087,S0047,ADV04,2025-01-26,Fall 2024,Video,Registration hold,45,2,No,Not applicable,Synthetic example; no real student information.
+A00088,S0292,ADV01,2025-11-25,Spring 2025,Email,Major exploration,60,3,No,Not applicable,Synthetic example; no real student information.
+A00089,S0001,ADV06,2025-01-02,Spring 2025,Phone,Career planning,15,2,Yes,No,Synthetic example; no real student information.
+A00090,S0114,ADV02,2026-08-05,Fall 2026,Email,Major exploration,30,2,Yes,Not applicable,Synthetic example; no real student information.
+A00091,S0009,ADV05,2025-04-25,Fall 2026,Video,Major exploration,15,2,No,Not applicable,Synthetic example; no real student information.
+A00092,S0448,ADV04,2026-08-24,Fall 2026,Phone,Financial aid referral,30,3,No,Not applicable,Synthetic example; no real student information.
+A00093,S0211,ADV04,2025-01-22,Spring 2026,In person,Registration hold,30,3,No,Not applicable,Synthetic example; no real student information.
+A00094,S0414,ADV02,2025-12-07,Spring 2025,Phone,Major exploration,45,2,Yes,Not applicable,Synthetic example; no real student information.
+A00095,S0419,ADV01,2025-12-29,Fall 2025,Video,Academic performance,45,4,Yes,No,Synthetic example; no real student information.
+A00096,S0095,ADV03,2025-02-05,Fall 2024,Email,Major exploration,30,3,No,Not applicable,Synthetic example; no real student information.
+A00097,S0038,ADV06,2025-11-27,Spring 2026,Video,Major exploration,45,4,Yes,Not applicable,Synthetic example; no real student information.
+A00098,S0281,ADV08,2025-04-30,Spring 2026,Email,Registration hold,60,3,Yes,No,Synthetic example; no real student information.
+A00099,S0313,ADV07,2025-02-27,Fall 2024,Phone,Graduation planning,15,1,No,Not applicable,Synthetic example; no real student information.
+A00100,S0131,ADV05,2026-02-08,Fall 2026,Video,Academic performance,15,2,Yes,Yes,Synthetic example; no real student information.
+A00101,S0309,ADV02,2026-02-11,Spring 2025,Video,Registration hold,30,0,No,Not applicable,Synthetic example; no real student information.
+A00102,S0016,ADV01,2024-08-24,Spring 2026,Email,Degree progress,20,4,Yes,Not applicable,Synthetic example; no real student information.
+A00103,S0383,ADV04,2024-10-27,Fall 2024,Phone,Career planning,60,4,No,Not applicable,Synthetic example; no real student information.
+A00104,S0037,ADV04,2025-03-30,Fall 2026,Email,Career planning,30,1,Yes,Not applicable,Synthetic example; no real student information.
+A00105,S0432,ADV07,2026-02-27,Fall 2025,Email,Financial aid referral,30,1,Yes,Not applicable,Synthetic example; no real student information.
+A00106,S0403,ADV01,2026-07-04,Fall 2025,Video,Academic performance,15,4,Yes,Yes,Synthetic example; no real student information.
+A00107,S0120,ADV08,2025-07-30,Spring 2026,Email,Registration hold,45,0,Yes,Not applicable,Synthetic example; no real student information.
+A00108,S0483,ADV01,2025-05-14,Fall 2025,Email,Major exploration,45,1,Yes,Yes,Synthetic example; no real student information.
+A00109,S0044,ADV01,2025-12-18,Spring 2026,Email,Graduation planning,30,0,Yes,Not applicable,Synthetic example; no real student information.
+A00110,S0221,ADV03,2026-03-28,Fall 2025,In person,Graduation planning,30,1,No,Not applicable,Synthetic example; no real student information.
+A00111,S0408,ADV03,2025-06-30,Fall 2025,Video,Financial aid referral,15,1,Yes,No,Synthetic example; no real student information.
+A00112,S0339,ADV02,2026-05-15,Fall 2024,In person,Graduation planning,30,3,No,Not applicable,Synthetic example; no real student information.
+A00113,S0254,ADV06,2025-03-09,Fall 2024,Video,Academic performance,30,0,Yes,Not applicable,Synthetic example; no real student information.
+A00114,S0391,ADV03,2026-06-30,Fall 2025,In person,Academic performance,45,1,No,Not applicable,Synthetic example; no real student information.
+A00115,S0265,ADV01,2025-12-28,Spring 2025,Phone,Registration hold,60,1,Yes,No,Synthetic example; no real student information.
+A00116,S0437,ADV05,2025-07-03,Fall 2026,In person,Career planning,30,3,No,Not applicable,Synthetic example; no real student information.
+A00117,S0221,ADV07,2024-09-15,Spring 2025,Video,Financial aid referral,30,0,No,Not applicable,Synthetic example; no real student information.
+A00118,S0473,ADV02,2024-08-25,Fall 2026,In person,Financial aid referral,30,0,No,Not applicable,Synthetic example; no real student information.
+A00119,S0471,ADV04,2026-07-25,Spring 2025,Phone,Graduation planning,15,2,Yes,No,Synthetic example; no real student information.
+A00120,S0197,ADV02,2025-03-05,Fall 2026,Phone,Career planning,45,0,Yes,No,Synthetic example; no real student information.
+A00121,S0178,ADV02,2026-02-28,Fall 2025,Email,Degree progress,30,2,No,Not applicable,Synthetic example; no real student information.
+A00122,S0368,ADV04,2026-05-16,Fall 2026,In person,Major exploration,30,0,No,Not applicable,Synthetic example; no real student information.
+A00123,S0332,ADV05,2026-01-05,Fall 2024,Video,Financial aid referral,15,2,Yes,No,Synthetic example; no real student information.
+A00124,S0458,ADV01,2025-07-05,Spring 2025,Video,Degree progress,20,0,No,Not applicable,Synthetic example; no real student information.
+A00125,S0412,ADV07,2026-02-23,Spring 2026,Video,Course selection,60,0,No,Not applicable,Synthetic example; no real student information.
+A00126,S0123,ADV07,2026-01-28,Fall 2025,In person,Graduation planning,60,3,No,Not applicable,Synthetic example; no real student information.
+A00127,S0274,ADV06,2026-02-24,Spring 2025,Phone,Course selection,15,3,Yes,No,Synthetic example; no real student information.
+A00128,S0355,ADV04,2025-11-10,Fall 2025,Email,Registration hold,20,1,No,Not applicable,Synthetic example; no real student information.
+A00129,S0029,ADV01,2025-03-02,Fall 2026,In person,Financial aid referral,30,3,Yes,Yes,Synthetic example; no real student information.
+A00130,S0259,ADV01,2026-08-27,Fall 2026,Video,Financial aid referral,15,0,No,Not applicable,Synthetic example; no real student information.
+A00131,S0307,ADV05,2026-08-06,Spring 2025,In person,Degree progress,15,1,No,Not applicable,Synthetic example; no real student information.
+A00132,S0349,ADV02,2025-01-15,Fall 2025,Phone,Major exploration,45,2,No,Not applicable,Synthetic example; no real student information.
+A00133,S0288,ADV07,2024-10-07,Spring 2025,Video,Graduation planning,60,0,Yes,Yes,Synthetic example; no real student information.
+A00134,S0305,ADV08,2026-06-22,Spring 2025,Video,Major exploration,15,2,Yes,Yes,Synthetic example; no real student information.
+A00135,S0308,ADV05,2025-12-14,Fall 2025,Phone,Course selection,30,3,No,Not applicable,Synthetic example; no real student information.
+A00136,S0372,ADV03,2026-08-04,Spring 2025,In person,Course selection,30,0,No,Not applicable,Synthetic example; no real student information.
+A00137,S0149,ADV06,2025-09-23,Spring 2025,Phone,Degree progress,30,3,No,Not applicable,Synthetic example; no real student information.
+A00138,S0412,ADV07,2025-09-20,Spring 2025,Video,Major exploration,30,4,Yes,No,Synthetic example; no real student information.
+A00139,S0473,ADV01,2024-08-22,Spring 2025,Email,Graduation planning,15,4,Yes,No,Synthetic example; no real student information.
+A00140,S0009,ADV08,2024-12-30,Fall 2024,Video,Graduation planning,30,4,No,Not applicable,Synthetic example; no real student information.
+A00141,S0206,ADV01,2024-10-08,Spring 2026,Video,Graduation planning,15,3,No,Not applicable,Synthetic example; no real student information.
+A00142,S0203,ADV06,2025-04-21,Fall 2024,Video,Major exploration,60,4,No,Not applicable,Synthetic example; no real student information.
+A00143,S0455,ADV07,2026-06-07,Fall 2025,In person,Degree progress,45,4,No,Not applicable,Synthetic example; no real student information.
+A00144,S0301,ADV01,2024-12-21,Fall 2026,In person,Course selection,20,0,No,Not applicable,Synthetic example; no real student information.
+A00145,S0413,ADV03,2026-09-17,Fall 2025,Video,Registration hold,15,4,No,Not applicable,Synthetic example; no real student information.
+A00146,S0135,ADV08,2025-08-02,Fall 2025,Email,Academic performance,60,4,No,Not applicable,Synthetic example; no real student information.
+A00147,S0188,ADV03,2025-04-13,Spring 2026,In person,Degree progress,15,4,No,Not applicable,Synthetic example; no real student information.
+A00148,S0367,ADV08,2026-02-17,Fall 2025,Email,Major exploration,30,2,Yes,No,Synthetic example; no real student information.
+A00149,S0416,ADV05,2025-05-26,Fall 2026,Phone,Academic performance,60,2,Yes,No,Synthetic example; no real student information.
+A00150,S0116,ADV01,2026-01-28,Fall 2026,In person,Degree progress,60,4,Yes,Not applicable,Synthetic example; no real student information.
+A00151,S0200,ADV05,2025-08-11,Fall 2025,Phone,Graduation planning,30,3,No,Not applicable,Synthetic example; no real student information.
+A00152,S0081,ADV08,2025-02-07,Fall 2026,Email,Graduation planning,15,2,Yes,Not applicable,Synthetic example; no real student information.
+A00153,S0209,ADV07,2025-09-13,Fall 2024,Email,Course selection,20,2,Yes,Not applicable,Synthetic example; no real student information.
+A00154,S0217,ADV08,2024-09-20,Spring 2025,Email,Financial aid referral,30,0,Yes,Yes,Synthetic example; no real student information.
+A00155,S0101,ADV06,2025-08-16,Fall 2024,In person,Degree progress,30,1,No,Not applicable,Synthetic example; no real student information.
+A00156,S0349,ADV02,2024-08-24,Spring 2026,Email,Degree progress,15,2,No,Not applicable,Synthetic example; no real student information.
+A00157,S0217,ADV01,2024-10-14,Fall 2025,Video,Graduation planning,20,2,No,Not applicable,Synthetic example; no real student information.
+A00158,S0155,ADV06,2024-11-04,Fall 2025,Email,Registration hold,45,2,Yes,Yes,Synthetic example; no real student information.
+A00159,S0364,ADV06,2025-09-08,Spring 2025,In person,Career planning,60,2,No,Not applicable,Synthetic example; no real student information.
+A00160,S0356,ADV08,2025-12-11,Fall 2024,In person,Course selection,60,4,Yes,Not applicable,Synthetic example; no real student information.
+A00161,S0295,ADV05,2026-02-15,Spring 2026,Video,Major exploration,30,2,No,Not applicable,Synthetic example; no real student information.
+A00162,S0199,ADV06,2024-12-24,Fall 2026,Email,Registration hold,30,4,Yes,No,Synthetic example; no real student information.
+A00163,S0203,ADV08,2026-03-03,Fall 2024,Video,Course selection,20,3,No,Not applicable,Synthetic example; no real student information.
+A00164,S0434,ADV04,2025-12-18,Fall 2024,In person,Degree progress,45,1,No,Not applicable,Synthetic example; no real student information.
+A00165,S0084,ADV04,2024-09-15,Spring 2025,Video,Graduation planning,20,4,No,Not applicable,Synthetic example; no real student information.
+A00166,S0358,ADV03,2025-12-23,Spring 2025,Email,Registration hold,30,2,No,Not applicable,Synthetic example; no real student information.
+A00167,S0021,ADV03,2025-02-26,Spring 2026,Email,Academic performance,30,4,Yes,Not applicable,Synthetic example; no real student information.
+A00168,S0335,ADV08,2025-02-27,Spring 2025,Video,Career planning,20,4,Yes,No,Synthetic example; no real student information.
+A00169,S0334,ADV03,2025-01-11,Fall 2024,In person,Course selection,30,0,Yes,Yes,Synthetic example; no real student information.
+A00170,S0217,ADV03,2026-05-13,Fall 2026,Phone,Registration hold,30,1,Yes,Yes,Synthetic example; no real student information.
+A00171,S0493,ADV03,2025-06-20,Fall 2026,In person,Financial aid referral,60,3,No,Not applicable,Synthetic example; no real student information.
+A00172,S0170,ADV05,2025-07-14,Fall 2025,Video,Degree progress,30,0,Yes,No,Synthetic example; no real student information.
+A00173,S0166,ADV04,2025-11-09,Fall 2024,In person,Degree progress,15,3,Yes,No,Synthetic example; no real student information.
+A00174,S0126,ADV07,2025-03-26,Spring 2025,Video,Academic performance,30,3,Yes,No,Synthetic example; no real student information.
+A00175,S0240,ADV07,2025-03-31,Fall 2026,In person,Registration hold,30,3,No,Not applicable,Synthetic example; no real student information.
+A00176,S0476,ADV08,2025-06-21,Fall 2024,Video,Financial aid referral,45,2,Yes,Yes,Synthetic example; no real student information.
+A00177,S0122,ADV06,2025-09-11,Spring 2025,Phone,Course selection,20,2,Yes,Yes,Synthetic example; no real student information.
+A00178,S0373,ADV05,2024-09-27,Fall 2024,Video,Financial aid referral,30,2,No,Not applicable,Synthetic example; no real student information.
+A00179,S0010,ADV06,2026-07-12,Fall 2026,Video,Major exploration,30,3,No,Not applicable,Synthetic example; no real student information.
+A00180,S0216,ADV01,2025-01-08,Spring 2026,Video,Graduation planning,15,0,No,Not applicable,Synthetic example; no real student information.
+A00181,S0126,ADV06,2026-08-13,Spring 2026,Phone,Major exploration,30,0,Yes,No,Synthetic example; no real student information.
+A00182,S0294,ADV08,2025-11-21,Fall 2026,Video,Career planning,15,4,Yes,Yes,Synthetic example; no real student information.
+A00183,S0301,ADV05,2026-08-05,Fall 2026,In person,Financial aid referral,30,4,No,Not applicable,Synthetic example; no real student information.
+A00184,S0468,ADV06,2026-08-13,Fall 2025,In person,Major exploration,30,4,Yes,Not applicable,Synthetic example; no real student information.
+A00185,S0410,ADV07,2026-06-28,Spring 2026,Phone,Registration hold,20,1,Yes,Yes,Synthetic example; no real student information.
+A00186,S0382,ADV02,2025-04-04,Spring 2025,In person,Career planning,20,4,No,Not applicable,Synthetic example; no real student information.
+A00187,S0300,ADV02,2026-08-10,Fall 2025,Phone,Degree progress,45,2,No,Not applicable,Synthetic example; no real student information.
+A00188,S0117,ADV02,2025-05-04,Spring 2025,Email,Course selection,30,1,Yes,Yes,Synthetic example; no real student information.
+A00189,S0466,ADV05,2025-03-05,Spring 2025,Video,Career planning,30,3,No,Not applicable,Synthetic example; no real student information.
+A00190,S0367,ADV03,2025-12-05,Spring 2025,Video,Financial aid referral,30,4,Yes,Not applicable,Synthetic example; no real student information.
+A00191,S0280,ADV05,2026-06-15,Fall 2024,Email,Financial aid referral,45,0,Yes,No,Synthetic example; no real student information.
+A00192,S0358,ADV05,2024-11-06,Fall 2026,Phone,Registration hold,30,2,No,Not applicable,Synthetic example; no real student information.
+A00193,S0240,ADV06,2026-09-24,Fall 2026,Email,Career planning,60,3,No,Not applicable,Synthetic example; no real student information.
+A00194,S0320,ADV04,2025-05-22,Fall 2024,Email,Major exploration,20,1,Yes,No,Synthetic example; no real student information.
+A00195,S0412,ADV01,2024-12-20,Fall 2026,Video,Course selection,30,0,No,Not applicable,Synthetic example; no real student information.
+A00196,S0197,ADV07,2025-10-04,Fall 2025,Phone,Academic performance,30,3,Yes,Not applicable,Synthetic example; no real student information.
+A00197,S0260,ADV07,2025-10-10,Fall 2025,Phone,Career planning,30,3,Yes,No,Synthetic example; no real student information.
+A00198,S0052,ADV05,2025-02-12,Fall 2024,In person,Career planning,15,3,No,Not applicable,Synthetic example; no real student information.
+A00199,S0269,ADV07,2025-11-20,Fall 2026,Video,Graduation planning,30,0,No,Not applicable,Synthetic example; no real student information.
+A00200,S0183,ADV05,2024-11-01,Fall 2025,In person,Major exploration,20,1,No,Not applicable,Synthetic example; no real student information.
+A00201,S0457,ADV08,2025-05-09,Fall 2025,In person,Career planning,20,1,Yes,Yes,Synthetic example; no real student information.
+A00202,S0271,ADV04,2025-10-10,Fall 2025,Email,Major exploration,15,0,Yes,No,Synthetic example; no real student information.
+A00203,S0011,ADV05,2025-04-28,Fall 2025,Video,Major exploration,20,4,Yes,Not applicable,Synthetic example; no real student information.
+A00204,S0211,ADV06,2024-10-21,Fall 2024,Video,Academic performance,15,4,Yes,No,Synthetic example; no real student information.
+A00205,S0383,ADV01,2024-10-29,Fall 2026,Email,Registration hold,60,0,Yes,Not applicable,Synthetic example; no real student information.
+A00206,S0244,ADV08,2026-04-22,Spring 2025,Phone,Financial aid referral,30,1,No,Not applicable,Synthetic example; no real student information.
+A00207,S0285,ADV07,2025-05-22,Fall 2026,Phone,Degree progress,45,0,Yes,No,Synthetic example; no real student information.
+A00208,S0163,ADV07,2024-10-02,Spring 2026,Phone,Financial aid referral,45,0,Yes,Not applicable,Synthetic example; no real student information.
+A00209,S0165,ADV01,2026-01-12,Fall 2025,In person,Registration hold,20,3,No,Not applicable,Synthetic example; no real student information.
+A00210,S0001,ADV01,2025-02-08,Spring 2025,In person,Career planning,30,4,Yes,Not applicable,Synthetic example; no real student information.
+A00211,S0500,ADV01,2025-01-10,Spring 2026,Video,Graduation planning,30,1,No,Not applicable,Synthetic example; no real student information.
+A00212,S0021,ADV08,2025-04-09,Spring 2026,Email,Degree progress,30,4,No,Not applicable,Synthetic example; no real student information.
+A00213,S0224,ADV02,2025-12-04,Fall 2025,In person,Graduation planning,45,3,No,Not applicable,Synthetic example; no real student information.
+A00214,S0378,ADV03,2025-05-20,Fall 2026,Phone,Academic performance,60,4,Yes,No,Synthetic example; no real student information.
+A00215,S0357,ADV07,2026-01-28,Spring 2025,Video,Career planning,60,1,Yes,Yes,Synthetic example; no real student information.
+A00216,S0498,ADV06,2025-11-02,Fall 2026,Email,Course selection,60,4,No,Not applicable,Synthetic example; no real student information.
+A00217,S0388,ADV08,2025-06-02,Fall 2025,Video,Academic performance,15,3,No,Not applicable,Synthetic example; no real student information.
+A00218,S0099,ADV03,2026-08-06,Fall 2026,Video,Course selection,60,0,No,Not applicable,Synthetic example; no real student information.
+A00219,S0191,ADV03,2024-11-22,Fall 2025,Video,Degree progress,30,2,No,Not applicable,Synthetic example; no real student information.
+A00220,S0421,ADV01,2025-08-03,Spring 2026,Video,Career planning,20,1,No,Not applicable,Synthetic example; no real student information.
+A00221,S0236,ADV08,2026-09-01,Fall 2024,Email,Academic performance,45,4,Yes,Not applicable,Synthetic example; no real student information.
+A00222,S0014,ADV01,2025-01-22,Fall 2024,Email,Academic performance,30,2,Yes,Not applicable,Synthetic example; no real student information.
+A00223,S0278,ADV05,2026-05-24,Spring 2026,Email,Financial aid referral,45,2,Yes,Not applicable,Synthetic example; no real student information.
+A00224,S0133,ADV06,2024-10-31,Fall 2025,Video,Financial aid referral,45,4,No,Not applicable,Synthetic example; no real student information.
+A00225,S0040,ADV04,2026-02-28,Spring 2026,In person,Course selection,30,4,No,Not applicable,Synthetic example; no real student information.
+A00226,S0034,ADV05,2025-07-14,Fall 2025,Email,Financial aid referral,20,3,No,Not applicable,Synthetic example; no real student information.
+A00227,S0424,ADV08,2026-03-06,Spring 2026,Video,Registration hold,45,0,No,Not applicable,Synthetic example; no real student information.
+A00228,S0441,ADV07,2025-01-26,Fall 2024,Video,Course selection,20,4,No,Not applicable,Synthetic example; no real student information.
+A00229,S0205,ADV01,2026-07-18,Fall 2025,In person,Degree progress,45,4,Yes,Yes,Synthetic example; no real student information.
+A00230,S0080,ADV02,2026-03-23,Fall 2026,Video,Major exploration,15,3,No,Not applicable,Synthetic example; no real student information.
+A00231,S0004,ADV01,2025-10-05,Fall 2024,In person,Major exploration,30,4,No,Not applicable,Synthetic example; no real student information.
+A00232,S0068,ADV03,2025-04-01,Spring 2026,Video,Financial aid referral,20,2,No,Not applicable,Synthetic example; no real student information.
+A00233,S0464,ADV08,2026-08-13,Fall 2024,Video,Major exploration,60,2,No,Not applicable,Synthetic example; no real student information.
+A00234,S0023,ADV07,2025-10-24,Fall 2026,Video,Financial aid referral,20,2,Yes,No,Synthetic example; no real student information.
+A00235,S0354,ADV08,2025-11-19,Spring 2025,In person,Course selection,20,1,No,Not applicable,Synthetic example; no real student information.
+A00236,S0052,ADV01,2025-07-16,Fall 2025,Email,Graduation planning,60,0,Yes,No,Synthetic example; no real student information.
+A00237,S0066,ADV04,2026-06-10,Fall 2026,Phone,Degree progress,60,2,No,Not applicable,Synthetic example; no real student information.
+A00238,S0135,ADV04,2024-10-04,Fall 2024,In person,Career planning,30,0,No,Not applicable,Synthetic example; no real student information.
+A00239,S0158,ADV02,2025-12-27,Spring 2025,Video,Course selection,60,2,No,Not applicable,Synthetic example; no real student information.
+A00240,S0436,ADV08,2024-10-09,Fall 2024,Phone,Registration hold,60,3,No,Not applicable,Synthetic example; no real student information.
+A00241,S0420,ADV08,2026-02-17,Spring 2026,Email,Degree progress,45,0,No,Not applicable,Synthetic example; no real student information.
+A00242,S0448,ADV05,2025-01-12,Fall 2025,Phone,Registration hold,30,4,No,Not applicable,Synthetic example; no real student information.
+A00243,S0150,ADV05,2025-05-16,Fall 2024,Video,Major exploration,30,3,No,Not applicable,Synthetic example; no real student information.
+A00244,S0489,ADV04,2025-06-21,Spring 2025,Phone,Course selection,30,1,Yes,No,Synthetic example; no real student information.
+A00245,S0260,ADV06,2026-06-28,Fall 2026,Email,Registration hold,30,3,No,Not applicable,Synthetic example; no real student information.
+A00246,S0362,ADV04,2025-01-31,Fall 2024,Email,Academic performance,45,1,No,Not applicable,Synthetic example; no real student information.
+A00247,S0364,ADV02,2024-09-27,Fall 2025,Phone,Academic performance,60,2,No,Not applicable,Synthetic example; no real student information.
+A00248,S0329,ADV05,2025-02-03,Fall 2024,Email,Registration hold,60,2,Yes,Yes,Synthetic example; no real student information.
+A00249,S0282,ADV07,2025-08-10,Spring 2026,In person,Career planning,30,1,No,Not applicable,Synthetic example; no real student information.
+A00250,S0154,ADV05,2025-06-14,Spring 2026,Video,Major exploration,60,0,No,Not applicable,Synthetic example; no real student information.
+A00251,S0177,ADV02,2026-09-19,Spring 2026,Phone,Graduation planning,60,4,No,Not applicable,Synthetic example; no real student information.
+A00252,S0059,ADV06,2025-10-28,Fall 2024,Video,Degree progress,20,0,No,Not applicable,Synthetic example; no real student information.
+A00253,S0263,ADV02,2026-07-01,Fall 2025,In person,Degree progress,20,2,No,Not applicable,Synthetic example; no real student information.
+A00254,S0429,ADV01,2025-05-27,Fall 2026,Phone,Financial aid referral,45,1,No,Not applicable,Synthetic example; no real student information.
+A00255,S0356,ADV03,2025-12-31,Fall 2026,Video,Financial aid referral,45,3,Yes,No,Synthetic example; no real student information.
+A00256,S0341,ADV01,2026-06-03,Spring 2025,Email,Registration hold,60,2,No,Not applicable,Synthetic example; no real student information.
+A00257,S0497,ADV07,2026-09-26,Spring 2025,In person,Course selection,45,1,No,Not applicable,Synthetic example; no real student information.
+A00258,S0213,ADV07,2025-09-10,Spring 2026,Email,Financial aid referral,30,0,No,Not applicable,Synthetic example; no real student information.
+A00259,S0001,ADV04,2025-01-09,Fall 2025,Video,Graduation planning,15,1,No,Not applicable,Synthetic example; no real student information.
+A00260,S0407,ADV04,2024-12-29,Fall 2025,In person,Academic performance,15,1,No,Not applicable,Synthetic example; no real student information.
+A00261,S0372,ADV07,2025-11-11,Spring 2026,Phone,Major exploration,45,0,No,Not applicable,Synthetic example; no real student information.
+A00262,S0049,ADV06,2025-12-18,Spring 2025,Phone,Financial aid referral,30,3,No,Not applicable,Synthetic example; no real student information.
+A00263,S0062,ADV03,2025-05-27,Spring 2025,Video,Career planning,30,0,Yes,No,Synthetic example; no real student information.
+A00264,S0156,ADV05,2025-09-28,Spring 2025,Email,Graduation planning,15,0,No,Not applicable,Synthetic example; no real student information.
+A00265,S0282,ADV03,2025-09-16,Spring 2026,Video,Registration hold,15,4,No,Not applicable,Synthetic example; no real student information.
+A00266,S0300,ADV07,2026-09-27,Fall 2026,Phone,Graduation planning,30,4,No,Not applicable,Synthetic example; no real student information.
+A00267,S0389,ADV08,2025-01-28,Spring 2026,Phone,Academic performance,15,2,No,Not applicable,Synthetic example; no real student information.
+A00268,S0312,ADV06,2024-10-05,Fall 2024,Video,Course selection,60,2,Yes,No,Synthetic example; no real student information.
+A00269,S0033,ADV05,2026-09-05,Fall 2025,Phone,Registration hold,45,3,No,Not applicable,Synthetic example; no real student information.
+A00270,S0247,ADV04,2025-01-11,Fall 2026,In person,Academic performance,30,3,No,Not applicable,Synthetic example; no real student information.
+A00271,S0387,ADV06,2025-04-23,Fall 2025,Email,Registration hold,60,0,Yes,No,Synthetic example; no real student information.
+A00272,S0352,ADV04,2025-12-26,Spring 2025,Phone,Career planning,15,0,No,Not applicable,Synthetic example; no real student information.
+A00273,S0134,ADV08,2026-08-03,Fall 2026,Phone,Financial aid referral,20,0,No,Not applicable,Synthetic example; no real student information.
+A00274,S0069,ADV06,2026-07-25,Fall 2025,Video,Course selection,30,3,Yes,Not applicable,Synthetic example; no real student information.
+A00275,S0223,ADV01,2025-10-29,Fall 2026,Phone,Degree progress,45,0,No,Not applicable,Synthetic example; no real student information.
+A00276,S0031,ADV02,2024-11-30,Fall 2025,Video,Financial aid referral,45,0,No,Not applicable,Synthetic example; no real student information.
+A00277,S0167,ADV07,2024-11-22,Spring 2026,Email,Degree progress,20,0,Yes,Yes,Synthetic example; no real student information.
+A00278,S0249,ADV02,2026-03-04,Fall 2024,Email,Degree progress,60,4,No,Not applicable,Synthetic example; no real student information.
+A00279,S0164,ADV08,2025-10-27,Fall 2024,Email,Career planning,60,4,Yes,Not applicable,Synthetic example; no real student information.
+A00280,S0429,ADV04,2024-08-22,Spring 2025,In person,Academic performance,30,2,No,Not applicable,Synthetic example; no real student information.
+A00281,S0092,ADV01,2026-08-13,Fall 2024,Video,Registration hold,20,0,Yes,Yes,Synthetic example; no real student information.
+A00282,S0491,ADV06,2026-01-16,Fall 2024,Phone,Major exploration,20,1,No,Not applicable,Synthetic example; no real student information.
+A00283,S0148,ADV03,2026-09-17,Fall 2024,Email,Degree progress,30,3,Yes,Yes,Synthetic example; no real student information.
+A00284,S0053,ADV03,2025-07-08,Fall 2024,In person,Degree progress,30,3,Yes,Yes,Synthetic example; no real student information.
+A00285,S0106,ADV03,2026-09-16,Fall 2025,In person,Academic performance,15,2,Yes,Yes,Synthetic example; no real student information.
+A00286,S0445,ADV03,2026-04-13,Fall 2024,Phone,Academic performance,30,1,Yes,Not applicable,Synthetic example; no real student information.
+A00287,S0015,ADV02,2024-11-25,Spring 2025,Phone,Course selection,45,2,No,Not applicable,Synthetic example; no real student information.
+A00288,S0108,ADV03,2025-04-05,Fall 2025,Video,Degree progress,45,3,Yes,Yes,Synthetic example; no real student information.
+A00289,S0408,ADV05,2025-03-27,Fall 2025,Email,Academic performance,60,2,Yes,No,Synthetic example; no real student information.
+A00290,S0065,ADV07,2025-03-29,Fall 2025,Phone,Career planning,45,3,Yes,No,Synthetic example; no real student information.
+A00291,S0407,ADV07,2024-08-25,Spring 2026,Video,Academic performance,30,1,Yes,Not applicable,Synthetic example; no real student information.
+A00292,S0028,ADV08,2026-09-06,Spring 2026,Video,Graduation planning,30,4,Yes,Not applicable,Synthetic example; no real student information.
+A00293,S0327,ADV08,2026-05-22,Spring 2025,Phone,Graduation planning,30,0,Yes,No,Synthetic example; no real student information.
+A00294,S0353,ADV07,2025-02-17,Fall 2025,Phone,Major exploration,45,0,No,Not applicable,Synthetic example; no real student information.
+A00295,S0137,ADV06,2026-01-01,Spring 2025,In person,Major exploration,45,3,No,Not applicable,Synthetic example; no real student information.
+A00296,S0214,ADV06,2025-06-23,Spring 2025,Video,Degree progress,30,4,Yes,Not applicable,Synthetic example; no real student information.
+A00297,S0190,ADV05,2025-01-30,Spring 2026,Email,Career planning,60,2,No,Not applicable,Synthetic example; no real student information.
+A00298,S0342,ADV07,2025-04-15,Spring 2025,Phone,Graduation planning,60,1,Yes,Yes,Synthetic example; no real student information.
+A00299,S0149,ADV03,2025-03-15,Fall 2025,In person,Major exploration,30,3,No,Not applicable,Synthetic example; no real student information.
+A00300,S0042,ADV07,2025-01-27,Spring 2025,Video,Financial aid referral,30,2,No,Not applicable,Synthetic example; no real student information.
+A00301,S0109,ADV06,2026-06-26,Fall 2026,Email,Career planning,20,4,No,Not applicable,Synthetic example; no real student information.
+A00302,S0014,ADV03,2025-10-16,Fall 2025,Email,Degree progress,45,1,No,Not applicable,Synthetic example; no real student information.
+A00303,S0316,ADV06,2026-05-05,Spring 2025,In person,Degree progress,15,3,No,Not applicable,Synthetic example; no real student information.
+A00304,S0460,ADV02,2026-01-29,Fall 2024,Video,Registration hold,15,3,No,Not applicable,Synthetic example; no real student information.
+A00305,S0413,ADV01,2025-03-21,Spring 2026,Video,Financial aid referral,15,0,Yes,No,Synthetic example; no real student information.
+A00306,S0275,ADV01,2026-05-10,Fall 2026,Video,Major exploration,30,2,No,Not applicable,Synthetic example; no real student information.
+A00307,S0294,ADV02,2025-03-20,Fall 2025,Email,Degree progress,20,4,Yes,No,Synthetic example; no real student information.
+A00308,S0401,ADV05,2025-11-15,Spring 2025,Video,Major exploration,30,2,Yes,No,Synthetic example; no real student information.
+A00309,S0385,ADV04,2025-10-09,Fall 2026,In person,Registration hold,30,1,No,Not applicable,Synthetic example; no real student information.
+A00310,S0384,ADV07,2026-04-11,Fall 2026,Phone,Career planning,45,0,Yes,Not applicable,Synthetic example; no real student information.
+A00311,S0057,ADV07,2025-02-21,Fall 2025,Email,Major exploration,15,4,No,Not applicable,Synthetic example; no real student information.
+A00312,S0210,ADV04,2025-11-25,Spring 2025,Phone,Course selection,20,4,No,Not applicable,Synthetic example; no real student information.
+A00313,S0057,ADV02,2024-09-22,Spring 2025,Phone,Degree progress,45,0,No,Not applicable,Synthetic example; no real student information.
+A00314,S0059,ADV05,2025-10-04,Fall 2026,In person,Registration hold,15,1,No,Not applicable,Synthetic example; no real student information.
+A00315,S0116,ADV04,2025-04-14,Spring 2026,Email,Career planning,30,1,No,Not applicable,Synthetic example; no real student information.
+A00316,S0490,ADV02,2026-07-23,Fall 2025,In person,Career planning,45,4,No,Not applicable,Synthetic example; no real student information.
+A00317,S0409,ADV01,2026-07-28,Fall 2024,Email,Career planning,30,4,Yes,Yes,Synthetic example; no real student information.
+A00318,S0020,ADV02,2024-11-03,Fall 2024,Email,Career planning,15,2,No,Not applicable,Synthetic example; no real student information.
+A00319,S0297,ADV01,2026-06-21,Fall 2025,Video,Degree progress,15,1,No,Not applicable,Synthetic example; no real student information.
+A00320,S0272,ADV02,2026-03-18,Spring 2026,In person,Major exploration,60,0,No,Not applicable,Synthetic example; no real student information.
+A00321,S0449,ADV03,2026-05-17,Fall 2024,Video,Course selection,30,4,Yes,Not applicable,Synthetic example; no real student information.
+A00322,S0479,ADV03,2025-07-23,Fall 2024,Video,Career planning,30,1,No,Not applicable,Synthetic example; no real student information.
+A00323,S0039,ADV02,2025-10-29,Spring 2026,In person,Course selection,20,4,No,Not applicable,Synthetic example; no real student information.
+A00324,S0196,ADV08,2024-10-19,Fall 2024,In person,Degree progress,30,0,Yes,Yes,Synthetic example; no real student information.
+A00325,S0449,ADV05,2025-01-05,Fall 2024,Video,Degree progress,30,3,No,Not applicable,Synthetic example; no real student information.
+A00326,S0343,ADV02,2024-08-24,Fall 2025,In person,Academic performance,15,1,No,Not applicable,Synthetic example; no real student information.
+A00327,S0431,ADV05,2026-02-17,Fall 2025,Video,Financial aid referral,30,0,No,Not applicable,Synthetic example; no real student information.
+A00328,S0396,ADV08,2026-05-04,Fall 2026,Phone,Registration hold,30,3,No,Not applicable,Synthetic example; no real student information.
+A00329,S0151,ADV04,2025-11-01,Fall 2026,In person,Registration hold,15,3,No,Not applicable,Synthetic example; no real student information.
+A00330,S0155,ADV07,2026-05-11,Fall 2024,Phone,Degree progress,20,1,No,Not applicable,Synthetic example; no real student information.
+A00331,S0329,ADV01,2025-01-22,Fall 2024,Video,Degree progress,15,2,Yes,Yes,Synthetic example; no real student information.
+A00332,S0170,ADV07,2024-10-11,Spring 2025,Email,Major exploration,15,3,No,Not applicable,Synthetic example; no real student information.
+A00333,S0281,ADV06,2025-05-06,Spring 2025,Email,Graduation planning,60,2,Yes,Yes,Synthetic example; no real student information.
+A00334,S0002,ADV02,2025-01-09,Spring 2026,Phone,Graduation planning,45,4,Yes,No,Synthetic example; no real student information.
+A00335,S0219,ADV04,2025-09-23,Fall 2024,In person,Career planning,30,0,No,Not applicable,Synthetic example; no real student information.
+A00336,S0303,ADV06,2026-05-25,Spring 2026,Video,Graduation planning,30,2,No,Not applicable,Synthetic example; no real student information.
+A00337,S0399,ADV03,2026-01-18,Spring 2026,In person,Career planning,30,1,No,Not applicable,Synthetic example; no real student information.
+A00338,S0200,ADV06,2025-10-07,Spring 2026,Phone,Academic performance,15,2,No,Not applicable,Synthetic example; no real student information.
+A00339,S0196,ADV01,2024-08-28,Fall 2024,Phone,Financial aid referral,60,2,Yes,Yes,Synthetic example; no real student information.
+A00340,S0430,ADV07,2025-04-04,Fall 2026,Email,Course selection,20,2,No,Not applicable,Synthetic example; no real student information.
+A00341,S0021,ADV02,2026-08-07,Fall 2024,In person,Financial aid referral,60,3,No,Not applicable,Synthetic example; no real student information.
+A00342,S0210,ADV02,2026-02-25,Spring 2026,Video,Course selection,45,1,No,Not applicable,Synthetic example; no real student information.
+A00343,S0004,ADV02,2025-12-16,Fall 2024,Phone,Major exploration,60,1,Yes,Yes,Synthetic example; no real student information.
+A00344,S0118,ADV03,2025-01-13,Fall 2025,In person,Academic performance,45,2,Yes,No,Synthetic example; no real student information.
+A00345,S0168,ADV05,2025-01-26,Fall 2024,In person,Registration hold,30,0,No,Not applicable,Synthetic example; no real student information.
+A00346,S0020,ADV02,2026-09-02,Spring 2025,Phone,Career planning,15,0,No,Not applicable,Synthetic example; no real student information.
+A00347,S0480,ADV06,2025-04-29,Spring 2025,Phone,Graduation planning,30,1,No,Not applicable,Synthetic example; no real student information.
+A00348,S0085,ADV01,2026-06-09,Spring 2026,Phone,Academic performance,15,2,No,Not applicable,Synthetic example; no real student information.
+A00349,S0490,ADV08,2026-01-03,Fall 2026,Video,Course selection,15,1,No,Not applicable,Synthetic example; no real student information.
+A00350,S0475,ADV01,2026-02-24,Fall 2025,In person,Course selection,45,2,No,Not applicable,Synthetic example; no real student information.
+A00351,S0466,ADV02,2026-08-19,Fall 2026,Phone,Graduation planning,20,4,Yes,Yes,Synthetic example; no real student information.
+A00352,S0477,ADV07,2026-06-22,Spring 2026,Phone,Career planning,60,1,Yes,Not applicable,Synthetic example; no real student information.
+A00353,S0019,ADV04,2025-02-15,Fall 2024,Email,Degree progress,20,2,No,Not applicable,Synthetic example; no real student information.
+A00354,S0255,ADV04,2026-03-15,Spring 2026,In person,Course selection,60,1,No,Not applicable,Synthetic example; no real student information.
+A00355,S0050,ADV04,2025-04-04,Spring 2026,In person,Financial aid referral,30,2,Yes,Not applicable,Synthetic example; no real student information.
+A00356,S0166,ADV05,2025-08-07,Fall 2024,Phone,Financial aid referral,20,4,No,Not applicable,Synthetic example; no real student information.
+A00357,S0459,ADV07,2026-09-13,Fall 2026,In person,Course selection,60,2,No,Not applicable,Synthetic example; no real student information.
+A00358,S0184,ADV02,2025-01-23,Fall 2024,Email,Major exploration,30,3,Yes,No,Synthetic example; no real student information.
+A00359,S0124,ADV06,2025-04-16,Spring 2026,In person,Financial aid referral,15,3,No,Not applicable,Synthetic example; no real student information.
+A00360,S0163,ADV04,2025-01-14,Spring 2026,In person,Financial aid referral,30,4,No,Not applicable,Synthetic example; no real student information.
+A00361,S0461,ADV04,2026-03-08,Fall 2024,Phone,Course selection,20,3,Yes,Not applicable,Synthetic example; no real student information.
+A00362,S0205,ADV07,2026-05-12,Fall 2025,Phone,Academic performance,30,3,No,Not applicable,Synthetic example; no real student information.
+A00363,S0397,ADV01,2026-01-12,Fall 2026,Phone,Academic performance,60,1,Yes,Yes,Synthetic example; no real student information.
+A00364,S0381,ADV05,2025-01-11,Fall 2026,In person,Career planning,15,2,Yes,Yes,Synthetic example; no real student information.
+A00365,S0233,ADV06,2026-08-16,Fall 2025,Video,Academic performance,30,4,Yes,Yes,Synthetic example; no real student information.
+A00366,S0168,ADV05,2026-02-18,Fall 2026,In person,Graduation planning,30,1,Yes,No,Synthetic example; no real student information.
+A00367,S0289,ADV03,2025-09-11,Fall 2025,Email,Course selection,15,1,Yes,Yes,Synthetic example; no real student information.
+A00368,S0114,ADV06,2026-06-23,Fall 2026,Phone,Academic performance,30,1,No,Not applicable,Synthetic example; no real student information.
+A00369,S0477,ADV03,2025-04-04,Fall 2026,Email,Degree progress,20,0,Yes,No,Synthetic example; no real student information.
+A00370,S0011,ADV02,2025-01-10,Spring 2026,Video,Major exploration,15,3,No,Not applicable,Synthetic example; no real student information.
+A00371,S0152,ADV01,2025-01-27,Fall 2025,In person,Academic performance,30,3,No,Not applicable,Synthetic example; no real student information.
+A00372,S0278,ADV04,2025-02-17,Fall 2026,Video,Degree progress,30,3,No,Not applicable,Synthetic example; no real student information.
+A00373,S0310,ADV01,2025-03-22,Spring 2026,Video,Financial aid referral,20,2,No,Not applicable,Synthetic example; no real student information.
+A00374,S0385,ADV04,2024-09-22,Fall 2026,Video,Registration hold,45,0,Yes,No,Synthetic example; no real student information.
+A00375,S0273,ADV01,2025-08-21,Spring 2026,In person,Course selection,60,4,Yes,Yes,Synthetic example; no real student information.
+A00376,S0055,ADV04,2026-04-02,Fall 2025,Video,Registration hold,30,4,No,Not applicable,Synthetic example; no real student information.
+A00377,S0250,ADV01,2024-11-14,Spring 2025,Phone,Course selection,30,0,Yes,No,Synthetic example; no real student information.
+A00378,S0075,ADV05,2025-02-24,Spring 2026,In person,Graduation planning,45,2,No,Not applicable,Synthetic example; no real student information.
+A00379,S0182,ADV08,2026-04-26,Fall 2026,Video,Career planning,20,0,Yes,No,Synthetic example; no real student information.
+A00380,S0407,ADV04,2025-08-07,Fall 2024,Email,Registration hold,60,3,Yes,No,Synthetic example; no real student information.
+A00381,S0470,ADV07,2026-02-18,Fall 2025,Email,Degree progress,60,2,Yes,Yes,Synthetic example; no real student information.
+A00382,S0228,ADV06,2024-09-02,Spring 2025,In person,Degree progress,15,3,No,Not applicable,Synthetic example; no real student information.
+A00383,S0499,ADV07,2026-01-12,Fall 2025,In person,Major exploration,30,1,No,Not applicable,Synthetic example; no real student information.
+A00384,S0338,ADV01,2025-12-15,Fall 2026,Video,Major exploration,45,0,Yes,Not applicable,Synthetic example; no real student information.
+A00385,S0332,ADV07,2025-07-14,Fall 2024,In person,Financial aid referral,20,1,No,Not applicable,Synthetic example; no real student information.
+A00386,S0126,ADV08,2024-10-29,Fall 2024,Email,Degree progress,60,3,No,Not applicable,Synthetic example; no real student information.
+A00387,S0324,ADV03,2025-10-31,Spring 2025,Video,Registration hold,60,3,Yes,Yes,Synthetic example; no real student information.
+A00388,S0277,ADV03,2025-08-19,Spring 2026,Phone,Academic performance,60,4,Yes,No,Synthetic example; no real student information.
+A00389,S0213,ADV05,2025-04-02,Spring 2025,Phone,Financial aid referral,20,0,Yes,Yes,Synthetic example; no real student information.
+A00390,S0015,ADV06,2026-09-23,Spring 2025,Video,Registration hold,20,0,No,Not applicable,Synthetic example; no real student information.
+A00391,S0107,ADV07,2025-01-13,Spring 2026,Video,Career planning,20,3,No,Not applicable,Synthetic example; no real student information.
+A00392,S0387,ADV04,2026-02-19,Spring 2026,Email,Career planning,30,4,Yes,Yes,Synthetic example; no real student information.
+A00393,S0452,ADV03,2025-08-04,Fall 2024,In person,Registration hold,15,2,No,Not applicable,Synthetic example; no real student information.
+A00394,S0342,ADV03,2024-09-20,Spring 2026,Email,Major exploration,30,1,No,Not applicable,Synthetic example; no real student information.
+A00395,S0221,ADV06,2025-11-18,Fall 2024,Video,Registration hold,30,1,No,Not applicable,Synthetic example; no real student information.
+A00396,S0144,ADV04,2025-07-09,Spring 2026,Phone,Graduation planning,60,3,Yes,No,Synthetic example; no real student information.
+A00397,S0477,ADV07,2026-09-28,Fall 2025,Email,Major exploration,45,2,No,Not applicable,Synthetic example; no real student information.
+A00398,S0302,ADV05,2025-10-30,Fall 2025,In person,Academic performance,15,2,Yes,No,Synthetic example; no real student information.
+A00399,S0321,ADV07,2025-01-08,Fall 2026,Video,Graduation planning,45,3,Yes,No,Synthetic example; no real student information.
+A00400,S0197,ADV03,2026-02-17,Fall 2024,Email,Graduation planning,20,3,No,Not applicable,Synthetic example; no real student information.
+A00401,S0449,ADV04,2025-10-21,Fall 2025,In person,Financial aid referral,45,3,Yes,Not applicable,Synthetic example; no real student information.
+A00402,S0399,ADV05,2025-03-28,Spring 2025,In person,Career planning,20,4,No,Not applicable,Synthetic example; no real student information.
+A00403,S0057,ADV06,2025-06-24,Fall 2024,Video,Major exploration,20,1,No,Not applicable,Synthetic example; no real student information.
+A00404,S0150,ADV01,2026-01-07,Fall 2025,Phone,Financial aid referral,30,4,No,Not applicable,Synthetic example; no real student information.
+A00405,S0238,ADV05,2025-01-07,Fall 2024,Email,Graduation planning,15,1,Yes,Yes,Synthetic example; no real student information.
+A00406,S0333,ADV08,2026-05-07,Fall 2026,Video,Academic performance,20,1,Yes,No,Synthetic example; no real student information.
+A00407,S0331,ADV05,2026-09-07,Fall 2025,In person,Academic performance,60,3,No,Not applicable,Synthetic example; no real student information.
+A00408,S0250,ADV04,2025-10-03,Spring 2026,Video,Financial aid referral,60,1,Yes,Not applicable,Synthetic example; no real student information.
+A00409,S0219,ADV03,2025-03-13,Spring 2025,In person,Course selection,15,4,Yes,No,Synthetic example; no real student information.
+A00410,S0258,ADV05,2025-05-21,Fall 2026,Video,Academic performance,20,1,No,Not applicable,Synthetic example; no real student information.
+A00411,S0217,ADV03,2025-11-25,Fall 2026,Email,Major exploration,30,0,Yes,Not applicable,Synthetic example; no real student information.
+A00412,S0106,ADV05,2025-09-14,Fall 2026,Phone,Course selection,30,4,No,Not applicable,Synthetic example; no real student information.
+A00413,S0069,ADV05,2024-09-13,Fall 2026,In person,Graduation planning,15,1,No,Not applicable,Synthetic example; no real student information.
+A00414,S0075,ADV02,2025-05-14,Fall 2026,Video,Graduation planning,30,0,No,Not applicable,Synthetic example; no real student information.
+A00415,S0423,ADV06,2026-06-19,Fall 2025,Email,Course selection,15,3,Yes,No,Synthetic example; no real student information.
+A00416,S0403,ADV01,2026-02-14,Spring 2025,In person,Course selection,30,2,No,Not applicable,Synthetic example; no real student information.
+A00417,S0327,ADV05,2024-10-28,Spring 2025,In person,Course selection,30,3,Yes,No,Synthetic example; no real student information.
+A00418,S0458,ADV04,2026-01-23,Fall 2025,Video,Graduation planning,45,0,Yes,No,Synthetic example; no real student information.
+A00419,S0264,ADV08,2026-06-12,Fall 2025,Phone,Registration hold,45,0,No,Not applicable,Synthetic example; no real student information.
+A00420,S0101,ADV07,2024-10-02,Fall 2026,Phone,Course selection,30,2,Yes,No,Synthetic example; no real student information.
+A00421,S0057,ADV01,2025-12-31,Fall 2024,In person,Financial aid referral,20,3,No,Not applicable,Synthetic example; no real student information.
+A00422,S0405,ADV04,2026-06-23,Spring 2026,In person,Degree progress,30,0,No,Not applicable,Synthetic example; no real student information.
+A00423,S0055,ADV07,2025-08-29,Fall 2024,In person,Major exploration,45,4,No,Not applicable,Synthetic example; no real student information.
+A00424,S0241,ADV04,2025-09-18,Spring 2025,Video,Financial aid referral,30,0,No,Not applicable,Synthetic example; no real student information.
+A00425,S0244,ADV06,2024-10-01,Fall 2026,Video,Graduation planning,30,1,No,Not applicable,Synthetic example; no real student information.
+A00426,S0131,ADV07,2025-08-20,Fall 2025,Email,Degree progress,60,1,No,Not applicable,Synthetic example; no real student information.
+A00427,S0280,ADV04,2025-09-02,Spring 2025,Video,Registration hold,30,1,No,Not applicable,Synthetic example; no real student information.
+A00428,S0199,ADV08,2025-10-03,Fall 2025,In person,Academic performance,15,2,Yes,Not applicable,Synthetic example; no real student information.
+A00429,S0417,ADV08,2025-05-21,Fall 2026,Video,Major exploration,15,1,No,Not applicable,Synthetic example; no real student information.
+A00430,S0004,ADV08,2025-01-22,Spring 2025,Email,Graduation planning,30,3,Yes,Not applicable,Synthetic example; no real student information.
+A00431,S0287,ADV02,2026-06-13,Fall 2025,In person,Registration hold,20,2,Yes,Yes,Synthetic example; no real student information.
+A00432,S0448,ADV07,2026-02-01,Fall 2024,Video,Graduation planning,15,4,No,Not applicable,Synthetic example; no real student information.
+A00433,S0240,ADV08,2025-03-03,Spring 2025,In person,Course selection,60,3,No,Not applicable,Synthetic example; no real student information.
+A00434,S0392,ADV08,2025-04-06,Spring 2026,Email,Academic performance,60,0,No,Not applicable,Synthetic example; no real student information.
+A00435,S0062,ADV03,2026-10-07,Spring 2026,Email,Career planning,20,0,Yes,Not applicable,Synthetic example; no real student information.
+A00436,S0032,ADV03,2024-08-28,Fall 2024,In person,Financial aid referral,20,2,No,Not applicable,Synthetic example; no real student information.
+A00437,S0073,ADV08,2025-03-06,Spring 2025,In person,Career planning,30,3,No,Not applicable,Synthetic example; no real student information.
+A00438,S0435,ADV02,2026-07-29,Fall 2026,Email,Financial aid referral,15,4,No,Not applicable,Synthetic example; no real student information.
+A00439,S0299,ADV06,2026-05-28,Fall 2026,Email,Financial aid referral,30,3,Yes,No,Synthetic example; no real student information.
+A00440,S0395,ADV07,2025-11-29,Fall 2026,Video,Major exploration,20,2,Yes,No,Synthetic example; no real student information.
+A00441,S0009,ADV05,2024-09-06,Spring 2025,Email,Graduation planning,60,2,Yes,Yes,Synthetic example; no real student information.
+A00442,S0400,ADV03,2025-12-02,Spring 2025,In person,Registration hold,45,0,No,Not applicable,Synthetic example; no real student information.
+A00443,S0390,ADV01,2025-05-11,Spring 2026,In person,Registration hold,30,2,No,Not applicable,Synthetic example; no real student information.
+A00444,S0245,ADV02,2026-07-08,Fall 2025,Email,Registration hold,60,4,No,Not applicable,Synthetic example; no real student information.
+A00445,S0059,ADV02,2024-11-12,Fall 2024,In person,Graduation planning,30,1,Yes,No,Synthetic example; no real student information.
+A00446,S0005,ADV06,2024-09-20,Fall 2026,Video,Course selection,60,2,Yes,No,Synthetic example; no real student information.
+A00447,S0466,ADV04,2025-07-30,Spring 2025,Phone,Financial aid referral,30,4,No,Not applicable,Synthetic example; no real student information.
+A00448,S0257,ADV02,2026-08-20,Fall 2026,Video,Registration hold,15,2,No,Not applicable,Synthetic example; no real student information.
+A00449,S0293,ADV05,2025-10-06,Spring 2026,Video,Financial aid referral,60,4,No,Not applicable,Synthetic example; no real student information.
+A00450,S0474,ADV04,2025-10-17,Spring 2025,In person,Major exploration,20,0,No,Not applicable,Synthetic example; no real student information.
+A00451,S0483,ADV07,2026-01-08,Spring 2026,Phone,Academic performance,20,4,No,Not applicable,Synthetic example; no real student information.
+A00452,S0073,ADV05,2025-07-03,Fall 2026,Video,Major exploration,60,3,No,Not applicable,Synthetic example; no real student information.
+A00453,S0343,ADV01,2024-12-29,Spring 2025,In person,Career planning,45,3,Yes,Not applicable,Synthetic example; no real student information.
+A00454,S0026,ADV07,2024-11-16,Fall 2024,Phone,Career planning,15,4,No,Not applicable,Synthetic example; no real student information.
+A00455,S0013,ADV03,2026-03-15,Spring 2026,In person,Graduation planning,30,1,Yes,Not applicable,Synthetic example; no real student information.
+A00456,S0030,ADV06,2026-06-11,Spring 2026,Video,Registration hold,30,4,No,Not applicable,Synthetic example; no real student information.
+A00457,S0365,ADV02,2026-10-09,Fall 2024,In person,Registration hold,60,0,No,Not applicable,Synthetic example; no real student information.
+A00458,S0302,ADV08,2024-10-12,Fall 2026,In person,Registration hold,60,0,Yes,No,Synthetic example; no real student information.
+A00459,S0438,ADV04,2026-02-15,Fall 2025,Phone,Course selection,15,2,Yes,Not applicable,Synthetic example; no real student information.
+A00460,S0451,ADV01,2026-04-26,Fall 2026,Video,Academic performance,15,2,No,Not applicable,Synthetic example; no real student information.
+A00461,S0362,ADV02,2025-04-02,Spring 2025,Email,Financial aid referral,30,1,No,Not applicable,Synthetic example; no real student information.
+A00462,S0274,ADV02,2026-06-09,Spring 2025,Video,Course selection,60,3,No,Not applicable,Synthetic example; no real student information.
+A00463,S0267,ADV05,2024-10-27,Spring 2026,Phone,Graduation planning,30,0,No,Not applicable,Synthetic example; no real student information.
+A00464,S0447,ADV02,2025-08-10,Fall 2024,Phone,Registration hold,60,4,Yes,Yes,Synthetic example; no real student information.
+A00465,S0346,ADV07,2026-09-18,Spring 2026,Video,Registration hold,45,3,Yes,Not applicable,Synthetic example; no real student information.
+A00466,S0258,ADV02,2025-06-13,Fall 2025,Video,Academic performance,60,3,Yes,Not applicable,Synthetic example; no real student information.
+A00467,S0120,ADV06,2025-12-18,Fall 2024,In person,Major exploration,30,3,No,Not applicable,Synthetic example; no real student information.
+A00468,S0219,ADV08,2025-12-23,Spring 2026,Video,Degree progress,60,4,No,Not applicable,Synthetic example; no real student information.
+A00469,S0278,ADV07,2025-03-29,Fall 2026,Phone,Major exploration,15,0,No,Not applicable,Synthetic example; no real student information.
+A00470,S0374,ADV03,2026-06-21,Spring 2026,Email,Major exploration,20,4,No,Not applicable,Synthetic example; no real student information.
+A00471,S0082,ADV08,2025-02-24,Fall 2026,In person,Major exploration,45,1,No,Not applicable,Synthetic example; no real student information.
+A00472,S0230,ADV07,2026-06-10,Fall 2025,Video,Major exploration,20,4,Yes,Not applicable,Synthetic example; no real student information.
+A00473,S0309,ADV04,2026-07-13,Fall 2025,In person,Course selection,20,2,No,Not applicable,Synthetic example; no real student information.
+A00474,S0175,ADV03,2026-05-19,Spring 2026,Phone,Financial aid referral,45,3,No,Not applicable,Synthetic example; no real student information.
+A00475,S0195,ADV04,2025-06-19,Fall 2026,Phone,Course selection,60,4,No,Not applicable,Synthetic example; no real student information.
+A00476,S0013,ADV05,2025-07-10,Fall 2024,Email,Course selection,15,3,No,Not applicable,Synthetic example; no real student information.
+A00477,S0169,ADV03,2025-12-27,Fall 2026,Phone,Registration hold,30,2,No,Not applicable,Synthetic example; no real student information.
+A00478,S0411,ADV02,2024-11-23,Fall 2025,Email,Financial aid referral,15,0,Yes,Not applicable,Synthetic example; no real student information.
+A00479,S0185,ADV03,2024-10-03,Fall 2025,Phone,Course selection,45,1,No,Not applicable,Synthetic example; no real student information.
+A00480,S0268,ADV08,2025-11-20,Fall 2024,Video,Financial aid referral,60,0,Yes,Yes,Synthetic example; no real student information.
+A00481,S0302,ADV03,2025-03-08,Fall 2025,In person,Course selection,15,4,Yes,No,Synthetic example; no real student information.
+A00482,S0428,ADV03,2026-05-22,Fall 2026,In person,Course selection,30,4,No,Not applicable,Synthetic example; no real student information.
+A00483,S0177,ADV04,2025-01-19,Spring 2026,Video,Academic performance,15,4,Yes,Yes,Synthetic example; no real student information.
+A00484,S0197,ADV08,2025-02-08,Spring 2025,In person,Course selection,20,2,Yes,Yes,Synthetic example; no real student information.
+A00485,S0464,ADV08,2025-09-18,Fall 2025,Video,Major exploration,30,2,Yes,Yes,Synthetic example; no real student information.
+A00486,S0358,ADV02,2025-07-20,Fall 2025,Phone,Financial aid referral,30,4,No,Not applicable,Synthetic example; no real student information.
+A00487,S0189,ADV07,2025-10-11,Fall 2026,Email,Financial aid referral,20,2,Yes,Not applicable,Synthetic example; no real student information.
+A00488,S0156,ADV06,2025-05-06,Fall 2024,Phone,Graduation planning,30,3,Yes,Not applicable,Synthetic example; no real student information.
+A00489,S0500,ADV04,2026-02-20,Fall 2025,Video,Major exploration,30,4,No,Not applicable,Synthetic example; no real student information.
+A00490,S0380,ADV07,2025-04-11,Spring 2025,Email,Graduation planning,30,1,No,Not applicable,Synthetic example; no real student information.
+A00491,S0223,ADV04,2025-09-25,Spring 2025,In person,Career planning,60,3,No,Not applicable,Synthetic example; no real student information.
+A00492,S0243,ADV05,2025-08-28,Spring 2025,Video,Financial aid referral,60,3,Yes,Not applicable,Synthetic example; no real student information.
+A00493,S0288,ADV07,2025-03-31,Fall 2026,Phone,Career planning,45,0,Yes,No,Synthetic example; no real student information.
+A00494,S0013,ADV01,2026-08-31,Fall 2025,In person,Career planning,45,1,Yes,Not applicable,Synthetic example; no real student information.
+A00495,S0138,ADV01,2025-10-04,Fall 2024,Email,Financial aid referral,20,2,Yes,Yes,Synthetic example; no real student information.
+A00496,S0470,ADV08,2026-10-05,Spring 2026,Video,Registration hold,60,3,No,Not applicable,Synthetic example; no real student information.
+A00497,S0465,ADV06,2025-01-12,Fall 2024,Video,Graduation planning,45,0,Yes,Yes,Synthetic example; no real student information.
+A00498,S0216,ADV06,2025-01-08,Fall 2024,Phone,Graduation planning,15,1,No,Not applicable,Synthetic example; no real student information.
+A00499,S0353,ADV06,2026-08-03,Fall 2024,Video,Course selection,45,0,Yes,No,Synthetic example; no real student information.
+A00500,S0108,ADV03,2025-08-06,Spring 2026,Phone,Registration hold,60,1,No,Not applicable,Synthetic example; no real student information.
+A00501,S0423,ADV06,2025-04-06,Spring 2025,In person,Financial aid referral,60,0,No,Not applicable,Synthetic example; no real student information.
+A00502,S0058,ADV01,2025-01-12,Fall 2025,Video,Registration hold,30,2,No,Not applicable,Synthetic example; no real student information.
+A00503,S0095,ADV07,2025-12-04,Spring 2026,Video,Career planning,60,2,Yes,Yes,Synthetic example; no real student information.
+A00504,S0355,ADV04,2024-10-11,Fall 2026,Phone,Graduation planning,30,2,No,Not applicable,Synthetic example; no real student information.
+A00505,S0176,ADV07,2024-11-10,Fall 2024,In person,Career planning,45,1,No,Not applicable,Synthetic example; no real student information.
+A00506,S0166,ADV05,2024-11-24,Fall 2025,Phone,Degree progress,30,1,No,Not applicable,Synthetic example; no real student information.
+A00507,S0353,ADV07,2025-11-27,Spring 2025,Email,Course selection,20,4,No,Not applicable,Synthetic example; no real student information.
+A00508,S0433,ADV04,2024-12-08,Spring 2026,Phone,Major exploration,30,0,No,Not applicable,Synthetic example; no real student information.
+A00509,S0432,ADV08,2025-01-10,Fall 2025,Email,Degree progress,60,1,No,Not applicable,Synthetic example; no real student information.
+A00510,S0390,ADV03,2025-10-29,Spring 2026,In person,Career planning,45,2,No,Not applicable,Synthetic example; no real student information.
+A00511,S0270,ADV01,2024-12-19,Fall 2026,In person,Financial aid referral,30,4,No,Not applicable,Synthetic example; no real student information.
+A00512,S0120,ADV04,2024-11-13,Fall 2026,Phone,Major exploration,15,3,Yes,Not applicable,Synthetic example; no real student information.
+A00513,S0253,ADV06,2024-10-19,Fall 2026,Video,Career planning,20,3,Yes,No,Synthetic example; no real student information.
+A00514,S0117,ADV04,2026-07-13,Fall 2025,Video,Degree progress,45,4,No,Not applicable,Synthetic example; no real student information.
+A00515,S0272,ADV02,2024-09-28,Fall 2025,Video,Career planning,15,1,No,Not applicable,Synthetic example; no real student information.
+A00516,S0190,ADV06,2026-05-04,Fall 2024,Video,Registration hold,45,1,No,Not applicable,Synthetic example; no real student information.
+A00517,S0403,ADV05,2026-08-29,Spring 2025,Email,Registration hold,30,2,Yes,No,Synthetic example; no real student information.
+A00518,S0194,ADV02,2025-12-10,Fall 2024,Phone,Academic performance,30,4,No,Not applicable,Synthetic example; no real student information.
+A00519,S0013,ADV04,2026-09-25,Fall 2024,Video,Career planning,60,2,No,Not applicable,Synthetic example; no real student information.
+A00520,S0128,ADV02,2025-11-09,Fall 2024,Video,Graduation planning,60,4,Yes,No,Synthetic example; no real student information.
+A00521,S0248,ADV07,2024-12-19,Spring 2025,In person,Degree progress,60,3,Yes,Not applicable,Synthetic example; no real student information.
+A00522,S0065,ADV08,2025-09-23,Spring 2025,Video,Graduation planning,45,0,No,Not applicable,Synthetic example; no real student information.
+A00523,S0432,ADV02,2025-10-31,Fall 2024,Email,Academic performance,20,4,No,Not applicable,Synthetic example; no real student information.
+A00524,S0080,ADV04,2025-01-27,Spring 2026,In person,Degree progress,30,3,No,Not applicable,Synthetic example; no real student information.
+A00525,S0112,ADV08,2026-07-16,Fall 2024,In person,Financial aid referral,30,1,No,Not applicable,Synthetic example; no real student information.
+A00526,S0290,ADV08,2026-01-28,Fall 2025,Phone,Financial aid referral,45,4,No,Not applicable,Synthetic example; no real student information.
+A00527,S0431,ADV04,2026-09-05,Fall 2024,Phone,Degree progress,30,2,No,Not applicable,Synthetic example; no real student information.
+A00528,S0027,ADV07,2024-08-30,Fall 2026,Video,Academic performance,45,3,Yes,Not applicable,Synthetic example; no real student information.
+A00529,S0314,ADV05,2024-09-24,Fall 2025,In person,Registration hold,20,4,No,Not applicable,Synthetic example; no real student information.
+A00530,S0162,ADV07,2026-01-17,Fall 2024,Video,Major exploration,60,0,No,Not applicable,Synthetic example; no real student information.
+A00531,S0140,ADV08,2024-08-28,Fall 2025,Phone,Registration hold,60,0,Yes,Not applicable,Synthetic example; no real student information.
+A00532,S0365,ADV07,2026-08-30,Fall 2026,In person,Academic performance,15,0,Yes,Yes,Synthetic example; no real student information.
+A00533,S0426,ADV02,2026-03-05,Fall 2024,Phone,Academic performance,15,1,No,Not applicable,Synthetic example; no real student information.
+A00534,S0126,ADV05,2025-06-03,Spring 2025,Video,Major exploration,15,0,Yes,Yes,Synthetic example; no real student information.
+A00535,S0275,ADV04,2026-06-24,Spring 2025,In person,Academic performance,45,1,No,Not applicable,Synthetic example; no real student information.
+A00536,S0351,ADV07,2026-09-07,Fall 2026,In person,Degree progress,60,3,No,Not applicable,Synthetic example; no real student information.
+A00537,S0114,ADV02,2025-10-19,Spring 2026,Video,Course selection,60,3,Yes,Not applicable,Synthetic example; no real student information.
+A00538,S0007,ADV07,2025-12-10,Spring 2026,Video,Career planning,15,0,No,Not applicable,Synthetic example; no real student information.
+A00539,S0012,ADV02,2025-08-17,Fall 2024,Email,Academic performance,15,3,Yes,Yes,Synthetic example; no real student information.
+A00540,S0223,ADV01,2025-04-24,Fall 2026,Phone,Career planning,15,1,No,Not applicable,Synthetic example; no real student information.
+A00541,S0111,ADV02,2025-12-02,Fall 2024,In person,Course selection,45,2,No,Not applicable,Synthetic example; no real student information.
+A00542,S0409,ADV06,2026-06-09,Spring 2026,Email,Career planning,20,4,No,Not applicable,Synthetic example; no real student information.
+A00543,S0203,ADV02,2025-08-07,Fall 2026,Video,Graduation planning,30,3,No,Not applicable,Synthetic example; no real student information.
+A00544,S0256,ADV02,2024-11-08,Fall 2026,Email,Registration hold,20,3,No,Not applicable,Synthetic example; no real student information.
+A00545,S0124,ADV03,2026-04-10,Spring 2026,Email,Graduation planning,30,4,No,Not applicable,Synthetic example; no real student information.
+A00546,S0113,ADV04,2024-09-14,Spring 2026,In person,Graduation planning,20,4,No,Not applicable,Synthetic example; no real student information.
+A00547,S0434,ADV01,2026-02-08,Spring 2025,Video,Financial aid referral,20,2,No,Not applicable,Synthetic example; no real student information.
+A00548,S0342,ADV07,2025-09-13,Spring 2026,Video,Degree progress,30,3,Yes,Yes,Synthetic example; no real student information.
+A00549,S0373,ADV02,2025-03-31,Fall 2024,Email,Course selection,30,0,Yes,Not applicable,Synthetic example; no real student information.
+A00550,S0153,ADV05,2025-02-14,Fall 2026,Video,Degree progress,15,4,No,Not applicable,Synthetic example; no real student information.
+A00551,S0204,ADV07,2026-02-15,Fall 2025,Email,Major exploration,15,2,Yes,No,Synthetic example; no real student information.
+A00552,S0161,ADV08,2025-09-10,Fall 2024,Video,Major exploration,30,4,No,Not applicable,Synthetic example; no real student information.
+A00553,S0287,ADV04,2025-04-13,Spring 2026,Video,Course selection,30,1,Yes,Not applicable,Synthetic example; no real student information.
+A00554,S0432,ADV03,2024-11-08,Spring 2025,In person,Graduation planning,60,1,No,Not applicable,Synthetic example; no real student information.
+A00555,S0248,ADV04,2024-10-18,Fall 2025,In person,Major exploration,15,2,Yes,Yes,Synthetic example; no real student information.
+A00556,S0194,ADV02,2026-09-19,Fall 2026,Email,Academic performance,20,1,No,Not applicable,Synthetic example; no real student information.
+A00557,S0263,ADV04,2025-01-27,Fall 2024,In person,Career planning,45,0,No,Not applicable,Synthetic example; no real student information.
+A00558,S0229,ADV08,2026-08-03,Fall 2025,Email,Major exploration,45,4,No,Not applicable,Synthetic example; no real student information.
+A00559,S0374,ADV08,2026-09-03,Fall 2025,Email,Career planning,45,4,No,Not applicable,Synthetic example; no real student information.
+A00560,S0030,ADV03,2025-07-09,Fall 2024,Email,Academic performance,15,0,No,Not applicable,Synthetic example; no real student information.
+A00561,S0143,ADV07,2026-03-02,Fall 2025,In person,Major exploration,45,4,No,Not applicable,Synthetic example; no real student information.
+A00562,S0274,ADV01,2026-06-29,Spring 2026,In person,Degree progress,30,1,No,Not applicable,Synthetic example; no real student information.
+A00563,S0324,ADV04,2026-07-22,Fall 2024,Email,Graduation planning,20,0,No,Not applicable,Synthetic example; no real student information.
+A00564,S0087,ADV06,2026-04-22,Fall 2025,Email,Financial aid referral,20,3,No,Not applicable,Synthetic example; no real student information.
+A00565,S0053,ADV04,2025-10-22,Spring 2026,In person,Career planning,15,4,No,Not applicable,Synthetic example; no real student information.
+A00566,S0430,ADV03,2025-03-24,Fall 2024,In person,Course selection,20,0,No,Not applicable,Synthetic example; no real student information.
+A00567,S0256,ADV06,2024-11-06,Spring 2025,Video,Major exploration,15,3,No,Not applicable,Synthetic example; no real student information.
+A00568,S0114,ADV02,2026-07-28,Spring 2025,In person,Registration hold,30,4,No,Not applicable,Synthetic example; no real student information.
+A00569,S0441,ADV01,2026-02-10,Fall 2024,Phone,Graduation planning,60,4,Yes,Yes,Synthetic example; no real student information.
+A00570,S0125,ADV05,2025-12-20,Fall 2025,Phone,Academic performance,45,1,No,Not applicable,Synthetic example; no real student information.
+A00571,S0175,ADV04,2026-08-01,Fall 2026,In person,Major exploration,20,3,No,Not applicable,Synthetic example; no real student information.
+A00572,S0436,ADV03,2025-06-01,Spring 2025,Phone,Registration hold,30,0,No,Not applicable,Synthetic example; no real student information.
+A00573,S0225,ADV03,2025-05-25,Fall 2025,In person,Degree progress,60,2,No,Not applicable,Synthetic example; no real student information.
+A00574,S0427,ADV02,2026-01-07,Spring 2025,Video,Major exploration,30,0,No,Not applicable,Synthetic example; no real student information.
+A00575,S0063,ADV05,2026-08-02,Fall 2025,Phone,Major exploration,15,1,Yes,Not applicable,Synthetic example; no real student information.
+A00576,S0396,ADV02,2026-03-11,Fall 2025,Email,Career planning,20,0,Yes,Not applicable,Synthetic example; no real student information.
+A00577,S0125,ADV06,2024-08-28,Fall 2026,In person,Financial aid referral,60,4,No,Not applicable,Synthetic example; no real student information.
+A00578,S0220,ADV08,2026-08-02,Spring 2025,Phone,Career planning,60,0,No,Not applicable,Synthetic example; no real student information.
+A00579,S0288,ADV08,2026-09-26,Spring 2026,Video,Academic performance,30,0,No,Not applicable,Synthetic example; no real student information.
+A00580,S0215,ADV04,2025-10-04,Spring 2025,Email,Degree progress,20,3,Yes,No,Synthetic example; no real student information.
+A00581,S0015,ADV04,2025-12-22,Fall 2025,In person,Academic performance,60,1,Yes,No,Synthetic example; no real student information.
+A00582,S0068,ADV05,2026-06-17,Fall 2024,Video,Academic performance,15,3,No,Not applicable,Synthetic example; no real student information.
+A00583,S0345,ADV07,2025-04-28,Fall 2025,Phone,Academic performance,15,0,No,Not applicable,Synthetic example; no real student information.
+A00584,S0457,ADV05,2026-02-28,Fall 2025,Phone,Degree progress,20,2,No,Not applicable,Synthetic example; no real student information.
+A00585,S0390,ADV01,2026-03-09,Spring 2025,Phone,Career planning,20,2,Yes,Yes,Synthetic example; no real student information.
+A00586,S0358,ADV06,2026-04-27,Fall 2024,In person,Career planning,60,4,No,Not applicable,Synthetic example; no real student information.
+A00587,S0219,ADV07,2026-06-24,Fall 2025,In person,Degree progress,45,4,No,Not applicable,Synthetic example; no real student information.
+A00588,S0146,ADV04,2024-12-03,Fall 2026,In person,Career planning,20,3,No,Not applicable,Synthetic example; no real student information.
+A00589,S0020,ADV03,2025-07-13,Fall 2025,Phone,Career planning,15,4,No,Not applicable,Synthetic example; no real student information.
+A00590,S0029,ADV02,2026-01-22,Fall 2024,In person,Academic performance,60,1,No,Not applicable,Synthetic example; no real student information.
+A00591,S0163,ADV03,2025-09-16,Fall 2026,Video,Graduation planning,15,1,No,Not applicable,Synthetic example; no real student information.
+A00592,S0124,ADV07,2025-12-24,Fall 2026,Email,Major exploration,45,1,No,Not applicable,Synthetic example; no real student information.
+A00593,S0397,ADV07,2025-02-07,Fall 2024,Phone,Graduation planning,15,0,Yes,Not applicable,Synthetic example; no real student information.
+A00594,S0422,ADV01,2026-02-25,Fall 2026,Video,Registration hold,30,1,No,Not applicable,Synthetic example; no real student information.
+A00595,S0144,ADV07,2026-06-20,Spring 2026,Video,Academic performance,45,1,Yes,No,Synthetic example; no real student information.
+A00596,S0210,ADV04,2025-03-03,Spring 2025,Phone,Registration hold,20,3,No,Not applicable,Synthetic example; no real student information.
+A00597,S0190,ADV05,2024-12-02,Fall 2024,Email,Major exploration,30,2,No,Not applicable,Synthetic example; no real student information.
+A00598,S0090,ADV03,2025-06-07,Spring 2026,Video,Registration hold,45,2,No,Not applicable,Synthetic example; no real student information.
+A00599,S0176,ADV06,2024-09-10,Fall 2024,Phone,Financial aid referral,20,4,Yes,Not applicable,Synthetic example; no real student information.
+A00600,S0463,ADV08,2026-02-06,Fall 2024,Video,Graduation planning,45,3,No,Not applicable,Synthetic example; no real student information.
+A00601,S0414,ADV04,2026-05-01,Fall 2025,In person,Major exploration,30,3,Yes,No,Synthetic example; no real student information.
+A00602,S0023,ADV04,2025-05-11,Fall 2024,In person,Financial aid referral,45,4,Yes,No,Synthetic example; no real student information.
+A00603,S0141,ADV05,2025-01-06,Fall 2025,Email,Financial aid referral,60,3,Yes,Not applicable,Synthetic example; no real student information.
+A00604,S0493,ADV05,2025-11-07,Spring 2026,In person,Major exploration,30,0,No,Not applicable,Synthetic example; no real student information.
+A00605,S0235,ADV07,2026-08-07,Fall 2026,In person,Course selection,15,2,No,Not applicable,Synthetic example; no real student information.
+A00606,S0319,ADV04,2025-11-13,Fall 2026,Phone,Degree progress,60,3,Yes,Yes,Synthetic example; no real student information.
+A00607,S0173,ADV07,2025-09-25,Spring 2026,Phone,Financial aid referral,15,2,No,Not applicable,Synthetic example; no real student information.
+A00608,S0040,ADV02,2026-02-26,Spring 2026,Email,Major exploration,60,2,No,Not applicable,Synthetic example; no real student information.
+A00609,S0134,ADV04,2026-03-19,Fall 2025,Email,Academic performance,45,4,Yes,No,Synthetic example; no real student information.
+A00610,S0010,ADV01,2025-05-31,Fall 2025,Email,Graduation planning,30,4,No,Not applicable,Synthetic example; no real student information.
+A00611,S0405,ADV01,2025-04-11,Spring 2025,Phone,Financial aid referral,20,4,Yes,No,Synthetic example; no real student information.
+A00612,S0037,ADV08,2025-12-15,Fall 2024,Phone,Academic performance,15,1,No,Not applicable,Synthetic example; no real student information.
+A00613,S0170,ADV08,2024-10-16,Spring 2026,Video,Registration hold,30,2,No,Not applicable,Synthetic example; no real student information.
+A00614,S0264,ADV04,2024-11-01,Fall 2026,Phone,Major exploration,45,1,No,Not applicable,Synthetic example; no real student information.
+A00615,S0389,ADV01,2026-09-25,Spring 2026,Video,Major exploration,30,4,No,Not applicable,Synthetic example; no real student information.
+A00616,S0180,ADV02,2025-04-03,Fall 2024,In person,Course selection,20,3,No,Not applicable,Synthetic example; no real student information.
+A00617,S0282,ADV02,2026-04-03,Fall 2026,Video,Major exploration,15,2,No,Not applicable,Synthetic example; no real student information.
+A00618,S0330,ADV08,2026-01-17,Spring 2026,Phone,Graduation planning,45,3,Yes,No,Synthetic example; no real student information.
+A00619,S0025,ADV03,2025-03-29,Fall 2024,Video,Major exploration,60,3,Yes,Yes,Synthetic example; no real student information.
+A00620,S0130,ADV05,2025-06-27,Spring 2026,Email,Career planning,60,1,Yes,Yes,Synthetic example; no real student information.
+A00621,S0054,ADV03,2026-02-21,Spring 2025,Video,Degree progress,30,3,No,Not applicable,Synthetic example; no real student information.
+A00622,S0348,ADV01,2025-10-25,Spring 2026,Video,Degree progress,15,3,No,Not applicable,Synthetic example; no real student information.
+A00623,S0155,ADV07,2025-06-02,Spring 2025,Email,Graduation planning,20,3,No,Not applicable,Synthetic example; no real student information.
+A00624,S0126,ADV01,2025-09-25,Fall 2026,Email,Financial aid referral,30,2,No,Not applicable,Synthetic example; no real student information.
+A00625,S0402,ADV05,2026-01-09,Spring 2025,Phone,Graduation planning,45,2,No,Not applicable,Synthetic example; no real student information.
+A00626,S0071,ADV08,2026-04-13,Spring 2026,Phone,Graduation planning,15,1,No,Not applicable,Synthetic example; no real student information.
+A00627,S0244,ADV08,2025-09-22,Fall 2025,In person,Financial aid referral,30,1,No,Not applicable,Synthetic example; no real student information.
+A00628,S0012,ADV02,2025-12-24,Fall 2025,Email,Major exploration,30,1,No,Not applicable,Synthetic example; no real student information.
+A00629,S0153,ADV08,2024-11-18,Spring 2025,Video,Degree progress,15,4,Yes,Not applicable,Synthetic example; no real student information.
+A00630,S0030,ADV05,2024-09-22,Fall 2024,Email,Course selection,30,3,No,Not applicable,Synthetic example; no real student information.
+A00631,S0183,ADV05,2026-09-02,Fall 2025,Phone,Academic performance,20,4,Yes,No,Synthetic example; no real student information.
+A00632,S0336,ADV06,2026-06-23,Spring 2025,Video,Major exploration,60,1,No,Not applicable,Synthetic example; no real student information.
+A00633,S0483,ADV01,2025-10-15,Fall 2024,Phone,Major exploration,30,0,No,Not applicable,Synthetic example; no real student information.
+A00634,S0438,ADV04,2026-03-27,Fall 2025,Phone,Degree progress,30,0,Yes,Yes,Synthetic example; no real student information.
+A00635,S0308,ADV02,2026-07-26,Fall 2024,In person,Major exploration,60,2,No,Not applicable,Synthetic example; no real student information.
+A00636,S0258,ADV05,2025-03-28,Spring 2026,Email,Financial aid referral,15,2,No,Not applicable,Synthetic example; no real student information.
+A00637,S0374,ADV02,2025-06-29,Fall 2026,Email,Financial aid referral,45,3,No,Not applicable,Synthetic example; no real student information.
+A00638,S0343,ADV07,2024-08-20,Spring 2026,Email,Career planning,45,1,No,Not applicable,Synthetic example; no real student information.
+A00639,S0363,ADV03,2026-05-10,Fall 2025,Email,Course selection,30,4,No,Not applicable,Synthetic example; no real student information.
+A00640,S0301,ADV02,2025-09-07,Fall 2025,Video,Course selection,60,1,No,Not applicable,Synthetic example; no real student information.
+A00641,S0355,ADV03,2025-04-14,Spring 2026,Email,Course selection,30,0,No,Not applicable,Synthetic example; no real student information.
+A00642,S0162,ADV07,2025-05-31,Spring 2025,Video,Financial aid referral,15,2,No,Not applicable,Synthetic example; no real student information.
+A00643,S0029,ADV02,2025-08-18,Fall 2026,Email,Degree progress,30,0,Yes,No,Synthetic example; no real student information.
+A00644,S0249,ADV04,2025-06-30,Fall 2026,In person,Financial aid referral,30,3,No,Not applicable,Synthetic example; no real student information.
+A00645,S0376,ADV08,2026-09-17,Fall 2025,Phone,Graduation planning,20,0,Yes,Yes,Synthetic example; no real student information.
+A00646,S0168,ADV01,2026-05-02,Spring 2025,Video,Career planning,45,3,Yes,Not applicable,Synthetic example; no real student information.
+A00647,S0116,ADV07,2025-08-20,Spring 2026,Phone,Degree progress,30,3,No,Not applicable,Synthetic example; no real student information.
+A00648,S0155,ADV04,2024-11-25,Fall 2025,In person,Registration hold,45,1,Yes,Yes,Synthetic example; no real student information.
+A00649,S0073,ADV07,2025-08-18,Fall 2025,In person,Graduation planning,30,1,Yes,Not applicable,Synthetic example; no real student information.
+A00650,S0480,ADV02,2026-02-10,Spring 2026,Phone,Graduation planning,30,4,No,Not applicable,Synthetic example; no real student information.
+A00651,S0414,ADV05,2026-05-16,Fall 2024,Video,Course selection,45,3,No,Not applicable,Synthetic example; no real student information.
+A00652,S0170,ADV06,2025-08-24,Fall 2026,Video,Degree progress,20,4,No,Not applicable,Synthetic example; no real student information.
+A00653,S0106,ADV02,2024-11-27,Fall 2026,In person,Registration hold,60,0,Yes,Yes,Synthetic example; no real student information.
+A00654,S0492,ADV07,2026-02-16,Spring 2025,Phone,Degree progress,20,4,No,Not applicable,Synthetic example; no real student information.
+A00655,S0419,ADV02,2025-02-13,Fall 2026,Phone,Career planning,45,3,No,Not applicable,Synthetic example; no real student information.
+A00656,S0382,ADV02,2025-04-24,Spring 2025,In person,Course selection,45,2,No,Not applicable,Synthetic example; no real student information.
+A00657,S0080,ADV02,2025-12-16,Fall 2025,Email,Registration hold,15,1,Yes,Yes,Synthetic example; no real student information.
+A00658,S0043,ADV01,2025-07-26,Fall 2024,Phone,Graduation planning,20,0,No,Not applicable,Synthetic example; no real student information.
+A00659,S0098,ADV08,2024-10-19,Spring 2026,In person,Career planning,60,0,Yes,Yes,Synthetic example; no real student information.
+A00660,S0316,ADV05,2026-09-17,Fall 2025,Phone,Major exploration,30,3,No,Not applicable,Synthetic example; no real student information.
+A00661,S0380,ADV05,2026-08-14,Fall 2025,Phone,Major exploration,15,4,Yes,Not applicable,Synthetic example; no real student information.
+A00662,S0499,ADV05,2025-02-24,Fall 2025,Video,Degree progress,15,3,Yes,No,Synthetic example; no real student information.
+A00663,S0351,ADV02,2024-11-12,Spring 2026,Email,Degree progress,60,4,Yes,Yes,Synthetic example; no real student information.
+A00664,S0009,ADV05,2024-10-19,Spring 2025,In person,Academic performance,30,4,Yes,Yes,Synthetic example; no real student information.
+A00665,S0214,ADV02,2026-01-17,Spring 2026,Phone,Academic performance,60,3,Yes,Yes,Synthetic example; no real student information.
+A00666,S0333,ADV01,2025-09-14,Fall 2026,Video,Major exploration,60,2,No,Not applicable,Synthetic example; no real student information.
+A00667,S0255,ADV01,2026-03-29,Fall 2025,Video,Degree progress,20,2,No,Not applicable,Synthetic example; no real student information.
+A00668,S0253,ADV08,2024-12-30,Fall 2024,Video,Academic performance,20,1,No,Not applicable,Synthetic example; no real student information.
+A00669,S0016,ADV05,2024-10-06,Fall 2026,Phone,Financial aid referral,45,3,No,Not applicable,Synthetic example; no real student information.
+A00670,S0377,ADV08,2024-12-29,Fall 2024,Video,Career planning,45,2,No,Not applicable,Synthetic example; no real student information.
+A00671,S0046,ADV01,2025-06-18,Fall 2025,In person,Graduation planning,60,1,Yes,Not applicable,Synthetic example; no real student information.
+A00672,S0486,ADV07,2026-01-30,Fall 2024,Phone,Major exploration,45,0,Yes,Yes,Synthetic example; no real student information.
+A00673,S0406,ADV06,2025-02-22,Fall 2025,Email,Career planning,30,3,Yes,No,Synthetic example; no real student information.
+A00674,S0355,ADV01,2026-05-03,Fall 2025,In person,Graduation planning,60,4,Yes,Not applicable,Synthetic example; no real student information.
+A00675,S0300,ADV05,2026-01-19,Spring 2025,In person,Graduation planning,15,3,No,Not applicable,Synthetic example; no real student information.
+A00676,S0169,ADV03,2026-05-24,Spring 2025,Email,Graduation planning,45,4,No,Not applicable,Synthetic example; no real student information.
+A00677,S0475,ADV07,2026-01-24,Fall 2025,Email,Financial aid referral,60,4,No,Not applicable,Synthetic example; no real student information.
+A00678,S0320,ADV01,2025-04-20,Spring 2026,Video,Degree progress,20,4,Yes,Yes,Synthetic example; no real student information.
+A00679,S0453,ADV04,2024-11-18,Fall 2026,Email,Degree progress,15,2,No,Not applicable,Synthetic example; no real student information.
+A00680,S0247,ADV08,2026-04-15,Fall 2024,In person,Career planning,20,4,No,Not applicable,Synthetic example; no real student information.
+A00681,S0009,ADV05,2025-03-20,Fall 2026,Phone,Graduation planning,60,1,Yes,Not applicable,Synthetic example; no real student information.
+A00682,S0087,ADV02,2026-08-25,Fall 2025,Email,Career planning,45,0,Yes,No,Synthetic example; no real student information.
+A00683,S0120,ADV04,2025-07-01,Fall 2026,Phone,Financial aid referral,15,3,Yes,No,Synthetic example; no real student information.
+A00684,S0111,ADV06,2026-06-05,Spring 2025,Video,Course selection,60,3,No,Not applicable,Synthetic example; no real student information.
+A00685,S0253,ADV07,2024-08-28,Fall 2026,Email,Career planning,30,3,No,Not applicable,Synthetic example; no real student information.
+A00686,S0353,ADV03,2026-06-27,Fall 2025,Video,Academic performance,20,4,No,Not applicable,Synthetic example; no real student information.
+A00687,S0464,ADV02,2025-02-04,Fall 2026,Video,Course selection,20,1,No,Not applicable,Synthetic example; no real student information.
+A00688,S0192,ADV06,2025-03-22,Spring 2026,Phone,Course selection,60,3,No,Not applicable,Synthetic example; no real student information.
+A00689,S0249,ADV07,2025-10-13,Fall 2025,Phone,Financial aid referral,45,1,No,Not applicable,Synthetic example; no real student information.
+A00690,S0246,ADV08,2025-05-22,Fall 2025,Video,Career planning,15,1,No,Not applicable,Synthetic example; no real student information.
+A00691,S0183,ADV08,2026-06-02,Fall 2025,Phone,Registration hold,60,2,Yes,Not applicable,Synthetic example; no real student information.
+A00692,S0322,ADV08,2025-01-29,Fall 2025,In person,Financial aid referral,60,0,Yes,Not applicable,Synthetic example; no real student information.
+A00693,S0326,ADV03,2025-06-14,Spring 2026,Email,Major exploration,30,0,No,Not applicable,Synthetic example; no real student information.
+A00694,S0430,ADV08,2026-09-25,Spring 2026,Phone,Degree progress,30,1,No,Not applicable,Synthetic example; no real student information.
+A00695,S0138,ADV06,2026-05-09,Fall 2024,Phone,Major exploration,60,3,No,Not applicable,Synthetic example; no real student information.
+A00696,S0160,ADV07,2024-12-12,Spring 2025,In person,Major exploration,15,4,No,Not applicable,Synthetic example; no real student information.
+A00697,S0490,ADV03,2025-03-19,Fall 2024,In person,Graduation planning,30,1,No,Not applicable,Synthetic example; no real student information.
+A00698,S0429,ADV06,2024-09-27,Fall 2026,Email,Degree progress,60,1,No,Not applicable,Synthetic example; no real student information.
+A00699,S0089,ADV05,2025-06-03,Fall 2026,Video,Academic performance,30,4,Yes,Yes,Synthetic example; no real student information.
+A00700,S0246,ADV05,2025-09-14,Spring 2026,In person,Major exploration,15,4,No,Not applicable,Synthetic example; no real student information.
+A00701,S0498,ADV04,2024-09-23,Spring 2025,Phone,Career planning,45,0,Yes,Yes,Synthetic example; no real student information.
+A00702,S0430,ADV04,2025-07-27,Fall 2025,Email,Registration hold,30,3,No,Not applicable,Synthetic example; no real student information.
+A00703,S0054,ADV07,2025-08-09,Fall 2024,Phone,Graduation planning,20,4,Yes,Yes,Synthetic example; no real student information.
+A00704,S0457,ADV07,2025-09-26,Spring 2026,Phone,Course selection,60,3,No,Not applicable,Synthetic example; no real student information.
+A00705,S0325,ADV01,2026-08-07,Fall 2025,Video,Academic performance,30,2,No,Not applicable,Synthetic example; no real student information.
+A00706,S0320,ADV03,2026-03-30,Fall 2026,Phone,Degree progress,30,3,Yes,Not applicable,Synthetic example; no real student information.
+A00707,S0321,ADV06,2026-07-20,Fall 2024,Video,Academic performance,15,2,No,Not applicable,Synthetic example; no real student information.
+A00708,S0497,ADV01,2025-07-14,Spring 2026,Email,Registration hold,30,2,No,Not applicable,Synthetic example; no real student information.
+A00709,S0282,ADV07,2025-01-09,Spring 2025,Email,Degree progress,30,1,No,Not applicable,Synthetic example; no real student information.
+A00710,S0483,ADV05,2026-05-03,Fall 2025,Email,Graduation planning,15,3,No,Not applicable,Synthetic example; no real student information.
+A00711,S0288,ADV06,2026-05-06,Fall 2024,In person,Course selection,45,4,No,Not applicable,Synthetic example; no real student information.
+A00712,S0034,ADV02,2025-11-30,Spring 2025,Phone,Financial aid referral,30,0,No,Not applicable,Synthetic example; no real student information.
+A00713,S0407,ADV02,2025-06-30,Spring 2026,Phone,Academic performance,45,4,Yes,Yes,Synthetic example; no real student information.
+A00714,S0267,ADV06,2026-10-06,Fall 2026,Email,Registration hold,30,3,No,Not applicable,Synthetic example; no real student information.
+A00715,S0228,ADV06,2025-11-07,Fall 2026,In person,Graduation planning,30,0,No,Not applicable,Synthetic example; no real student information.
+A00716,S0186,ADV05,2025-07-19,Spring 2025,Phone,Career planning,20,3,No,Not applicable,Synthetic example; no real student information.
+A00717,S0275,ADV07,2025-12-15,Fall 2026,Video,Financial aid referral,20,0,Yes,Not applicable,Synthetic example; no real student information.
+A00718,S0137,ADV04,2026-05-09,Fall 2025,In person,Course selection,30,1,No,Not applicable,Synthetic example; no real student information.
+A00719,S0185,ADV01,2026-04-19,Fall 2024,In person,Financial aid referral,15,2,No,Not applicable,Synthetic example; no real student information.
+A00720,S0330,ADV04,2025-05-05,Fall 2025,Phone,Financial aid referral,20,0,No,Not applicable,Synthetic example; no real student information.
+A00721,S0420,ADV08,2026-06-26,Spring 2025,Video,Career planning,30,2,No,Not applicable,Synthetic example; no real student information.
+A00722,S0240,ADV02,2026-01-14,Spring 2025,Phone,Graduation planning,30,3,No,Not applicable,Synthetic example; no real student information.
+A00723,S0159,ADV06,2024-11-25,Spring 2026,Video,Major exploration,45,2,No,Not applicable,Synthetic example; no real student information.
+A00724,S0078,ADV06,2025-04-20,Fall 2025,In person,Academic performance,60,4,No,Not applicable,Synthetic example; no real student information.
+A00725,S0403,ADV05,2025-08-07,Spring 2026,Phone,Financial aid referral,45,0,No,Not applicable,Synthetic example; no real student information.
+A00726,S0335,ADV05,2025-10-12,Fall 2024,Video,Major exploration,30,1,Yes,Yes,Synthetic example; no real student information.
+A00727,S0110,ADV05,2026-09-18,Fall 2024,Email,Career planning,15,2,No,Not applicable,Synthetic example; no real student information.
+A00728,S0206,ADV02,2026-04-19,Fall 2025,Email,Financial aid referral,60,4,No,Not applicable,Synthetic example; no real student information.
+A00729,S0251,ADV02,2026-08-27,Fall 2026,Phone,Registration hold,60,2,No,Not applicable,Synthetic example; no real student information.
+A00730,S0293,ADV04,2025-08-03,Spring 2026,Phone,Course selection,30,3,No,Not applicable,Synthetic example; no real student information.
+A00731,S0019,ADV07,2024-12-23,Fall 2024,In person,Financial aid referral,15,3,Yes,No,Synthetic example; no real student information.
+A00732,S0316,ADV01,2026-07-15,Fall 2024,Email,Course selection,60,0,No,Not applicable,Synthetic example; no real student information.
+A00733,S0482,ADV05,2025-09-16,Fall 2026,In person,Financial aid referral,30,4,No,Not applicable,Synthetic example; no real student information.
+A00734,S0222,ADV06,2026-08-07,Fall 2025,In person,Academic performance,30,1,No,Not applicable,Synthetic example; no real student information.
+A00735,S0057,ADV04,2026-09-26,Fall 2026,Email,Graduation planning,30,3,No,Not applicable,Synthetic example; no real student information.
+A00736,S0347,ADV07,2025-05-02,Spring 2026,Video,Graduation planning,30,2,No,Not applicable,Synthetic example; no real student information.
+A00737,S0361,ADV01,2026-02-10,Spring 2026,Video,Major exploration,20,4,Yes,Not applicable,Synthetic example; no real student information.
+A00738,S0110,ADV04,2025-05-23,Fall 2025,In person,Degree progress,20,4,No,Not applicable,Synthetic example; no real student information.
+A00739,S0004,ADV08,2024-11-04,Fall 2025,Video,Career planning,30,2,Yes,Not applicable,Synthetic example; no real student information.
+A00740,S0117,ADV04,2025-11-05,Fall 2025,Email,Major exploration,60,4,No,Not applicable,Synthetic example; no real student information.
+A00741,S0212,ADV05,2025-11-15,Fall 2026,In person,Degree progress,20,0,No,Not applicable,Synthetic example; no real student information.
+A00742,S0341,ADV04,2024-10-11,Fall 2025,Email,Financial aid referral,30,4,No,Not applicable,Synthetic example; no real student information.
+A00743,S0417,ADV03,2025-01-24,Fall 2025,Video,Major exploration,60,3,No,Not applicable,Synthetic example; no real student information.
+A00744,S0122,ADV05,2026-09-05,Fall 2024,Video,Financial aid referral,45,4,No,Not applicable,Synthetic example; no real student information.
+A00745,S0200,ADV03,2025-11-02,Spring 2025,Video,Degree progress,20,0,Yes,No,Synthetic example; no real student information.
+A00746,S0321,ADV03,2026-06-24,Spring 2026,In person,Academic performance,15,4,Yes,No,Synthetic example; no real student information.
+A00747,S0405,ADV05,2026-06-08,Spring 2026,Phone,Academic performance,30,2,No,Not applicable,Synthetic example; no real student information.
+A00748,S0323,ADV06,2026-05-26,Spring 2025,Video,Career planning,30,2,No,Not applicable,Synthetic example; no real student information.
+A00749,S0144,ADV02,2025-06-09,Fall 2026,Phone,Degree progress,15,1,Yes,No,Synthetic example; no real student information.
+A00750,S0472,ADV01,2025-11-23,Fall 2025,Video,Registration hold,15,1,No,Not applicable,Synthetic example; no real student information.
+A00751,S0283,ADV04,2026-06-14,Spring 2026,Email,Degree progress,45,2,No,Not applicable,Synthetic example; no real student information.
+A00752,S0400,ADV02,2024-11-30,Fall 2025,Email,Career planning,60,1,No,Not applicable,Synthetic example; no real student information.
+A00753,S0085,ADV04,2024-09-17,Spring 2025,Video,Degree progress,30,2,Yes,Yes,Synthetic example; no real student information.
+A00754,S0461,ADV03,2024-11-27,Fall 2026,Video,Degree progress,30,0,Yes,Yes,Synthetic example; no real student information.
+A00755,S0001,ADV07,2026-01-22,Fall 2025,Email,Financial aid referral,30,0,No,Not applicable,Synthetic example; no real student information.
+A00756,S0375,ADV08,2026-03-29,Spring 2026,In person,Course selection,45,1,No,Not applicable,Synthetic example; no real student information.
+A00757,S0398,ADV06,2025-12-09,Fall 2024,Email,Major exploration,30,3,Yes,Not applicable,Synthetic example; no real student information.
+A00758,S0430,ADV02,2024-10-26,Spring 2026,Video,Major exploration,15,2,Yes,Not applicable,Synthetic example; no real student information.
+A00759,S0269,ADV05,2026-01-30,Fall 2024,Email,Major exploration,45,1,No,Not applicable,Synthetic example; no real student information.
+A00760,S0023,ADV05,2025-04-08,Fall 2025,Email,Academic performance,30,4,No,Not applicable,Synthetic example; no real student information.
+A00761,S0220,ADV02,2025-12-11,Spring 2026,In person,Career planning,30,1,Yes,Not applicable,Synthetic example; no real student information.
+A00762,S0350,ADV05,2024-09-09,Fall 2026,In person,Major exploration,45,3,No,Not applicable,Synthetic example; no real student information.
+A00763,S0331,ADV06,2024-09-04,Fall 2024,Email,Registration hold,60,0,Yes,Yes,Synthetic example; no real student information.
+A00764,S0283,ADV02,2024-10-29,Spring 2025,Email,Graduation planning,45,1,No,Not applicable,Synthetic example; no real student information.
+A00765,S0297,ADV08,2025-09-24,Fall 2025,Video,Financial aid referral,15,2,No,Not applicable,Synthetic example; no real student information.
+A00766,S0473,ADV07,2025-04-29,Spring 2025,Phone,Degree progress,20,3,No,Not applicable,Synthetic example; no real student information.
+A00767,S0408,ADV07,2024-08-23,Fall 2026,In person,Academic performance,45,4,Yes,No,Synthetic example; no real student information.
+A00768,S0188,ADV04,2025-05-29,Spring 2025,Phone,Course selection,45,1,Yes,Not applicable,Synthetic example; no real student information.
+A00769,S0424,ADV02,2025-06-21,Fall 2024,Email,Registration hold,30,3,No,Not applicable,Synthetic example; no real student information.
+A00770,S0123,ADV06,2025-07-20,Fall 2025,Email,Degree progress,45,1,No,Not applicable,Synthetic example; no real student information.
+A00771,S0396,ADV03,2026-07-27,Fall 2024,Phone,Graduation planning,15,0,Yes,Yes,Synthetic example; no real student information.
+A00772,S0467,ADV06,2026-02-27,Fall 2025,Email,Registration hold,45,4,Yes,Yes,Synthetic example; no real student information.
+A00773,S0478,ADV08,2025-04-02,Fall 2024,Email,Graduation planning,30,0,No,Not applicable,Synthetic example; no real student information.
+A00774,S0439,ADV06,2025-12-30,Spring 2026,Email,Course selection,15,4,Yes,No,Synthetic example; no real student information.
+A00775,S0038,ADV07,2024-12-30,Fall 2024,Phone,Career planning,15,3,No,Not applicable,Synthetic example; no real student information.
+A00776,S0130,ADV06,2026-02-24,Spring 2025,Video,Registration hold,30,3,No,Not applicable,Synthetic example; no real student information.
+A00777,S0287,ADV08,2025-05-12,Spring 2026,Email,Degree progress,30,3,No,Not applicable,Synthetic example; no real student information.
+A00778,S0440,ADV04,2024-10-21,Fall 2025,Phone,Course selection,60,4,No,Not applicable,Synthetic example; no real student information.
+A00779,S0410,ADV04,2026-08-23,Fall 2024,Email,Financial aid referral,20,0,No,Not applicable,Synthetic example; no real student information.
+A00780,S0117,ADV07,2025-04-08,Spring 2026,Phone,Academic performance,30,2,Yes,No,Synthetic example; no real student information.
+A00781,S0060,ADV01,2024-08-20,Fall 2026,Phone,Career planning,60,3,No,Not applicable,Synthetic example; no real student information.
+A00782,S0372,ADV06,2025-03-30,Spring 2026,In person,Degree progress,30,2,No,Not applicable,Synthetic example; no real student information.
+A00783,S0084,ADV06,2025-12-28,Fall 2026,Phone,Course selection,30,3,No,Not applicable,Synthetic example; no real student information.
+A00784,S0426,ADV08,2024-12-18,Fall 2026,Email,Degree progress,30,2,Yes,No,Synthetic example; no real student information.
+A00785,S0186,ADV08,2025-06-12,Spring 2025,Email,Graduation planning,20,1,No,Not applicable,Synthetic example; no real student information.
+A00786,S0199,ADV06,2026-07-20,Fall 2025,In person,Registration hold,20,4,Yes,Yes,Synthetic example; no real student information.
+A00787,S0312,ADV07,2026-01-21,Fall 2026,Phone,Career planning,60,3,No,Not applicable,Synthetic example; no real student information.
+A00788,S0006,ADV03,2025-11-07,Spring 2026,In person,Major exploration,20,4,No,Not applicable,Synthetic example; no real student information.
+A00789,S0068,ADV08,2025-10-13,Spring 2026,Email,Financial aid referral,30,4,Yes,No,Synthetic example; no real student information.
+A00790,S0240,ADV07,2024-09-30,Spring 2025,Email,Registration hold,20,3,No,Not applicable,Synthetic example; no real student information.
+A00791,S0240,ADV08,2026-04-15,Fall 2024,In person,Academic performance,15,3,No,Not applicable,Synthetic example; no real student information.
+A00792,S0389,ADV07,2025-04-21,Spring 2025,Video,Graduation planning,60,0,Yes,No,Synthetic example; no real student information.
+A00793,S0277,ADV03,2026-06-19,Spring 2025,Video,Academic performance,60,1,Yes,Yes,Synthetic example; no real student information.
+A00794,S0404,ADV04,2025-01-13,Fall 2025,Phone,Registration hold,30,0,No,Not applicable,Synthetic example; no real student information.
+A00795,S0404,ADV07,2025-10-04,Fall 2026,Phone,Course selection,60,1,No,Not applicable,Synthetic example; no real student information.
+A00796,S0349,ADV03,2024-08-22,Spring 2025,Phone,Major exploration,30,4,No,Not applicable,Synthetic example; no real student information.
+A00797,S0451,ADV05,2025-09-25,Fall 2024,Video,Graduation planning,45,2,No,Not applicable,Synthetic example; no real student information.
+A00798,S0125,ADV07,2025-12-26,Fall 2025,Phone,Course selection,45,4,Yes,No,Synthetic example; no real student information.
+A00799,S0148,ADV06,2026-02-15,Spring 2025,In person,Financial aid referral,15,4,No,Not applicable,Synthetic example; no real student information.
+A00800,S0324,ADV06,2026-09-30,Fall 2025,Phone,Course selection,20,4,Yes,Yes,Synthetic example; no real student information.
+A00801,S0166,ADV05,2025-04-30,Spring 2025,Phone,Financial aid referral,30,0,No,Not applicable,Synthetic example; no real student information.
+A00802,S0246,ADV08,2026-03-13,Fall 2026,Email,Major exploration,15,1,No,Not applicable,Synthetic example; no real student information.
+A00803,S0022,ADV04,2025-04-11,Fall 2024,Email,Academic performance,15,0,Yes,Not applicable,Synthetic example; no real student information.
+A00804,S0497,ADV07,2026-08-24,Spring 2025,Video,Graduation planning,45,3,No,Not applicable,Synthetic example; no real student information.
+A00805,S0290,ADV08,2026-02-08,Spring 2025,In person,Financial aid referral,30,1,Yes,No,Synthetic example; no real student information.
+A00806,S0291,ADV02,2025-08-25,Spring 2026,Email,Major exploration,30,2,Yes,Yes,Synthetic example; no real student information.
+A00807,S0219,ADV03,2024-08-28,Fall 2026,In person,Registration hold,30,0,Yes,Yes,Synthetic example; no real student information.
+A00808,S0166,ADV08,2024-11-08,Fall 2025,Phone,Course selection,60,0,Yes,Yes,Synthetic example; no real student information.
+A00809,S0481,ADV01,2024-09-10,Fall 2024,Email,Academic performance,30,2,No,Not applicable,Synthetic example; no real student information.
+A00810,S0188,ADV08,2025-05-25,Fall 2026,Video,Degree progress,60,0,No,Not applicable,Synthetic example; no real student information.
+A00811,S0029,ADV08,2025-05-22,Fall 2025,In person,Major exploration,15,2,No,Not applicable,Synthetic example; no real student information.
+A00812,S0088,ADV03,2025-10-09,Fall 2024,Video,Financial aid referral,60,3,Yes,Yes,Synthetic example; no real student information.
+A00813,S0247,ADV04,2026-02-18,Spring 2025,In person,Graduation planning,45,2,Yes,Not applicable,Synthetic example; no real student information.
+A00814,S0488,ADV04,2026-01-07,Spring 2026,In person,Academic performance,30,0,No,Not applicable,Synthetic example; no real student information.
+A00815,S0408,ADV03,2024-11-18,Spring 2025,Video,Career planning,30,3,Yes,Yes,Synthetic example; no real student information.
+A00816,S0138,ADV02,2026-09-18,Fall 2026,Email,Graduation planning,15,0,No,Not applicable,Synthetic example; no real student information.
+A00817,S0187,ADV08,2024-10-04,Fall 2026,Email,Degree progress,60,1,No,Not applicable,Synthetic example; no real student information.
+A00818,S0015,ADV03,2026-05-14,Fall 2024,In person,Academic performance,45,1,No,Not applicable,Synthetic example; no real student information.
+A00819,S0282,ADV04,2026-08-31,Spring 2025,Email,Graduation planning,15,2,Yes,Not applicable,Synthetic example; no real student information.
+A00820,S0332,ADV03,2025-03-10,Fall 2026,In person,Financial aid referral,30,4,No,Not applicable,Synthetic example; no real student information.
+A00821,S0494,ADV02,2026-05-28,Fall 2024,Email,Graduation planning,20,4,No,Not applicable,Synthetic example; no real student information.
+A00822,S0331,ADV03,2025-11-17,Fall 2024,Email,Degree progress,30,3,Yes,No,Synthetic example; no real student information.
+A00823,S0357,ADV05,2024-12-11,Fall 2026,Email,Career planning,20,4,No,Not applicable,Synthetic example; no real student information.
+A00824,S0211,ADV02,2025-01-29,Fall 2026,Video,Major exploration,60,0,Yes,Yes,Synthetic example; no real student information.
+A00825,S0154,ADV04,2026-06-19,Spring 2026,Email,Financial aid referral,30,1,No,Not applicable,Synthetic example; no real student information.
+A00826,S0452,ADV05,2026-09-28,Spring 2025,Phone,Career planning,30,4,Yes,No,Synthetic example; no real student information.
+A00827,S0266,ADV07,2026-01-09,Fall 2025,Email,Academic performance,15,2,No,Not applicable,Synthetic example; no real student information.
+A00828,S0463,ADV01,2025-10-09,Spring 2025,In person,Career planning,20,2,Yes,Not applicable,Synthetic example; no real student information.
+A00829,S0332,ADV08,2024-09-08,Fall 2026,Email,Career planning,15,0,Yes,Not applicable,Synthetic example; no real student information.
+A00830,S0026,ADV02,2026-03-24,Spring 2026,Phone,Career planning,30,1,Yes,No,Synthetic example; no real student information.
+A00831,S0213,ADV07,2024-12-28,Spring 2026,Video,Career planning,20,2,No,Not applicable,Synthetic example; no real student information.
+A00832,S0134,ADV04,2026-04-20,Spring 2026,Video,Academic performance,15,4,No,Not applicable,Synthetic example; no real student information.
+A00833,S0390,ADV01,2024-11-14,Fall 2024,Phone,Career planning,20,3,No,Not applicable,Synthetic example; no real student information.
+A00834,S0124,ADV03,2024-12-09,Spring 2025,Email,Degree progress,30,0,No,Not applicable,Synthetic example; no real student information.
+A00835,S0133,ADV01,2026-01-05,Fall 2024,In person,Graduation planning,45,2,No,Not applicable,Synthetic example; no real student information.
+A00836,S0065,ADV06,2026-05-07,Fall 2026,Phone,Registration hold,30,2,Yes,Yes,Synthetic example; no real student information.
+A00837,S0081,ADV06,2026-04-01,Fall 2026,Email,Registration hold,60,3,No,Not applicable,Synthetic example; no real student information.
+A00838,S0467,ADV02,2026-07-31,Fall 2025,Video,Financial aid referral,45,0,No,Not applicable,Synthetic example; no real student information.
+A00839,S0405,ADV03,2025-02-08,Fall 2025,Email,Academic performance,60,1,No,Not applicable,Synthetic example; no real student information.
+A00840,S0207,ADV04,2025-07-18,Spring 2025,In person,Course selection,45,0,Yes,Not applicable,Synthetic example; no real student information.
+A00841,S0498,ADV08,2026-06-02,Spring 2026,In person,Course selection,60,2,No,Not applicable,Synthetic example; no real student information.
+A00842,S0155,ADV04,2025-01-16,Fall 2025,Phone,Financial aid referral,30,0,No,Not applicable,Synthetic example; no real student information.
+A00843,S0366,ADV02,2025-06-06,Spring 2026,Email,Academic performance,45,1,No,Not applicable,Synthetic example; no real student information.
+A00844,S0371,ADV08,2026-08-12,Fall 2025,Phone,Course selection,45,1,No,Not applicable,Synthetic example; no real student information.
+A00845,S0319,ADV07,2025-03-09,Fall 2026,In person,Career planning,30,2,No,Not applicable,Synthetic example; no real student information.
+A00846,S0438,ADV06,2025-03-25,Spring 2025,Email,Academic performance,45,1,No,Not applicable,Synthetic example; no real student information.
+A00847,S0172,ADV02,2025-11-30,Spring 2025,Video,Registration hold,15,3,Yes,Yes,Synthetic example; no real student information.
+A00848,S0142,ADV04,2025-08-03,Fall 2024,Video,Registration hold,20,3,No,Not applicable,Synthetic example; no real student information.
+A00849,S0159,ADV08,2024-12-01,Fall 2025,In person,Academic performance,60,4,Yes,Not applicable,Synthetic example; no real student information.
+A00850,S0192,ADV04,2025-03-03,Spring 2025,Phone,Financial aid referral,15,2,Yes,Yes,Synthetic example; no real student information.

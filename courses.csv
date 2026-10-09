@@ -1,0 +1,49 @@
+course_id,course_code,course_title,department,typical_credits,course_level,recommended_year,is_capstone,description
+C001,CS100,Programming I,Computer Science,3,100,1,No,Fictional sample catalog entry for programming i.
+C002,CS110,Programming II,Computer Science,4,100,1,No,Fictional sample catalog entry for programming ii.
+C003,CS200,Data Structures,Computer Science,3,200,2,No,Fictional sample catalog entry for data structures.
+C004,CS210,Algorithms,Computer Science,3,200,2,No,Fictional sample catalog entry for algorithms.
+C005,CS300,Databases,Computer Science,3,300,3,No,Fictional sample catalog entry for databases.
+C006,CS310,Operating Systems,Computer Science,4,300,3,No,Fictional sample catalog entry for operating systems.
+C007,CS400,Software Engineering,Computer Science,3,400,4,No,Fictional sample catalog entry for software engineering.
+C008,CS410,Artificial Intelligence,Computer Science,3,400,4,Yes,Fictional sample catalog entry for artificial intelligence.
+C009,BIO100,General Biology I,Biology,4,100,1,No,Fictional sample catalog entry for general biology i.
+C010,BIO110,General Biology II,Biology,3,100,1,No,Fictional sample catalog entry for general biology ii.
+C011,BIO200,Genetics,Biology,3,200,2,No,Fictional sample catalog entry for genetics.
+C012,BIO210,Ecology,Biology,3,200,2,No,Fictional sample catalog entry for ecology.
+C013,BIO300,Cell Biology,Biology,3,300,3,No,Fictional sample catalog entry for cell biology.
+C014,BIO310,Anatomy,Biology,3,300,3,No,Fictional sample catalog entry for anatomy.
+C015,BIO400,Microbiology,Biology,4,400,4,No,Fictional sample catalog entry for microbiology.
+C016,BIO410,Research Methods,Biology,3,400,4,Yes,Fictional sample catalog entry for research methods.
+C017,PSY100,Intro to Psychology,Psychology,3,100,1,No,Fictional sample catalog entry for intro to psychology.
+C018,PSY110,Statistics for Behavioral Science,Psychology,4,100,1,No,Fictional sample catalog entry for statistics for behavioral science.
+C019,PSY200,Developmental Psychology,Psychology,3,200,2,No,Fictional sample catalog entry for developmental psychology.
+C020,PSY210,Cognitive Psychology,Psychology,3,200,2,No,Fictional sample catalog entry for cognitive psychology.
+C021,PSY300,Social Psychology,Psychology,3,300,3,No,Fictional sample catalog entry for social psychology.
+C022,PSY310,Research Methods,Psychology,3,300,3,No,Fictional sample catalog entry for research methods.
+C023,PSY400,Abnormal Psychology,Psychology,3,400,4,No,Fictional sample catalog entry for abnormal psychology.
+C024,PSY410,Learning and Behavior,Psychology,3,400,4,Yes,Fictional sample catalog entry for learning and behavior.
+C025,BUS100,Introduction to Business,Business,3,100,1,No,Fictional sample catalog entry for introduction to business.
+C026,BUS110,Financial Accounting,Business,3,100,1,No,Fictional sample catalog entry for financial accounting.
+C027,BUS200,Managerial Accounting,Business,3,200,2,No,Fictional sample catalog entry for managerial accounting.
+C028,BUS210,Marketing,Business,4,200,2,No,Fictional sample catalog entry for marketing.
+C029,BUS300,Business Statistics,Business,4,300,3,No,Fictional sample catalog entry for business statistics.
+C030,BUS310,Finance,Business,3,300,3,No,Fictional sample catalog entry for finance.
+C031,BUS400,Operations Management,Business,4,400,4,No,Fictional sample catalog entry for operations management.
+C032,BUS410,Business Strategy,Business,3,400,4,Yes,Fictional sample catalog entry for business strategy.
+C033,ENG100,College Writing,English,3,100,1,No,Fictional sample catalog entry for college writing.
+C034,ENG110,Literary Analysis,English,3,100,1,No,Fictional sample catalog entry for literary analysis.
+C035,ENG200,World Literature,English,4,200,2,No,Fictional sample catalog entry for world literature.
+C036,ENG210,Creative Writing,English,3,200,2,No,Fictional sample catalog entry for creative writing.
+C037,ENG300,American Literature,English,4,300,3,No,Fictional sample catalog entry for american literature.
+C038,ENG310,Rhetoric,English,3,300,3,No,Fictional sample catalog entry for rhetoric.
+C039,ENG400,Shakespeare,English,3,400,4,No,Fictional sample catalog entry for shakespeare.
+C040,ENG410,Senior Seminar,English,3,400,4,Yes,Fictional sample catalog entry for senior seminar.
+C041,ME100,Engineering Design,Mechanical Engineering,3,100,1,No,Fictional sample catalog entry for engineering design.
+C042,ME110,Statics,Mechanical Engineering,3,100,1,No,Fictional sample catalog entry for statics.
+C043,ME200,Dynamics,Mechanical Engineering,3,200,2,No,Fictional sample catalog entry for dynamics.
+C044,ME210,Thermodynamics,Mechanical Engineering,3,200,2,No,Fictional sample catalog entry for thermodynamics.
+C045,ME300,Materials Science,Mechanical Engineering,3,300,3,No,Fictional sample catalog entry for materials science.
+C046,ME310,Fluid Mechanics,Mechanical Engineering,3,300,3,No,Fictional sample catalog entry for fluid mechanics.
+C047,ME400,Manufacturing,Mechanical Engineering,3,400,4,No,Fictional sample catalog entry for manufacturing.
+C048,ME410,Capstone Design,Mechanical Engineering,3,400,4,Yes,Fictional sample catalog entry for capstone design.

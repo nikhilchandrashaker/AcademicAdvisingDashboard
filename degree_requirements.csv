@@ -1,0 +1,25 @@
+requirement_id,major,requirement_type,required_credits,min_grade,description
+REQ-CS-MAJ,Computer Science,Major courses,30,C,Complete approved Computer Science coursework.
+REQ-CS-GEN,Computer Science,General education,30,D,Complete general education distribution requirements.
+REQ-CS-ELE,Computer Science,Electives,60,D,Complete elective credits toward the degree.
+REQ-CS-CAP,Computer Science,Capstone,3,C,Complete the major capstone or senior project.
+REQ-BIO-MAJ,Biology,Major courses,30,C,Complete approved Biology coursework.
+REQ-BIO-GEN,Biology,General education,30,D,Complete general education distribution requirements.
+REQ-BIO-ELE,Biology,Electives,60,D,Complete elective credits toward the degree.
+REQ-BIO-CAP,Biology,Capstone,3,C,Complete the major capstone or senior project.
+REQ-PSY-MAJ,Psychology,Major courses,30,C,Complete approved Psychology coursework.
+REQ-PSY-GEN,Psychology,General education,30,D,Complete general education distribution requirements.
+REQ-PSY-ELE,Psychology,Electives,60,D,Complete elective credits toward the degree.
+REQ-PSY-CAP,Psychology,Capstone,3,C,Complete the major capstone or senior project.
+REQ-BUS-MAJ,Business,Major courses,30,C,Complete approved Business coursework.
+REQ-BUS-GEN,Business,General education,30,D,Complete general education distribution requirements.
+REQ-BUS-ELE,Business,Electives,60,D,Complete elective credits toward the degree.
+REQ-BUS-CAP,Business,Capstone,3,C,Complete the major capstone or senior project.
+REQ-ENG-MAJ,English,Major courses,30,C,Complete approved English coursework.
+REQ-ENG-GEN,English,General education,30,D,Complete general education distribution requirements.
+REQ-ENG-ELE,English,Electives,60,D,Complete elective credits toward the degree.
+REQ-ENG-CAP,English,Capstone,3,C,Complete the major capstone or senior project.
+REQ-ME-MAJ,Mechanical Engineering,Major courses,30,C,Complete approved Mechanical Engineering coursework.
+REQ-ME-GEN,Mechanical Engineering,General education,30,D,Complete general education distribution requirements.
+REQ-ME-ELE,Mechanical Engineering,Electives,60,D,Complete elective credits toward the degree.
+REQ-ME-CAP,Mechanical Engineering,Capstone,3,C,Complete the major capstone or senior project.

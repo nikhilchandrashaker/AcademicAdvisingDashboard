@@ -1,0 +1,501 @@
+student_id,major,credits_required_for_degree,credits_earned,credits_remaining,estimated_completion_pct,gpa_target,gpa_gap_to_target,capstone_completed,last_reviewed_term
+S0001,Mechanical Engineering,120,148,0,100.0,2.0,0.0,No,Fall 2024
+S0002,Computer Science,120,39,81,32.5,2.0,0.0,No,Spring 2025
+S0003,Biology,120,107,13,89.2,2.0,0.0,Yes,Spring 2025
+S0004,Mechanical Engineering,120,56,64,46.7,2.0,0.0,No,Fall 2025
+S0005,Computer Science,120,103,17,85.8,2.0,0.0,Yes,Fall 2024
+S0006,Psychology,120,131,0,100.0,2.0,0.0,No,Fall 2024
+S0007,English,120,88,32,73.3,2.0,0.05,No,Fall 2025
+S0008,Business,120,108,12,90.0,2.0,0.0,No,Fall 2025
+S0009,Mechanical Engineering,120,121,0,100.0,2.0,0.0,No,Fall 2024
+S0010,Computer Science,120,39,81,32.5,2.0,0.0,No,Fall 2026
+S0011,Biology,120,110,10,91.7,2.0,0.0,No,Fall 2024
+S0012,Biology,120,57,63,47.5,2.0,0.0,No,Fall 2025
+S0013,Computer Science,120,102,18,85.0,2.0,0.0,Yes,Spring 2025
+S0014,English,120,63,57,52.5,2.0,0.0,No,Fall 2025
+S0015,Psychology,120,101,19,84.2,2.0,0.0,No,Spring 2026
+S0016,Business,120,17,103,14.2,2.0,0.0,No,Fall 2025
+S0017,Computer Science,120,139,0,100.0,2.0,0.0,Yes,Fall 2024
+S0018,Computer Science,120,70,50,58.3,2.0,0.0,No,Fall 2026
+S0019,English,120,143,0,100.0,2.0,0.08,Yes,Fall 2025
+S0020,Psychology,120,32,88,26.7,2.0,0.0,No,Fall 2025
+S0021,Psychology,120,41,79,34.2,2.0,0.0,No,Fall 2024
+S0022,Mechanical Engineering,120,25,95,20.8,2.0,0.0,No,Spring 2025
+S0023,English,120,1,119,0.8,2.0,0.0,No,Fall 2025
+S0024,Psychology,120,75,45,62.5,2.0,0.0,No,Spring 2025
+S0025,Computer Science,120,62,58,51.7,2.0,0.0,No,Fall 2026
+S0026,English,120,117,3,97.5,2.0,0.0,Yes,Spring 2026
+S0027,English,120,99,21,82.5,2.0,0.0,Yes,Fall 2026
+S0028,Business,120,150,0,100.0,2.0,0.0,Yes,Spring 2025
+S0029,English,120,96,24,80.0,2.0,0.0,No,Fall 2024
+S0030,Computer Science,120,117,3,97.5,2.0,0.0,No,Spring 2025
+S0031,Psychology,120,47,73,39.2,2.0,0.0,No,Fall 2025
+S0032,English,120,8,112,6.7,2.0,0.0,No,Fall 2026
+S0033,Computer Science,120,70,50,58.3,2.0,0.0,No,Fall 2025
+S0034,Computer Science,120,138,0,100.0,2.0,0.0,Yes,Fall 2026
+S0035,Biology,120,34,86,28.3,2.0,0.0,No,Spring 2026
+S0036,Biology,120,146,0,100.0,2.0,0.0,Yes,Fall 2025
+S0037,English,120,139,0,100.0,2.0,0.0,No,Fall 2025
+S0038,Biology,120,8,112,6.7,2.0,0.0,No,Fall 2025
+S0039,Psychology,120,57,63,47.5,2.0,0.0,No,Spring 2026
+S0040,Biology,120,113,7,94.2,2.0,0.09,Yes,Spring 2026
+S0041,Computer Science,120,80,40,66.7,2.0,0.0,No,Spring 2026
+S0042,English,120,138,0,100.0,2.0,0.0,Yes,Spring 2025
+S0043,Computer Science,120,97,23,80.8,2.0,0.0,Yes,Fall 2025
+S0044,Computer Science,120,44,76,36.7,2.0,0.0,No,Spring 2026
+S0045,Psychology,120,102,18,85.0,2.0,0.0,Yes,Fall 2024
+S0046,Mechanical Engineering,120,85,35,70.8,2.0,0.0,No,Spring 2026
+S0047,English,120,127,0,100.0,2.0,0.0,Yes,Spring 2026
+S0048,Psychology,120,132,0,100.0,2.0,0.0,Yes,Fall 2024
+S0049,English,120,89,31,74.2,2.0,0.0,No,Fall 2026
+S0050,Psychology,120,140,0,100.0,2.0,0.0,No,Spring 2026
+S0051,Biology,120,58,62,48.3,2.0,0.0,No,Spring 2025
+S0052,Mechanical Engineering,120,77,43,64.2,2.0,0.0,No,Fall 2025
+S0053,Business,120,81,39,67.5,2.0,0.0,No,Spring 2025
+S0054,Psychology,120,145,0,100.0,2.0,0.0,Yes,Fall 2024
+S0055,Computer Science,120,116,4,96.7,2.0,0.0,No,Spring 2026
+S0056,Business,120,77,43,64.2,2.0,0.0,No,Fall 2024
+S0057,Biology,120,113,7,94.2,2.0,0.0,No,Fall 2024
+S0058,Mechanical Engineering,120,108,12,90.0,2.0,0.0,No,Spring 2025
+S0059,Mechanical Engineering,120,83,37,69.2,2.0,0.0,No,Fall 2024
+S0060,Computer Science,120,76,44,63.3,2.0,0.0,No,Fall 2025
+S0061,Business,120,98,22,81.7,2.0,0.0,No,Fall 2026
+S0062,Business,120,109,11,90.8,2.0,0.0,No,Spring 2026
+S0063,Business,120,38,82,31.7,2.0,0.0,No,Fall 2026
+S0064,Psychology,120,122,0,100.0,2.0,0.0,No,Spring 2026
+S0065,Psychology,120,57,63,47.5,2.0,0.0,No,Fall 2024
+S0066,Biology,120,56,64,46.7,2.0,0.0,No,Fall 2025
+S0067,English,120,92,28,76.7,2.0,0.0,Yes,Spring 2025
+S0068,English,120,67,53,55.8,2.0,0.0,No,Spring 2026
+S0069,Psychology,120,41,79,34.2,2.0,0.0,No,Fall 2024
+S0070,Business,120,126,0,100.0,2.0,0.0,Yes,Fall 2026
+S0071,Computer Science,120,88,32,73.3,2.0,0.0,No,Fall 2024
+S0072,Psychology,120,27,93,22.5,2.0,0.0,No,Fall 2024
+S0073,Mechanical Engineering,120,116,4,96.7,2.0,0.0,Yes,Fall 2024
+S0074,Psychology,120,117,3,97.5,2.0,0.0,No,Spring 2026
+S0075,Computer Science,120,121,0,100.0,2.0,0.0,Yes,Fall 2024
+S0076,Mechanical Engineering,120,32,88,26.7,2.0,0.0,No,Spring 2025
+S0077,Mechanical Engineering,120,127,0,100.0,2.0,0.0,Yes,Spring 2026
+S0078,Mechanical Engineering,120,33,87,27.5,2.0,0.0,No,Fall 2026
+S0079,Computer Science,120,89,31,74.2,2.0,0.0,No,Fall 2026
+S0080,Business,120,6,114,5.0,2.0,0.0,No,Fall 2026
+S0081,Mechanical Engineering,120,38,82,31.7,2.0,0.0,No,Fall 2026
+S0082,English,120,76,44,63.3,2.0,0.0,No,Fall 2024
+S0083,Biology,120,101,19,84.2,2.0,0.0,Yes,Fall 2024
+S0084,Biology,120,70,50,58.3,2.0,0.0,No,Fall 2025
+S0085,English,120,51,69,42.5,2.0,0.0,No,Spring 2026
+S0086,English,120,123,0,100.0,2.0,0.0,Yes,Spring 2026
+S0087,Psychology,120,54,66,45.0,2.0,0.0,No,Spring 2025
+S0088,Business,120,116,4,96.7,2.0,0.0,Yes,Spring 2026
+S0089,Mechanical Engineering,120,56,64,46.7,2.0,0.0,No,Fall 2026
+S0090,Business,120,23,97,19.2,2.0,0.0,No,Spring 2026
+S0091,Business,120,123,0,100.0,2.0,0.0,No,Fall 2024
+S0092,Psychology,120,64,56,53.3,2.0,0.0,No,Fall 2026
+S0093,Business,120,135,0,100.0,2.0,0.0,No,Spring 2026
+S0094,Mechanical Engineering,120,148,0,100.0,2.0,0.0,Yes,Fall 2025
+S0095,Biology,120,96,24,80.0,2.0,0.0,Yes,Fall 2026
+S0096,Psychology,120,75,45,62.5,2.0,0.0,No,Spring 2026
+S0097,Biology,120,87,33,72.5,2.0,0.0,No,Fall 2025
+S0098,Business,120,59,61,49.2,2.0,0.0,No,Spring 2026
+S0099,Biology,120,124,0,100.0,2.0,0.0,Yes,Spring 2026
+S0100,Psychology,120,29,91,24.2,2.0,0.0,No,Spring 2026
+S0101,Computer Science,120,62,58,51.7,2.0,0.0,No,Spring 2025
+S0102,Business,120,131,0,100.0,2.0,0.0,Yes,Fall 2024
+S0103,English,120,31,89,25.8,2.0,0.0,No,Spring 2026
+S0104,Biology,120,149,0,100.0,2.0,0.0,Yes,Spring 2026
+S0105,Mechanical Engineering,120,65,55,54.2,2.0,0.0,No,Spring 2025
+S0106,Biology,120,94,26,78.3,2.0,0.0,Yes,Fall 2026
+S0107,Psychology,120,45,75,37.5,2.0,0.0,No,Fall 2024
+S0108,Business,120,50,70,41.7,2.0,0.0,No,Fall 2025
+S0109,Business,120,126,0,100.0,2.0,0.0,No,Spring 2025
+S0110,Psychology,120,19,101,15.8,2.0,0.0,No,Spring 2025
+S0111,Mechanical Engineering,120,69,51,57.5,2.0,0.03,No,Spring 2026
+S0112,Biology,120,150,0,100.0,2.0,0.0,Yes,Fall 2025
+S0113,Mechanical Engineering,120,103,17,85.8,2.0,0.0,No,Fall 2025
+S0114,English,120,29,91,24.2,2.0,0.0,No,Fall 2024
+S0115,Biology,120,71,49,59.2,2.0,0.0,No,Spring 2026
+S0116,Computer Science,120,14,106,11.7,2.0,0.0,No,Fall 2026
+S0117,English,120,84,36,70.0,2.0,0.0,No,Spring 2025
+S0118,Computer Science,120,122,0,100.0,2.0,0.0,Yes,Fall 2026
+S0119,English,120,103,17,85.8,2.0,0.0,Yes,Fall 2024
+S0120,Biology,120,128,0,100.0,2.0,0.0,No,Fall 2026
+S0121,Biology,120,13,107,10.8,2.0,0.0,No,Spring 2026
+S0122,Business,120,93,27,77.5,2.0,0.0,No,Fall 2024
+S0123,Computer Science,120,90,30,75.0,2.0,0.0,No,Fall 2025
+S0124,English,120,131,0,100.0,2.0,0.0,No,Fall 2026
+S0125,Business,120,115,5,95.8,2.0,0.0,Yes,Spring 2026
+S0126,Business,120,117,3,97.5,2.0,0.0,No,Fall 2024
+S0127,Biology,120,94,26,78.3,2.0,0.0,No,Spring 2026
+S0128,Psychology,120,84,36,70.0,2.0,0.0,No,Spring 2026
+S0129,English,120,106,14,88.3,2.0,0.0,No,Fall 2026
+S0130,Business,120,91,29,75.8,2.0,0.0,Yes,Spring 2026
+S0131,Computer Science,120,39,81,32.5,2.0,0.0,No,Spring 2026
+S0132,Mechanical Engineering,120,0,120,0.0,2.0,0.0,No,Fall 2026
+S0133,Biology,120,51,69,42.5,2.0,0.0,No,Fall 2026
+S0134,Business,120,85,35,70.8,2.0,0.0,No,Spring 2026
+S0135,Mechanical Engineering,120,132,0,100.0,2.0,0.0,No,Fall 2025
+S0136,Mechanical Engineering,120,81,39,67.5,2.0,0.0,No,Fall 2024
+S0137,Psychology,120,150,0,100.0,2.0,0.0,No,Spring 2026
+S0138,Business,120,38,82,31.7,2.0,0.0,No,Fall 2024
+S0139,Business,120,59,61,49.2,2.0,0.0,No,Fall 2024
+S0140,Psychology,120,57,63,47.5,2.0,0.0,No,Spring 2026
+S0141,Biology,120,114,6,95.0,2.0,0.0,No,Fall 2025
+S0142,Biology,120,150,0,100.0,2.0,0.0,No,Fall 2024
+S0143,Psychology,120,66,54,55.0,2.0,0.07,No,Fall 2025
+S0144,English,120,109,11,90.8,2.0,0.0,No,Spring 2026
+S0145,Biology,120,145,0,100.0,2.0,0.0,Yes,Fall 2025
+S0146,Computer Science,120,80,40,66.7,2.0,0.0,No,Spring 2025
+S0147,Biology,120,45,75,37.5,2.0,0.0,No,Fall 2024
+S0148,English,120,62,58,51.7,2.0,0.0,No,Fall 2026
+S0149,Business,120,128,0,100.0,2.0,0.0,Yes,Spring 2026
+S0150,Business,120,70,50,58.3,2.0,0.0,No,Spring 2025
+S0151,English,120,69,51,57.5,2.0,0.0,No,Fall 2026
+S0152,Computer Science,120,125,0,100.0,2.0,0.0,Yes,Fall 2024
+S0153,Psychology,120,83,37,69.2,2.0,0.0,No,Fall 2024
+S0154,English,120,78,42,65.0,2.0,0.0,No,Spring 2025
+S0155,Biology,120,93,27,77.5,2.0,0.0,No,Fall 2026
+S0156,Mechanical Engineering,120,136,0,100.0,2.0,0.0,No,Spring 2026
+S0157,Computer Science,120,98,22,81.7,2.0,0.0,No,Spring 2025
+S0158,Business,120,51,69,42.5,2.0,0.0,No,Spring 2025
+S0159,Business,120,40,80,33.3,2.0,0.0,No,Spring 2026
+S0160,Mechanical Engineering,120,89,31,74.2,2.0,0.0,No,Spring 2026
+S0161,Mechanical Engineering,120,29,91,24.2,2.0,0.0,No,Spring 2026
+S0162,Psychology,120,41,79,34.2,2.0,0.0,No,Spring 2025
+S0163,Business,120,121,0,100.0,2.0,0.0,Yes,Spring 2025
+S0164,Mechanical Engineering,120,104,16,86.7,2.0,0.0,Yes,Spring 2026
+S0165,Mechanical Engineering,120,150,0,100.0,2.0,0.0,No,Fall 2026
+S0166,Psychology,120,111,9,92.5,2.0,0.0,No,Fall 2024
+S0167,Mechanical Engineering,120,113,7,94.2,2.0,0.0,Yes,Spring 2026
+S0168,Psychology,120,129,0,100.0,2.0,0.0,Yes,Fall 2025
+S0169,Biology,120,97,23,80.8,2.0,0.0,No,Fall 2026
+S0170,Biology,120,91,29,75.8,2.0,0.0,No,Spring 2025
+S0171,Computer Science,120,97,23,80.8,2.0,0.0,Yes,Fall 2024
+S0172,Business,120,144,0,100.0,2.0,0.0,Yes,Fall 2025
+S0173,Mechanical Engineering,120,75,45,62.5,2.0,0.0,No,Fall 2024
+S0174,Business,120,113,7,94.2,2.0,0.0,Yes,Fall 2025
+S0175,Computer Science,120,43,77,35.8,2.0,0.0,No,Fall 2025
+S0176,Computer Science,120,89,31,74.2,2.0,0.0,No,Fall 2025
+S0177,Biology,120,71,49,59.2,2.0,0.0,No,Fall 2025
+S0178,Mechanical Engineering,120,111,9,92.5,2.0,0.0,Yes,Fall 2024
+S0179,Psychology,120,139,0,100.0,2.0,0.0,No,Fall 2025
+S0180,Psychology,120,145,0,100.0,2.0,0.0,Yes,Fall 2026
+S0181,Biology,120,149,0,100.0,2.0,0.0,Yes,Fall 2026
+S0182,Computer Science,120,138,0,100.0,2.0,0.0,Yes,Fall 2026
+S0183,English,120,124,0,100.0,2.0,0.0,No,Spring 2026
+S0184,English,120,144,0,100.0,2.0,0.0,No,Spring 2025
+S0185,Biology,120,141,0,100.0,2.0,0.0,No,Spring 2025
+S0186,Biology,120,28,92,23.3,2.0,0.0,No,Fall 2025
+S0187,Mechanical Engineering,120,82,38,68.3,2.0,0.0,No,Spring 2026
+S0188,Psychology,120,66,54,55.0,2.0,0.0,No,Fall 2024
+S0189,English,120,150,0,100.0,2.0,0.0,No,Spring 2025
+S0190,Computer Science,120,95,25,79.2,2.0,0.0,Yes,Spring 2025
+S0191,Business,120,124,0,100.0,2.0,0.0,No,Spring 2025
+S0192,Psychology,120,0,120,0.0,2.0,0.0,No,Fall 2026
+S0193,English,120,70,50,58.3,2.0,0.0,No,Spring 2025
+S0194,Mechanical Engineering,120,146,0,100.0,2.0,0.0,Yes,Fall 2024
+S0195,Business,120,101,19,84.2,2.0,0.0,Yes,Fall 2026
+S0196,Business,120,67,53,55.8,2.0,0.0,No,Fall 2024
+S0197,Computer Science,120,116,4,96.7,2.0,0.0,No,Spring 2025
+S0198,Psychology,120,133,0,100.0,2.0,0.0,No,Spring 2025
+S0199,Mechanical Engineering,120,109,11,90.8,2.0,0.0,No,Fall 2026
+S0200,Psychology,120,25,95,20.8,2.0,0.0,No,Spring 2025
+S0201,Biology,120,27,93,22.5,2.0,0.0,No,Fall 2024
+S0202,Psychology,120,28,92,23.3,2.0,0.0,No,Spring 2026
+S0203,Mechanical Engineering,120,19,101,15.8,2.0,0.0,No,Fall 2025
+S0204,Mechanical Engineering,120,64,56,53.3,2.0,0.0,No,Fall 2024
+S0205,English,120,58,62,48.3,2.0,0.0,No,Spring 2026
+S0206,Biology,120,68,52,56.7,2.0,0.0,No,Fall 2026
+S0207,Mechanical Engineering,120,56,64,46.7,2.0,0.0,No,Fall 2026
+S0208,English,120,145,0,100.0,2.0,0.0,No,Fall 2025
+S0209,English,120,83,37,69.2,2.0,0.0,No,Fall 2025
+S0210,Business,120,150,0,100.0,2.0,0.0,No,Spring 2026
+S0211,Computer Science,120,149,0,100.0,2.0,0.0,Yes,Fall 2026
+S0212,Biology,120,107,13,89.2,2.0,0.0,No,Spring 2025
+S0213,Mechanical Engineering,120,67,53,55.8,2.0,0.0,No,Fall 2025
+S0214,English,120,10,110,8.3,2.0,0.0,No,Fall 2024
+S0215,Computer Science,120,75,45,62.5,2.0,0.0,No,Fall 2026
+S0216,Mechanical Engineering,120,34,86,28.3,2.0,0.12,No,Fall 2026
+S0217,Biology,120,23,97,19.2,2.0,0.0,No,Spring 2026
+S0218,Biology,120,83,37,69.2,2.0,0.0,No,Spring 2025
+S0219,Psychology,120,113,7,94.2,2.0,0.0,Yes,Fall 2025
+S0220,Computer Science,120,0,120,0.0,2.0,0.0,No,Spring 2025
+S0221,Mechanical Engineering,120,118,2,98.3,2.0,0.0,No,Fall 2025
+S0222,English,120,74,46,61.7,2.0,0.0,No,Spring 2026
+S0223,English,120,32,88,26.7,2.0,0.0,No,Fall 2024
+S0224,Business,120,146,0,100.0,2.0,0.0,Yes,Spring 2025
+S0225,Psychology,120,18,102,15.0,2.0,0.0,No,Spring 2025
+S0226,Psychology,120,82,38,68.3,2.0,0.0,No,Spring 2025
+S0227,Business,120,10,110,8.3,2.0,0.0,No,Fall 2024
+S0228,Psychology,120,18,102,15.0,2.0,0.0,No,Spring 2025
+S0229,Psychology,120,138,0,100.0,2.0,0.0,Yes,Fall 2025
+S0230,Business,120,18,102,15.0,2.0,0.0,No,Fall 2024
+S0231,Psychology,120,91,29,75.8,2.0,0.0,No,Spring 2026
+S0232,Mechanical Engineering,120,71,49,59.2,2.0,0.0,No,Spring 2026
+S0233,Psychology,120,81,39,67.5,2.0,0.0,No,Spring 2026
+S0234,Biology,120,95,25,79.2,2.0,0.0,Yes,Spring 2025
+S0235,Computer Science,120,74,46,61.7,2.0,0.0,No,Fall 2025
+S0236,Mechanical Engineering,120,23,97,19.2,2.0,0.27,No,Fall 2024
+S0237,Psychology,120,84,36,70.0,2.0,0.0,No,Fall 2025
+S0238,Biology,120,141,0,100.0,2.0,0.0,Yes,Fall 2025
+S0239,Mechanical Engineering,120,38,82,31.7,2.0,0.0,No,Fall 2024
+S0240,Biology,120,150,0,100.0,2.0,0.0,Yes,Fall 2026
+S0241,Business,120,81,39,67.5,2.0,0.0,No,Fall 2024
+S0242,Business,120,83,37,69.2,2.0,0.0,No,Fall 2025
+S0243,Biology,120,70,50,58.3,2.0,0.0,No,Fall 2024
+S0244,English,120,16,104,13.3,2.0,0.0,No,Spring 2026
+S0245,Psychology,120,150,0,100.0,2.0,0.0,No,Spring 2026
+S0246,English,120,139,0,100.0,2.0,0.0,Yes,Fall 2026
+S0247,English,120,113,7,94.2,2.0,0.0,Yes,Spring 2025
+S0248,Computer Science,120,83,37,69.2,2.0,0.0,No,Spring 2025
+S0249,Computer Science,120,65,55,54.2,2.0,0.0,No,Fall 2026
+S0250,Mechanical Engineering,120,68,52,56.7,2.0,0.0,No,Spring 2025
+S0251,Business,120,128,0,100.0,2.0,0.0,No,Fall 2026
+S0252,Computer Science,120,58,62,48.3,2.0,0.0,No,Fall 2026
+S0253,Business,120,128,0,100.0,2.0,0.0,No,Fall 2025
+S0254,Business,120,17,103,14.2,2.0,0.0,No,Spring 2026
+S0255,Computer Science,120,28,92,23.3,2.0,0.0,No,Fall 2026
+S0256,English,120,88,32,73.3,2.0,0.0,No,Fall 2024
+S0257,Computer Science,120,23,97,19.2,2.0,0.0,No,Fall 2026
+S0258,English,120,17,103,14.2,2.0,0.0,No,Fall 2026
+S0259,Psychology,120,93,27,77.5,2.0,0.0,No,Spring 2025
+S0260,Mechanical Engineering,120,141,0,100.0,2.0,0.0,No,Fall 2024
+S0261,Psychology,120,81,39,67.5,2.0,0.0,No,Fall 2025
+S0262,Business,120,128,0,100.0,2.0,0.0,Yes,Spring 2026
+S0263,Psychology,120,70,50,58.3,2.0,0.0,No,Spring 2026
+S0264,Mechanical Engineering,120,82,38,68.3,2.0,0.0,No,Fall 2026
+S0265,Computer Science,120,88,32,73.3,2.0,0.0,No,Fall 2025
+S0266,Biology,120,67,53,55.8,2.0,0.0,No,Fall 2026
+S0267,Mechanical Engineering,120,54,66,45.0,2.0,0.0,No,Fall 2025
+S0268,Psychology,120,128,0,100.0,2.0,0.0,No,Fall 2025
+S0269,Mechanical Engineering,120,40,80,33.3,2.0,0.0,No,Spring 2025
+S0270,Psychology,120,46,74,38.3,2.0,0.0,No,Fall 2024
+S0271,Business,120,99,21,82.5,2.0,0.0,Yes,Spring 2025
+S0272,Mechanical Engineering,120,65,55,54.2,2.0,0.0,No,Fall 2025
+S0273,Psychology,120,39,81,32.5,2.0,0.0,No,Fall 2026
+S0274,Business,120,94,26,78.3,2.0,0.0,Yes,Fall 2025
+S0275,Psychology,120,62,58,51.7,2.0,0.0,No,Fall 2026
+S0276,Biology,120,57,63,47.5,2.0,0.0,No,Fall 2026
+S0277,Psychology,120,77,43,64.2,2.0,0.0,No,Spring 2026
+S0278,Business,120,118,2,98.3,2.0,0.0,Yes,Fall 2024
+S0279,Mechanical Engineering,120,47,73,39.2,2.0,0.0,No,Spring 2025
+S0280,English,120,91,29,75.8,2.0,0.0,No,Spring 2025
+S0281,Computer Science,120,117,3,97.5,2.0,0.0,No,Fall 2024
+S0282,English,120,99,21,82.5,2.0,0.0,No,Fall 2025
+S0283,Computer Science,120,105,15,87.5,2.0,0.0,Yes,Spring 2025
+S0284,English,120,103,17,85.8,2.0,0.0,Yes,Fall 2024
+S0285,English,120,50,70,41.7,2.0,0.0,No,Fall 2026
+S0286,Biology,120,56,64,46.7,2.0,0.0,No,Fall 2024
+S0287,Biology,120,117,3,97.5,2.0,0.0,Yes,Spring 2026
+S0288,Computer Science,120,98,22,81.7,2.0,0.22,No,Fall 2026
+S0289,English,120,32,88,26.7,2.0,0.0,No,Fall 2024
+S0290,Biology,120,85,35,70.8,2.0,0.0,No,Fall 2025
+S0291,Computer Science,120,146,0,100.0,2.0,0.0,Yes,Fall 2026
+S0292,English,120,67,53,55.8,2.0,0.0,No,Spring 2025
+S0293,Mechanical Engineering,120,87,33,72.5,2.0,0.0,No,Fall 2026
+S0294,Mechanical Engineering,120,131,0,100.0,2.0,0.0,No,Fall 2024
+S0295,Psychology,120,42,78,35.0,2.0,0.0,No,Spring 2026
+S0296,Psychology,120,57,63,47.5,2.0,0.0,No,Fall 2024
+S0297,Biology,120,64,56,53.3,2.0,0.0,No,Fall 2024
+S0298,Computer Science,120,102,18,85.0,2.0,0.0,No,Spring 2026
+S0299,Biology,120,79,41,65.8,2.0,0.0,No,Fall 2024
+S0300,English,120,48,72,40.0,2.0,0.0,No,Fall 2026
+S0301,Business,120,41,79,34.2,2.0,0.0,No,Fall 2026
+S0302,Computer Science,120,99,21,82.5,2.0,0.0,Yes,Fall 2024
+S0303,Computer Science,120,63,57,52.5,2.0,0.0,No,Fall 2026
+S0304,Business,120,126,0,100.0,2.0,0.0,Yes,Fall 2025
+S0305,Computer Science,120,23,97,19.2,2.0,0.0,No,Spring 2026
+S0306,English,120,39,81,32.5,2.0,0.0,No,Fall 2026
+S0307,Psychology,120,33,87,27.5,2.0,0.0,No,Spring 2025
+S0308,English,120,150,0,100.0,2.0,0.0,No,Spring 2026
+S0309,Business,120,29,91,24.2,2.0,0.0,No,Spring 2026
+S0310,English,120,92,28,76.7,2.0,0.0,Yes,Fall 2025
+S0311,English,120,69,51,57.5,2.0,0.0,No,Fall 2024
+S0312,Psychology,120,89,31,74.2,2.0,0.0,No,Fall 2024
+S0313,Business,120,56,64,46.7,2.0,0.0,No,Spring 2025
+S0314,Mechanical Engineering,120,10,110,8.3,2.0,0.0,No,Fall 2025
+S0315,English,120,29,91,24.2,2.0,0.0,No,Fall 2024
+S0316,Mechanical Engineering,120,109,11,90.8,2.0,0.0,No,Fall 2024
+S0317,Business,120,109,11,90.8,2.0,0.0,Yes,Fall 2024
+S0318,Mechanical Engineering,120,121,0,100.0,2.0,0.0,Yes,Fall 2024
+S0319,Mechanical Engineering,120,70,50,58.3,2.0,0.0,No,Fall 2026
+S0320,English,120,60,60,50.0,2.0,0.0,No,Fall 2024
+S0321,Biology,120,77,43,64.2,2.0,0.0,No,Fall 2025
+S0322,Mechanical Engineering,120,107,13,89.2,2.0,0.0,Yes,Fall 2025
+S0323,Mechanical Engineering,120,79,41,65.8,2.0,0.0,No,Fall 2024
+S0324,Business,120,35,85,29.2,2.0,0.0,No,Spring 2025
+S0325,Computer Science,120,79,41,65.8,2.0,0.0,No,Spring 2025
+S0326,English,120,117,3,97.5,2.0,0.0,No,Fall 2024
+S0327,English,120,107,13,89.2,2.0,0.0,No,Fall 2026
+S0328,Computer Science,120,150,0,100.0,2.0,0.0,Yes,Fall 2025
+S0329,Biology,120,140,0,100.0,2.0,0.0,No,Spring 2026
+S0330,Business,120,59,61,49.2,2.0,0.0,No,Fall 2024
+S0331,Computer Science,120,17,103,14.2,2.0,0.0,No,Fall 2026
+S0332,Biology,120,139,0,100.0,2.0,0.0,No,Spring 2026
+S0333,Psychology,120,127,0,100.0,2.0,0.0,Yes,Fall 2026
+S0334,Psychology,120,79,41,65.8,2.0,0.0,No,Fall 2025
+S0335,Biology,120,0,120,0.0,2.0,0.0,No,Fall 2024
+S0336,Mechanical Engineering,120,78,42,65.0,2.0,0.14,No,Spring 2026
+S0337,Psychology,120,21,99,17.5,2.0,0.0,No,Spring 2026
+S0338,Business,120,2,118,1.7,2.0,0.0,No,Fall 2024
+S0339,Biology,120,36,84,30.0,2.0,0.0,No,Fall 2025
+S0340,Business,120,100,20,83.3,2.0,0.0,No,Fall 2026
+S0341,Psychology,120,96,24,80.0,2.0,0.0,Yes,Fall 2024
+S0342,Business,120,18,102,15.0,2.0,0.0,No,Fall 2024
+S0343,Biology,120,90,30,75.0,2.0,0.0,Yes,Fall 2024
+S0344,Psychology,120,51,69,42.5,2.0,0.0,No,Fall 2025
+S0345,Biology,120,40,80,33.3,2.0,0.0,No,Fall 2025
+S0346,Computer Science,120,21,99,17.5,2.0,0.0,No,Spring 2026
+S0347,English,120,92,28,76.7,2.0,0.0,No,Fall 2025
+S0348,Biology,120,38,82,31.7,2.0,0.0,No,Spring 2026
+S0349,Business,120,117,3,97.5,2.0,0.0,Yes,Spring 2025
+S0350,Business,120,100,20,83.3,2.0,0.0,No,Fall 2025
+S0351,English,120,130,0,100.0,2.0,0.0,No,Fall 2026
+S0352,Computer Science,120,127,0,100.0,2.0,0.0,No,Fall 2024
+S0353,Biology,120,27,93,22.5,2.0,0.0,No,Spring 2026
+S0354,Mechanical Engineering,120,4,116,3.3,2.0,0.0,No,Fall 2025
+S0355,Business,120,0,120,0.0,2.0,0.0,No,Fall 2024
+S0356,Business,120,31,89,25.8,2.0,0.0,No,Spring 2025
+S0357,Psychology,120,102,18,85.0,2.0,0.0,Yes,Spring 2026
+S0358,Business,120,27,93,22.5,2.0,0.0,No,Fall 2025
+S0359,Computer Science,120,58,62,48.3,2.0,0.0,No,Fall 2025
+S0360,Business,120,105,15,87.5,2.0,0.0,No,Fall 2024
+S0361,Psychology,120,117,3,97.5,2.0,0.0,Yes,Spring 2025
+S0362,Psychology,120,87,33,72.5,2.0,0.0,No,Fall 2026
+S0363,Psychology,120,143,0,100.0,2.0,0.0,Yes,Spring 2025
+S0364,English,120,56,64,46.7,2.0,0.0,No,Spring 2026
+S0365,Business,120,46,74,38.3,2.0,0.0,No,Fall 2026
+S0366,Business,120,115,5,95.8,2.0,0.0,No,Fall 2024
+S0367,English,120,63,57,52.5,2.0,0.0,No,Spring 2025
+S0368,Psychology,120,130,0,100.0,2.0,0.0,No,Fall 2025
+S0369,Mechanical Engineering,120,116,4,96.7,2.0,0.0,Yes,Fall 2024
+S0370,Computer Science,120,150,0,100.0,2.0,0.0,No,Fall 2024
+S0371,Psychology,120,50,70,41.7,2.0,0.0,No,Spring 2025
+S0372,Business,120,100,20,83.3,2.0,0.0,Yes,Spring 2026
+S0373,Psychology,120,65,55,54.2,2.0,0.0,No,Spring 2026
+S0374,English,120,59,61,49.2,2.0,0.0,No,Fall 2025
+S0375,Psychology,120,72,48,60.0,2.0,0.0,No,Spring 2025
+S0376,Computer Science,120,67,53,55.8,2.0,0.0,No,Fall 2024
+S0377,Biology,120,94,26,78.3,2.0,0.0,Yes,Fall 2025
+S0378,Business,120,10,110,8.3,2.0,0.0,No,Spring 2026
+S0379,Business,120,64,56,53.3,2.0,0.0,No,Spring 2026
+S0380,Business,120,96,24,80.0,2.0,0.0,Yes,Fall 2024
+S0381,Computer Science,120,129,0,100.0,2.0,0.0,Yes,Fall 2024
+S0382,Mechanical Engineering,120,150,0,100.0,2.0,0.0,Yes,Fall 2026
+S0383,English,120,48,72,40.0,2.0,0.0,No,Fall 2026
+S0384,Business,120,139,0,100.0,2.0,0.0,No,Fall 2025
+S0385,Computer Science,120,16,104,13.3,2.0,0.0,No,Fall 2025
+S0386,Biology,120,124,0,100.0,2.0,0.0,No,Fall 2024
+S0387,Business,120,150,0,100.0,2.0,0.0,Yes,Fall 2025
+S0388,Mechanical Engineering,120,123,0,100.0,2.0,0.0,Yes,Spring 2026
+S0389,Business,120,14,106,11.7,2.0,0.0,No,Fall 2024
+S0390,Business,120,54,66,45.0,2.0,0.0,No,Spring 2026
+S0391,Biology,120,115,5,95.8,2.0,0.0,No,Fall 2024
+S0392,Mechanical Engineering,120,90,30,75.0,2.0,0.0,Yes,Fall 2025
+S0393,Psychology,120,150,0,100.0,2.0,0.0,No,Fall 2025
+S0394,Computer Science,120,99,21,82.5,2.0,0.0,No,Spring 2026
+S0395,Business,120,26,94,21.7,2.0,0.0,No,Fall 2026
+S0396,English,120,91,29,75.8,2.0,0.0,No,Fall 2026
+S0397,Psychology,120,32,88,26.7,2.0,0.0,No,Spring 2026
+S0398,Psychology,120,36,84,30.0,2.0,0.0,No,Fall 2026
+S0399,Business,120,111,9,92.5,2.0,0.0,No,Fall 2026
+S0400,Biology,120,140,0,100.0,2.0,0.0,No,Fall 2026
+S0401,Mechanical Engineering,120,128,0,100.0,2.0,0.0,Yes,Spring 2026
+S0402,Psychology,120,57,63,47.5,2.0,0.0,No,Fall 2024
+S0403,Business,120,48,72,40.0,2.0,0.0,No,Spring 2025
+S0404,Computer Science,120,87,33,72.5,2.0,0.0,No,Spring 2026
+S0405,Business,120,150,0,100.0,2.0,0.0,Yes,Fall 2024
+S0406,English,120,108,12,90.0,2.0,0.0,Yes,Spring 2026
+S0407,Biology,120,110,10,91.7,2.0,0.0,No,Fall 2024
+S0408,Business,120,102,18,85.0,2.0,0.0,Yes,Spring 2026
+S0409,Biology,120,60,60,50.0,2.0,0.0,No,Spring 2026
+S0410,Psychology,120,141,0,100.0,2.0,0.0,Yes,Spring 2026
+S0411,Psychology,120,46,74,38.3,2.0,0.0,No,Fall 2025
+S0412,English,120,150,0,100.0,2.0,0.0,No,Fall 2026
+S0413,Psychology,120,47,73,39.2,2.0,0.0,No,Spring 2025
+S0414,Business,120,112,8,93.3,2.0,0.0,Yes,Fall 2024
+S0415,Biology,120,20,100,16.7,2.0,0.0,No,Spring 2026
+S0416,Mechanical Engineering,120,115,5,95.8,2.0,0.0,Yes,Fall 2024
+S0417,Psychology,120,93,27,77.5,2.0,0.0,Yes,Spring 2026
+S0418,Business,120,27,93,22.5,2.0,0.0,No,Fall 2024
+S0419,Computer Science,120,111,9,92.5,2.0,0.0,No,Fall 2024
+S0420,Mechanical Engineering,120,101,19,84.2,2.0,0.0,Yes,Fall 2025
+S0421,Mechanical Engineering,120,55,65,45.8,2.0,0.0,No,Fall 2026
+S0422,Biology,120,7,113,5.8,2.0,0.0,No,Fall 2024
+S0423,Business,120,86,34,71.7,2.0,0.0,No,Spring 2025
+S0424,Psychology,120,145,0,100.0,2.0,0.0,Yes,Fall 2025
+S0425,Computer Science,120,128,0,100.0,2.0,0.0,No,Fall 2025
+S0426,Biology,120,16,104,13.3,2.0,0.0,No,Fall 2024
+S0427,Mechanical Engineering,120,44,76,36.7,2.0,0.0,No,Fall 2025
+S0428,Computer Science,120,150,0,100.0,2.0,0.0,No,Fall 2026
+S0429,Biology,120,13,107,10.8,2.0,0.0,No,Spring 2026
+S0430,Biology,120,46,74,38.3,2.0,0.0,No,Spring 2026
+S0431,English,120,115,5,95.8,2.0,0.0,No,Spring 2025
+S0432,Biology,120,139,0,100.0,2.0,0.0,Yes,Spring 2025
+S0433,English,120,100,20,83.3,2.0,0.0,No,Fall 2026
+S0434,Mechanical Engineering,120,61,59,50.8,2.0,0.0,No,Spring 2026
+S0435,English,120,150,0,100.0,2.0,0.0,No,Fall 2025
+S0436,Mechanical Engineering,120,80,40,66.7,2.0,0.0,No,Spring 2025
+S0437,Computer Science,120,87,33,72.5,2.0,0.0,No,Spring 2025
+S0438,English,120,55,65,45.8,2.0,0.0,No,Fall 2026
+S0439,Biology,120,46,74,38.3,2.0,0.0,No,Fall 2024
+S0440,Biology,120,111,9,92.5,2.0,0.0,No,Fall 2024
+S0441,Computer Science,120,101,19,84.2,2.0,0.0,Yes,Spring 2025
+S0442,Business,120,47,73,39.2,2.0,0.0,No,Fall 2025
+S0443,English,120,150,0,100.0,2.0,0.0,Yes,Fall 2024
+S0444,Psychology,120,122,0,100.0,2.0,0.0,Yes,Fall 2025
+S0445,English,120,150,0,100.0,2.0,0.0,Yes,Spring 2026
+S0446,Computer Science,120,70,50,58.3,2.0,0.0,No,Spring 2026
+S0447,Mechanical Engineering,120,131,0,100.0,2.0,0.0,No,Spring 2025
+S0448,Computer Science,120,80,40,66.7,2.0,0.0,No,Spring 2026
+S0449,Psychology,120,24,96,20.0,2.0,0.0,No,Fall 2024
+S0450,Biology,120,150,0,100.0,2.0,0.0,No,Spring 2026
+S0451,Biology,120,90,30,75.0,2.0,0.0,Yes,Fall 2024
+S0452,English,120,140,0,100.0,2.0,0.0,No,Spring 2025
+S0453,Biology,120,115,5,95.8,2.0,0.0,No,Spring 2026
+S0454,Mechanical Engineering,120,31,89,25.8,2.0,0.0,No,Spring 2025
+S0455,Business,120,67,53,55.8,2.0,0.0,No,Fall 2025
+S0456,Psychology,120,78,42,65.0,2.0,0.0,No,Fall 2026
+S0457,Mechanical Engineering,120,144,0,100.0,2.0,0.0,No,Spring 2025
+S0458,Business,120,110,10,91.7,2.0,0.0,Yes,Fall 2026
+S0459,English,120,122,0,100.0,2.0,0.0,No,Fall 2026
+S0460,Computer Science,120,131,0,100.0,2.0,0.0,No,Fall 2025
+S0461,Computer Science,120,75,45,62.5,2.0,0.0,No,Spring 2025
+S0462,Psychology,120,142,0,100.0,2.0,0.0,Yes,Spring 2026
+S0463,Mechanical Engineering,120,133,0,100.0,2.0,0.0,No,Fall 2026
+S0464,Biology,120,45,75,37.5,2.0,0.0,No,Spring 2026
+S0465,Biology,120,56,64,46.7,2.0,0.0,No,Fall 2024
+S0466,Psychology,120,130,0,100.0,2.0,0.0,No,Fall 2024
+S0467,Computer Science,120,113,7,94.2,2.0,0.21,Yes,Fall 2025
+S0468,Biology,120,119,1,99.2,2.0,0.0,Yes,Fall 2024
+S0469,Biology,120,37,83,30.8,2.0,0.0,No,Spring 2026
+S0470,Business,120,116,4,96.7,2.0,0.0,No,Spring 2026
+S0471,Business,120,60,60,50.0,2.0,0.0,No,Fall 2024
+S0472,Computer Science,120,123,0,100.0,2.0,0.0,No,Fall 2024
+S0473,Mechanical Engineering,120,150,0,100.0,2.0,0.0,No,Fall 2025
+S0474,Mechanical Engineering,120,28,92,23.3,2.0,0.0,No,Fall 2026
+S0475,Biology,120,55,65,45.8,2.0,0.0,No,Fall 2024
+S0476,Psychology,120,107,13,89.2,2.0,0.0,No,Spring 2025
+S0477,Biology,120,33,87,27.5,2.0,0.0,No,Fall 2025
+S0478,Biology,120,138,0,100.0,2.0,0.0,No,Fall 2026
+S0479,English,120,62,58,51.7,2.0,0.0,No,Spring 2025
+S0480,English,120,122,0,100.0,2.0,0.0,Yes,Fall 2024
+S0481,Biology,120,123,0,100.0,2.0,0.0,No,Spring 2025
+S0482,Mechanical Engineering,120,143,0,100.0,2.0,0.0,No,Fall 2024
+S0483,Business,120,138,0,100.0,2.0,0.0,No,Fall 2026
+S0484,Mechanical Engineering,120,99,21,82.5,2.0,0.0,Yes,Fall 2025
+S0485,Business,120,83,37,69.2,2.0,0.0,No,Fall 2025
+S0486,Mechanical Engineering,120,86,34,71.7,2.0,0.0,No,Spring 2026
+S0487,Computer Science,120,99,21,82.5,2.0,0.0,No,Spring 2026
+S0488,Computer Science,120,47,73,39.2,2.0,0.04,No,Spring 2025
+S0489,Computer Science,120,19,101,15.8,2.0,0.33,No,Fall 2026
+S0490,Computer Science,120,83,37,69.2,2.0,0.0,No,Fall 2026
+S0491,Biology,120,150,0,100.0,2.0,0.0,No,Fall 2024
+S0492,Mechanical Engineering,120,66,54,55.0,2.0,0.0,No,Fall 2024
+S0493,Mechanical Engineering,120,139,0,100.0,2.0,0.0,No,Fall 2025
+S0494,Computer Science,120,83,37,69.2,2.0,0.0,No,Fall 2025
+S0495,Computer Science,120,80,40,66.7,2.0,0.0,No,Spring 2026
+S0496,Biology,120,59,61,49.2,2.0,0.12,No,Fall 2024
+S0497,English,120,107,13,89.2,2.0,0.0,Yes,Fall 2026
+S0498,Psychology,120,121,0,100.0,2.0,0.0,Yes,Fall 2025
+S0499,Computer Science,120,144,0,100.0,2.0,0.0,Yes,Spring 2026
+S0500,Biology,120,73,47,60.8,2.0,0.0,No,Fall 2024

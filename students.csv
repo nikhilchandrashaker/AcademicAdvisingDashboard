@@ -1,0 +1,501 @@
+student_id,first_name,last_name,major,cohort_year,credits_earned,cumulative_gpa,academic_standing,expected_graduation_term,first_generation,needs_advising_followup
+S0001,Avery,Anderson,Mechanical Engineering,2022,148,2.92,Good Standing,Fall 2027,Yes,No
+S0002,Taylor,Young,Computer Science,2026,39,3.84,Good Standing,Fall 2028,Yes,Yes
+S0003,Finley,Walker,Biology,2023,107,2.87,Good Standing,Spring 2027,Prefer not to say,No
+S0004,Jamie,Martinez,Mechanical Engineering,2026,56,3.42,Good Standing,Fall 2028,Prefer not to say,No
+S0005,Jamie,Jackson,Computer Science,2023,103,3.3,Good Standing,Spring 2028,Yes,No
+S0006,Taylor,Harris,Psychology,2022,131,2.74,Good Standing,Spring 2027,No,No
+S0007,Jordan,Thompson,English,2024,88,1.95,Probation,Spring 2029,Yes,No
+S0008,Hayden,Thomas,Business,2022,108,2.69,Good Standing,Spring 2029,No,No
+S0009,Jordan,Martinez,Mechanical Engineering,2022,121,3.17,Good Standing,Spring 2028,Yes,No
+S0010,Drew,Thompson,Computer Science,2025,39,2.22,Academic Warning,Spring 2028,Yes,No
+S0011,Taylor,Walker,Biology,2024,110,2.88,Good Standing,Fall 2027,Prefer not to say,No
+S0012,Skyler,Anderson,Biology,2025,57,2.22,Academic Warning,Spring 2029,Yes,No
+S0013,Jordan,Jackson,Computer Science,2023,102,3.06,Good Standing,Fall 2028,No,Yes
+S0014,Quinn,Moore,English,2024,63,3.21,Good Standing,Fall 2028,Prefer not to say,No
+S0015,Parker,Lewis,Psychology,2023,101,2.84,Good Standing,Spring 2029,No,No
+S0016,Skyler,White,Business,2026,17,4.0,Good Standing,Fall 2027,Yes,No
+S0017,Morgan,Brown,Computer Science,2022,139,2.42,Academic Warning,Fall 2027,Prefer not to say,No
+S0018,Skyler,Walker,Computer Science,2025,70,2.33,Academic Warning,Fall 2028,Prefer not to say,Yes
+S0019,Morgan,Lewis,English,2022,143,1.92,Probation,Spring 2028,Prefer not to say,No
+S0020,Cameron,Thompson,Psychology,2025,32,3.11,Good Standing,Spring 2027,Prefer not to say,No
+S0021,Cameron,Clark,Psychology,2026,41,3.09,Good Standing,Spring 2027,Prefer not to say,No
+S0022,Logan,Wilson,Mechanical Engineering,2026,25,2.83,Good Standing,Fall 2027,No,No
+S0023,Avery,Walker,English,2026,1,2.6,Good Standing,Spring 2028,No,Yes
+S0024,Parker,Johnson,Psychology,2024,75,3.58,Good Standing,Fall 2027,Prefer not to say,No
+S0025,Taylor,Lewis,Computer Science,2025,62,2.03,Academic Warning,Fall 2027,Yes,No
+S0026,Drew,Clark,English,2023,117,2.79,Good Standing,Spring 2029,No,No
+S0027,Reese,Harris,English,2023,99,3.34,Good Standing,Spring 2028,No,No
+S0028,Parker,Martinez,Business,2022,150,3.51,Good Standing,Spring 2027,No,Yes
+S0029,Kendall,Martinez,English,2023,96,2.83,Good Standing,Spring 2027,Yes,No
+S0030,Taylor,Johnson,Computer Science,2023,117,3.54,Good Standing,Spring 2028,Yes,No
+S0031,Quinn,Lewis,Psychology,2025,47,2.9,Good Standing,Fall 2027,Prefer not to say,No
+S0032,Emerson,Martinez,English,2026,8,2.34,Academic Warning,Fall 2028,No,Yes
+S0033,Rowan,Martin,Computer Science,2025,70,3.75,Good Standing,Fall 2028,No,No
+S0034,Jordan,Harris,Computer Science,2022,138,3.55,Good Standing,Spring 2028,Yes,No
+S0035,Alex,Brown,Biology,2026,34,2.65,Good Standing,Fall 2028,Yes,No
+S0036,Alex,Lewis,Biology,2022,146,3.85,Good Standing,Spring 2027,Yes,No
+S0037,Taylor,Martinez,English,2022,139,3.86,Good Standing,Fall 2027,No,No
+S0038,Jordan,Davis,Biology,2025,8,3.45,Good Standing,Fall 2028,Yes,No
+S0039,Reese,Martin,Psychology,2025,57,2.84,Good Standing,Spring 2029,Prefer not to say,No
+S0040,Reese,Wilson,Biology,2023,113,1.91,Probation,Spring 2027,Prefer not to say,No
+S0041,Jordan,Johnson,Computer Science,2024,80,3.2,Good Standing,Spring 2029,No,No
+S0042,Jordan,Clark,English,2023,138,2.71,Good Standing,Spring 2027,Yes,Yes
+S0043,Skyler,Garcia,Computer Science,2023,97,2.72,Good Standing,Spring 2029,Yes,No
+S0044,Taylor,Martin,Computer Science,2026,44,3.18,Good Standing,Spring 2029,Prefer not to say,No
+S0045,Casey,Martinez,Psychology,2023,102,3.28,Good Standing,Spring 2028,No,No
+S0046,Alex,Jackson,Mechanical Engineering,2024,85,3.53,Good Standing,Spring 2027,Yes,No
+S0047,Taylor,Lewis,English,2022,127,2.82,Good Standing,Fall 2027,Prefer not to say,No
+S0048,Parker,White,Psychology,2022,132,2.2,Academic Warning,Spring 2028,Yes,No
+S0049,Logan,Clark,English,2024,89,3.14,Good Standing,Spring 2027,Prefer not to say,No
+S0050,Riley,Anderson,Psychology,2022,140,2.87,Good Standing,Spring 2027,Yes,No
+S0051,Reese,Walker,Biology,2024,58,2.77,Good Standing,Fall 2027,Prefer not to say,No
+S0052,Finley,Moore,Mechanical Engineering,2024,77,2.56,Good Standing,Spring 2028,Yes,Yes
+S0053,Jordan,Smith,Business,2024,81,3.22,Good Standing,Spring 2028,Yes,No
+S0054,Alex,Lewis,Psychology,2023,145,3.1,Good Standing,Fall 2028,Prefer not to say,Yes
+S0055,Hayden,Johnson,Computer Science,2023,116,2.96,Good Standing,Spring 2028,Prefer not to say,No
+S0056,Jordan,Thomas,Business,2023,77,2.99,Good Standing,Spring 2028,Yes,No
+S0057,Morgan,White,Biology,2023,113,4.0,Good Standing,Spring 2029,No,No
+S0058,Parker,Davis,Mechanical Engineering,2023,108,3.17,Good Standing,Fall 2027,No,Yes
+S0059,Jamie,Martinez,Mechanical Engineering,2024,83,2.36,Academic Warning,Spring 2028,Yes,No
+S0060,Jordan,Moore,Computer Science,2025,76,3.41,Good Standing,Fall 2027,Yes,No
+S0061,Reese,Martinez,Business,2024,98,2.5,Good Standing,Fall 2027,Yes,No
+S0062,Drew,Lee,Business,2024,109,2.23,Academic Warning,Spring 2028,No,No
+S0063,Casey,Smith,Business,2026,38,4.0,Good Standing,Spring 2027,No,No
+S0064,Morgan,Walker,Psychology,2022,122,2.69,Good Standing,Fall 2028,No,No
+S0065,Logan,Clark,Psychology,2025,57,2.72,Good Standing,Spring 2027,No,No
+S0066,Jordan,Martin,Biology,2024,56,3.04,Good Standing,Spring 2027,Prefer not to say,No
+S0067,Rowan,Martin,English,2023,92,3.26,Good Standing,Spring 2027,Prefer not to say,No
+S0068,Morgan,Thomas,English,2024,67,3.85,Good Standing,Spring 2029,No,No
+S0069,Reese,Lewis,Psychology,2025,41,2.82,Good Standing,Fall 2027,Yes,No
+S0070,Logan,Young,Business,2023,126,2.32,Academic Warning,Spring 2028,No,No
+S0071,Reese,Wilson,Computer Science,2024,88,3.72,Good Standing,Fall 2028,Prefer not to say,No
+S0072,Alex,Thompson,Psychology,2025,27,3.1,Good Standing,Fall 2027,Prefer not to say,No
+S0073,Taylor,Thomas,Mechanical Engineering,2023,116,3.43,Good Standing,Spring 2029,Prefer not to say,No
+S0074,Parker,Thomas,Psychology,2022,117,2.27,Academic Warning,Fall 2027,Yes,Yes
+S0075,Emerson,Walker,Computer Science,2023,121,3.16,Good Standing,Spring 2027,No,No
+S0076,Quinn,Harris,Mechanical Engineering,2026,32,3.19,Good Standing,Fall 2028,No,No
+S0077,Morgan,Martin,Mechanical Engineering,2022,127,3.13,Good Standing,Fall 2027,Yes,No
+S0078,Alex,Johnson,Mechanical Engineering,2026,33,2.61,Good Standing,Spring 2029,Yes,No
+S0079,Riley,Thompson,Computer Science,2025,89,3.26,Good Standing,Spring 2029,Prefer not to say,No
+S0080,Finley,Martin,Business,2026,6,3.36,Good Standing,Spring 2029,No,No
+S0081,Alex,Anderson,Mechanical Engineering,2025,38,3.43,Good Standing,Fall 2027,Prefer not to say,No
+S0082,Parker,Anderson,English,2025,76,2.55,Good Standing,Fall 2028,Yes,No
+S0083,Casey,Jackson,Biology,2024,101,3.23,Good Standing,Spring 2029,Yes,No
+S0084,Riley,Wilson,Biology,2025,70,4.0,Good Standing,Spring 2027,No,No
+S0085,Jamie,Johnson,English,2025,51,2.59,Good Standing,Fall 2027,No,No
+S0086,Kendall,Harris,English,2022,123,2.55,Good Standing,Fall 2028,Yes,No
+S0087,Jamie,Lewis,Psychology,2025,54,3.19,Good Standing,Spring 2029,Prefer not to say,No
+S0088,Drew,Martin,Business,2023,116,3.45,Good Standing,Fall 2028,Yes,No
+S0089,Cameron,Thompson,Mechanical Engineering,2025,56,3.8,Good Standing,Fall 2027,Prefer not to say,No
+S0090,Kendall,Smith,Business,2026,23,4.0,Good Standing,Spring 2027,Prefer not to say,No
+S0091,Jordan,Anderson,Business,2023,123,2.53,Good Standing,Fall 2028,No,No
+S0092,Skyler,Anderson,Psychology,2024,64,3.27,Good Standing,Fall 2028,No,No
+S0093,Hayden,Johnson,Business,2022,135,3.39,Good Standing,Spring 2028,Yes,No
+S0094,Avery,Martinez,Mechanical Engineering,2022,148,2.96,Good Standing,Fall 2027,Yes,No
+S0095,Emerson,Garcia,Biology,2023,96,2.17,Academic Warning,Spring 2029,Yes,No
+S0096,Cameron,Walker,Psychology,2024,75,3.47,Good Standing,Spring 2029,Prefer not to say,No
+S0097,Morgan,Young,Biology,2024,87,2.31,Academic Warning,Spring 2027,No,No
+S0098,Quinn,Lee,Business,2025,59,3.21,Good Standing,Spring 2029,Prefer not to say,No
+S0099,Reese,Walker,Biology,2022,124,3.08,Good Standing,Spring 2027,Prefer not to say,No
+S0100,Jamie,White,Psychology,2026,29,2.37,Academic Warning,Spring 2027,Prefer not to say,No
+S0101,Emerson,Garcia,Computer Science,2025,62,3.31,Good Standing,Fall 2028,No,No
+S0102,Jamie,Davis,Business,2023,131,3.58,Good Standing,Spring 2029,Prefer not to say,No
+S0103,Alex,Martin,English,2025,31,2.48,Academic Warning,Spring 2029,No,No
+S0104,Drew,Thompson,Biology,2022,149,3.28,Good Standing,Fall 2027,No,No
+S0105,Casey,Smith,Mechanical Engineering,2025,65,4.0,Good Standing,Fall 2028,No,No
+S0106,Drew,Jackson,Biology,2024,94,3.62,Good Standing,Spring 2028,Prefer not to say,No
+S0107,Avery,Clark,Psychology,2026,45,3.36,Good Standing,Fall 2027,Yes,No
+S0108,Hayden,Martinez,Business,2025,50,3.42,Good Standing,Fall 2028,Prefer not to say,No
+S0109,Taylor,Thomas,Business,2022,126,2.87,Good Standing,Fall 2027,No,No
+S0110,Rowan,Moore,Psychology,2026,19,3.05,Good Standing,Spring 2029,Prefer not to say,No
+S0111,Casey,White,Mechanical Engineering,2026,69,1.97,Probation,Fall 2028,No,No
+S0112,Quinn,Jackson,Biology,2022,150,2.11,Academic Warning,Spring 2027,Prefer not to say,No
+S0113,Quinn,Wilson,Mechanical Engineering,2023,103,3.6,Good Standing,Fall 2028,No,No
+S0114,Reese,Garcia,English,2026,29,2.41,Academic Warning,Fall 2027,No,Yes
+S0115,Avery,Lewis,Biology,2024,71,3.37,Good Standing,Fall 2027,No,Yes
+S0116,Reese,Brown,Computer Science,2026,14,3.12,Good Standing,Fall 2028,Yes,No
+S0117,Emerson,Moore,English,2024,84,2.64,Good Standing,Fall 2028,No,No
+S0118,Emerson,Garcia,Computer Science,2024,122,3.35,Good Standing,Spring 2027,No,No
+S0119,Riley,Brown,English,2022,103,3.1,Good Standing,Spring 2029,No,Yes
+S0120,Hayden,Martin,Biology,2022,128,3.47,Good Standing,Spring 2029,Prefer not to say,No
+S0121,Skyler,Thompson,Biology,2026,13,2.94,Good Standing,Fall 2028,No,No
+S0122,Kendall,Walker,Business,2024,93,3.48,Good Standing,Spring 2027,Prefer not to say,No
+S0123,Quinn,Anderson,Computer Science,2023,90,2.82,Good Standing,Spring 2027,Yes,No
+S0124,Cameron,Smith,English,2022,131,2.64,Good Standing,Fall 2028,No,No
+S0125,Jordan,Martinez,Business,2024,115,3.22,Good Standing,Spring 2028,Prefer not to say,No
+S0126,Parker,Anderson,Business,2022,117,3.5,Good Standing,Spring 2029,Prefer not to say,No
+S0127,Morgan,Lewis,Biology,2025,94,3.57,Good Standing,Fall 2027,Prefer not to say,No
+S0128,Taylor,Johnson,Psychology,2023,84,2.73,Good Standing,Fall 2027,No,No
+S0129,Alex,Garcia,English,2024,106,2.61,Good Standing,Fall 2028,Prefer not to say,No
+S0130,Finley,Lewis,Business,2024,91,3.43,Good Standing,Fall 2028,No,Yes
+S0131,Casey,Walker,Computer Science,2025,39,2.97,Good Standing,Spring 2028,Yes,Yes
+S0132,Kendall,Smith,Mechanical Engineering,2026,0,2.44,Academic Warning,Spring 2028,Prefer not to say,Yes
+S0133,Finley,Thompson,Biology,2025,51,2.31,Academic Warning,Spring 2028,Yes,No
+S0134,Taylor,Moore,Business,2025,85,2.21,Academic Warning,Spring 2028,No,No
+S0135,Cameron,Jackson,Mechanical Engineering,2022,132,3.07,Good Standing,Fall 2028,Prefer not to say,No
+S0136,Hayden,Johnson,Mechanical Engineering,2025,81,2.21,Academic Warning,Fall 2028,Yes,No
+S0137,Skyler,Clark,Psychology,2022,150,3.01,Good Standing,Spring 2027,Prefer not to say,No
+S0138,Jordan,Wilson,Business,2025,38,3.25,Good Standing,Spring 2029,No,No
+S0139,Jordan,Wilson,Business,2025,59,2.67,Good Standing,Spring 2028,Prefer not to say,No
+S0140,Emerson,Garcia,Psychology,2025,57,2.79,Good Standing,Spring 2027,Prefer not to say,No
+S0141,Reese,Lewis,Biology,2023,114,3.36,Good Standing,Spring 2027,Prefer not to say,No
+S0142,Alex,Garcia,Biology,2022,150,2.32,Academic Warning,Fall 2027,No,No
+S0143,Drew,Martin,Psychology,2026,66,1.93,Probation,Fall 2028,No,Yes
+S0144,Skyler,Wilson,English,2023,109,3.32,Good Standing,Spring 2029,Prefer not to say,No
+S0145,Drew,Martin,Biology,2022,145,2.66,Good Standing,Spring 2028,Prefer not to say,No
+S0146,Reese,Young,Computer Science,2024,80,2.73,Good Standing,Spring 2029,Prefer not to say,No
+S0147,Hayden,Moore,Biology,2025,45,3.47,Good Standing,Spring 2028,No,No
+S0148,Alex,Jackson,English,2025,62,2.62,Good Standing,Fall 2027,Prefer not to say,No
+S0149,Jamie,Johnson,Business,2023,128,3.17,Good Standing,Spring 2028,Prefer not to say,No
+S0150,Riley,Moore,Business,2025,70,3.35,Good Standing,Spring 2027,Yes,No
+S0151,Morgan,Thompson,English,2024,69,2.69,Good Standing,Spring 2027,Prefer not to say,No
+S0152,Jamie,Brown,Computer Science,2023,125,3.34,Good Standing,Spring 2027,No,No
+S0153,Logan,Harris,Psychology,2024,83,3.06,Good Standing,Spring 2027,No,No
+S0154,Casey,Moore,English,2025,78,2.67,Good Standing,Spring 2029,Yes,No
+S0155,Parker,Lee,Biology,2024,93,2.89,Good Standing,Fall 2028,Yes,No
+S0156,Alex,Davis,Mechanical Engineering,2022,136,3.6,Good Standing,Spring 2028,Yes,Yes
+S0157,Rowan,White,Computer Science,2024,98,3.45,Good Standing,Fall 2028,Yes,No
+S0158,Cameron,Davis,Business,2026,51,3.01,Good Standing,Fall 2027,Yes,No
+S0159,Parker,Moore,Business,2026,40,2.83,Good Standing,Spring 2029,Yes,No
+S0160,Alex,Anderson,Mechanical Engineering,2024,89,2.93,Good Standing,Spring 2027,No,No
+S0161,Cameron,Lee,Mechanical Engineering,2026,29,3.33,Good Standing,Fall 2028,No,No
+S0162,Drew,Thompson,Psychology,2025,41,4.0,Good Standing,Spring 2028,Yes,No
+S0163,Parker,Harris,Business,2022,121,2.33,Academic Warning,Spring 2029,No,No
+S0164,Avery,Harris,Mechanical Engineering,2024,104,3.44,Good Standing,Spring 2028,Yes,No
+S0165,Logan,Moore,Mechanical Engineering,2022,150,3.35,Good Standing,Spring 2028,Yes,No
+S0166,Quinn,Walker,Psychology,2023,111,2.51,Good Standing,Spring 2028,Prefer not to say,No
+S0167,Morgan,Johnson,Mechanical Engineering,2023,113,2.63,Good Standing,Spring 2028,No,Yes
+S0168,Taylor,Thomas,Psychology,2023,129,2.92,Good Standing,Spring 2028,Prefer not to say,No
+S0169,Hayden,White,Biology,2023,97,2.82,Good Standing,Spring 2029,Prefer not to say,No
+S0170,Emerson,Thomas,Biology,2024,91,2.69,Good Standing,Spring 2028,Yes,No
+S0171,Parker,Harris,Computer Science,2023,97,3.13,Good Standing,Spring 2029,No,Yes
+S0172,Drew,Lewis,Business,2022,144,2.72,Good Standing,Spring 2027,No,No
+S0173,Kendall,Harris,Mechanical Engineering,2024,75,3.13,Good Standing,Spring 2028,Yes,No
+S0174,Logan,Lewis,Business,2022,113,2.23,Academic Warning,Spring 2028,Prefer not to say,Yes
+S0175,Reese,Martin,Computer Science,2025,43,2.88,Good Standing,Spring 2027,Yes,Yes
+S0176,Emerson,Garcia,Computer Science,2024,89,3.81,Good Standing,Spring 2027,Yes,No
+S0177,Alex,White,Biology,2025,71,2.91,Good Standing,Spring 2029,No,No
+S0178,Jamie,Garcia,Mechanical Engineering,2023,111,2.45,Academic Warning,Fall 2028,Prefer not to say,No
+S0179,Rowan,Wilson,Psychology,2022,139,2.84,Good Standing,Fall 2028,No,No
+S0180,Rowan,Lewis,Psychology,2022,145,2.55,Good Standing,Spring 2028,Yes,No
+S0181,Alex,Lee,Biology,2022,149,3.84,Good Standing,Fall 2027,Prefer not to say,No
+S0182,Casey,Martinez,Computer Science,2022,138,3.22,Good Standing,Fall 2027,Prefer not to say,No
+S0183,Kendall,Wilson,English,2023,124,2.78,Good Standing,Fall 2027,No,No
+S0184,Drew,Brown,English,2022,144,3.01,Good Standing,Fall 2027,Prefer not to say,No
+S0185,Avery,Brown,Biology,2022,141,2.57,Good Standing,Spring 2027,No,No
+S0186,Casey,Smith,Biology,2026,28,3.27,Good Standing,Fall 2027,No,Yes
+S0187,Finley,Garcia,Mechanical Engineering,2025,82,3.53,Good Standing,Spring 2027,No,No
+S0188,Kendall,Garcia,Psychology,2026,66,2.58,Good Standing,Fall 2028,Prefer not to say,No
+S0189,Finley,Thomas,English,2022,150,3.1,Good Standing,Fall 2028,Prefer not to say,No
+S0190,Skyler,Martin,Computer Science,2025,95,2.56,Good Standing,Spring 2027,No,No
+S0191,Taylor,Jackson,Business,2022,124,2.67,Good Standing,Spring 2029,Yes,Yes
+S0192,Kendall,Lewis,Psychology,2026,0,2.71,Good Standing,Spring 2028,No,No
+S0193,Alex,Clark,English,2024,70,3.08,Good Standing,Spring 2029,No,Yes
+S0194,Hayden,Wilson,Mechanical Engineering,2022,146,4.0,Good Standing,Fall 2028,No,No
+S0195,Alex,Harris,Business,2024,101,2.68,Good Standing,Fall 2028,Prefer not to say,Yes
+S0196,Drew,White,Business,2024,67,3.27,Good Standing,Fall 2027,Prefer not to say,No
+S0197,Taylor,Lee,Computer Science,2022,116,4.0,Good Standing,Fall 2028,Yes,No
+S0198,Hayden,Johnson,Psychology,2023,133,2.74,Good Standing,Spring 2029,Prefer not to say,No
+S0199,Jamie,White,Mechanical Engineering,2022,109,3.74,Good Standing,Fall 2028,Prefer not to say,Yes
+S0200,Reese,White,Psychology,2026,25,3.68,Good Standing,Spring 2027,Prefer not to say,No
+S0201,Parker,Garcia,Biology,2025,27,2.67,Good Standing,Spring 2028,Prefer not to say,No
+S0202,Parker,Martin,Psychology,2026,28,3.03,Good Standing,Spring 2029,Prefer not to say,No
+S0203,Avery,Walker,Mechanical Engineering,2026,19,3.34,Good Standing,Spring 2028,Yes,No
+S0204,Casey,White,Mechanical Engineering,2024,64,2.92,Good Standing,Spring 2027,Yes,No
+S0205,Taylor,Brown,English,2025,58,3.28,Good Standing,Spring 2027,Yes,No
+S0206,Jamie,Thompson,Biology,2025,68,2.38,Academic Warning,Spring 2028,Yes,No
+S0207,Kendall,Walker,Mechanical Engineering,2024,56,3.7,Good Standing,Spring 2027,Yes,No
+S0208,Taylor,Anderson,English,2022,145,2.59,Good Standing,Fall 2028,Prefer not to say,No
+S0209,Jamie,Anderson,English,2025,83,3.06,Good Standing,Fall 2027,Prefer not to say,Yes
+S0210,Reese,Young,Business,2022,150,3.04,Good Standing,Fall 2028,Prefer not to say,No
+S0211,Skyler,Walker,Computer Science,2023,149,3.97,Good Standing,Spring 2027,Yes,No
+S0212,Drew,Thomas,Biology,2023,107,3.53,Good Standing,Spring 2028,Yes,Yes
+S0213,Cameron,Brown,Mechanical Engineering,2025,67,3.75,Good Standing,Fall 2028,Prefer not to say,No
+S0214,Rowan,Lee,English,2026,10,3.38,Good Standing,Fall 2028,Prefer not to say,Yes
+S0215,Taylor,Jackson,Computer Science,2025,75,2.03,Academic Warning,Spring 2029,No,No
+S0216,Reese,Garcia,Mechanical Engineering,2025,34,1.88,Probation,Fall 2028,Yes,No
+S0217,Alex,White,Biology,2026,23,3.39,Good Standing,Spring 2027,No,No
+S0218,Kendall,Harris,Biology,2025,83,3.04,Good Standing,Spring 2029,Yes,No
+S0219,Parker,Jackson,Psychology,2024,113,2.24,Academic Warning,Fall 2027,Yes,No
+S0220,Finley,Wilson,Computer Science,2026,0,2.97,Good Standing,Spring 2028,No,No
+S0221,Parker,Garcia,Mechanical Engineering,2023,118,2.98,Good Standing,Fall 2027,No,No
+S0222,Taylor,Davis,English,2023,74,2.95,Good Standing,Fall 2028,No,No
+S0223,Kendall,Walker,English,2025,32,3.37,Good Standing,Spring 2028,Prefer not to say,No
+S0224,Emerson,Thompson,Business,2022,146,2.48,Academic Warning,Spring 2028,No,No
+S0225,Taylor,Thomas,Psychology,2026,18,2.42,Academic Warning,Fall 2028,No,Yes
+S0226,Taylor,Lee,Psychology,2024,82,3.53,Good Standing,Spring 2029,Prefer not to say,No
+S0227,Hayden,Johnson,Business,2026,10,3.28,Good Standing,Fall 2028,Prefer not to say,No
+S0228,Emerson,Clark,Psychology,2026,18,2.56,Good Standing,Fall 2027,Yes,No
+S0229,Finley,Davis,Psychology,2022,138,2.43,Academic Warning,Spring 2027,Yes,No
+S0230,Finley,Walker,Business,2026,18,2.34,Academic Warning,Fall 2027,No,No
+S0231,Jamie,Jackson,Psychology,2025,91,3.02,Good Standing,Spring 2029,Yes,No
+S0232,Taylor,Jackson,Mechanical Engineering,2024,71,3.12,Good Standing,Spring 2027,Prefer not to say,No
+S0233,Logan,Brown,Psychology,2024,81,2.88,Good Standing,Spring 2028,Yes,No
+S0234,Reese,Harris,Biology,2024,95,3.42,Good Standing,Fall 2027,Prefer not to say,No
+S0235,Hayden,Harris,Computer Science,2024,74,2.68,Good Standing,Spring 2028,Yes,No
+S0236,Taylor,Martin,Mechanical Engineering,2026,23,1.73,Probation,Spring 2029,No,Yes
+S0237,Quinn,Jackson,Psychology,2023,84,3.75,Good Standing,Fall 2028,Yes,No
+S0238,Taylor,Thomas,Biology,2023,141,2.86,Good Standing,Spring 2027,Prefer not to say,No
+S0239,Jordan,Jackson,Mechanical Engineering,2026,38,3.17,Good Standing,Spring 2029,Yes,No
+S0240,Cameron,Walker,Biology,2023,150,3.62,Good Standing,Fall 2027,Prefer not to say,No
+S0241,Parker,Thompson,Business,2024,81,2.47,Academic Warning,Spring 2029,No,No
+S0242,Hayden,Martinez,Business,2023,83,3.11,Good Standing,Spring 2028,No,No
+S0243,Kendall,Thompson,Biology,2024,70,2.22,Academic Warning,Fall 2028,No,No
+S0244,Jamie,Davis,English,2026,16,2.41,Academic Warning,Fall 2027,Prefer not to say,Yes
+S0245,Emerson,White,Psychology,2022,150,3.48,Good Standing,Spring 2029,Yes,No
+S0246,Reese,Lee,English,2022,139,3.81,Good Standing,Fall 2027,No,No
+S0247,Jamie,Lee,English,2023,113,2.53,Good Standing,Fall 2027,No,No
+S0248,Jordan,Harris,Computer Science,2025,83,3.3,Good Standing,Spring 2029,No,No
+S0249,Parker,Smith,Computer Science,2024,65,2.9,Good Standing,Spring 2028,Yes,No
+S0250,Riley,Brown,Mechanical Engineering,2024,68,2.24,Academic Warning,Spring 2027,No,No
+S0251,Emerson,Thompson,Business,2023,128,4.0,Good Standing,Spring 2029,Yes,No
+S0252,Quinn,Brown,Computer Science,2024,58,3.31,Good Standing,Spring 2029,Prefer not to say,No
+S0253,Reese,Martinez,Business,2022,128,2.73,Good Standing,Spring 2028,Yes,Yes
+S0254,Alex,Lee,Business,2026,17,2.52,Good Standing,Spring 2027,No,No
+S0255,Kendall,Martinez,Computer Science,2026,28,2.54,Good Standing,Fall 2027,No,No
+S0256,Parker,Young,English,2024,88,2.97,Good Standing,Fall 2028,Yes,No
+S0257,Rowan,Lee,Computer Science,2026,23,2.5,Good Standing,Spring 2029,Prefer not to say,No
+S0258,Avery,Harris,English,2026,17,3.42,Good Standing,Fall 2028,Yes,No
+S0259,Avery,White,Psychology,2024,93,2.46,Academic Warning,Spring 2027,No,Yes
+S0260,Kendall,Jackson,Mechanical Engineering,2022,141,3.41,Good Standing,Fall 2027,Yes,No
+S0261,Alex,Moore,Psychology,2023,81,3.3,Good Standing,Fall 2027,Yes,Yes
+S0262,Reese,Wilson,Business,2022,128,3.31,Good Standing,Spring 2027,Yes,No
+S0263,Finley,Harris,Psychology,2024,70,2.01,Academic Warning,Spring 2029,No,Yes
+S0264,Reese,White,Mechanical Engineering,2023,82,3.03,Good Standing,Spring 2027,Prefer not to say,No
+S0265,Jamie,Harris,Computer Science,2024,88,2.5,Good Standing,Fall 2028,No,No
+S0266,Emerson,White,Biology,2025,67,2.09,Academic Warning,Spring 2029,No,No
+S0267,Taylor,Martin,Mechanical Engineering,2025,54,2.33,Academic Warning,Spring 2029,Yes,No
+S0268,Taylor,Jackson,Psychology,2022,128,3.03,Good Standing,Spring 2028,No,No
+S0269,Cameron,Thompson,Mechanical Engineering,2025,40,2.79,Good Standing,Spring 2028,No,Yes
+S0270,Jamie,Anderson,Psychology,2026,46,2.68,Good Standing,Spring 2027,Yes,No
+S0271,Finley,Davis,Business,2024,99,2.38,Academic Warning,Spring 2027,Yes,No
+S0272,Jordan,Brown,Mechanical Engineering,2025,65,3.79,Good Standing,Spring 2027,Yes,No
+S0273,Skyler,Young,Psychology,2024,39,2.56,Good Standing,Spring 2027,Prefer not to say,No
+S0274,Rowan,Thompson,Business,2024,94,2.89,Good Standing,Spring 2027,Prefer not to say,No
+S0275,Casey,Anderson,Psychology,2025,62,2.67,Good Standing,Fall 2027,Yes,Yes
+S0276,Finley,Harris,Biology,2025,57,2.91,Good Standing,Spring 2029,Yes,No
+S0277,Quinn,Walker,Psychology,2025,77,3.14,Good Standing,Spring 2028,Prefer not to say,No
+S0278,Morgan,Brown,Business,2023,118,2.77,Good Standing,Spring 2027,No,No
+S0279,Taylor,Jackson,Mechanical Engineering,2025,47,2.76,Good Standing,Spring 2028,Prefer not to say,Yes
+S0280,Reese,Davis,English,2024,91,2.77,Good Standing,Fall 2027,No,No
+S0281,Riley,Martinez,Computer Science,2023,117,4.0,Good Standing,Fall 2028,Yes,No
+S0282,Alex,Lewis,English,2024,99,2.82,Good Standing,Fall 2027,Prefer not to say,No
+S0283,Skyler,Moore,Computer Science,2024,105,2.78,Good Standing,Spring 2029,No,No
+S0284,Riley,Jackson,English,2022,103,2.45,Academic Warning,Spring 2027,No,No
+S0285,Riley,Lewis,English,2024,50,2.81,Good Standing,Spring 2029,Yes,No
+S0286,Finley,Johnson,Biology,2025,56,3.92,Good Standing,Spring 2027,Prefer not to say,No
+S0287,Casey,Martinez,Biology,2023,117,2.88,Good Standing,Spring 2028,Prefer not to say,No
+S0288,Quinn,Lewis,Computer Science,2024,98,1.78,Probation,Spring 2028,Yes,No
+S0289,Taylor,Clark,English,2026,32,3.42,Good Standing,Fall 2027,Prefer not to say,No
+S0290,Logan,Walker,Biology,2023,85,3.63,Good Standing,Spring 2028,Prefer not to say,Yes
+S0291,Jordan,Young,Computer Science,2022,146,2.77,Good Standing,Spring 2028,Prefer not to say,No
+S0292,Logan,Smith,English,2025,67,4.0,Good Standing,Fall 2028,Prefer not to say,No
+S0293,Emerson,Martinez,Mechanical Engineering,2024,87,3.14,Good Standing,Fall 2028,No,No
+S0294,Cameron,Thompson,Mechanical Engineering,2022,131,2.53,Good Standing,Fall 2028,No,No
+S0295,Riley,Jackson,Psychology,2026,42,2.53,Good Standing,Spring 2028,Prefer not to say,No
+S0296,Riley,White,Psychology,2025,57,2.74,Good Standing,Spring 2029,Prefer not to say,Yes
+S0297,Morgan,Anderson,Biology,2025,64,3.18,Good Standing,Fall 2028,Yes,No
+S0298,Skyler,Walker,Computer Science,2024,102,2.72,Good Standing,Fall 2028,Yes,No
+S0299,Kendall,Jackson,Biology,2024,79,2.46,Academic Warning,Fall 2027,Yes,No
+S0300,Emerson,Thomas,English,2025,48,3.21,Good Standing,Fall 2028,Yes,Yes
+S0301,Alex,Martinez,Business,2026,41,2.49,Academic Warning,Fall 2027,Prefer not to say,No
+S0302,Emerson,Walker,Computer Science,2024,99,3.75,Good Standing,Fall 2028,No,No
+S0303,Riley,Anderson,Computer Science,2025,63,4.0,Good Standing,Spring 2028,No,No
+S0304,Kendall,Lewis,Business,2022,126,2.32,Academic Warning,Fall 2027,No,No
+S0305,Finley,Thompson,Computer Science,2025,23,3.82,Good Standing,Spring 2029,No,No
+S0306,Morgan,Brown,English,2026,39,2.97,Good Standing,Spring 2027,No,No
+S0307,Rowan,Brown,Psychology,2026,33,2.38,Academic Warning,Fall 2027,Prefer not to say,No
+S0308,Jordan,Johnson,English,2022,150,3.07,Good Standing,Fall 2027,Prefer not to say,No
+S0309,Alex,Brown,Business,2026,29,3.4,Good Standing,Spring 2029,Prefer not to say,No
+S0310,Cameron,Harris,English,2024,92,3.12,Good Standing,Spring 2029,Prefer not to say,No
+S0311,Finley,Clark,English,2024,69,3.26,Good Standing,Spring 2029,No,No
+S0312,Avery,White,Psychology,2025,89,3.74,Good Standing,Spring 2028,Prefer not to say,Yes
+S0313,Reese,Smith,Business,2026,56,2.72,Good Standing,Spring 2029,No,No
+S0314,Kendall,Martinez,Mechanical Engineering,2026,10,2.93,Good Standing,Spring 2027,Prefer not to say,No
+S0315,Skyler,Brown,English,2026,29,3.6,Good Standing,Fall 2027,Yes,No
+S0316,Quinn,Smith,Mechanical Engineering,2022,109,3.84,Good Standing,Fall 2028,No,No
+S0317,Jamie,Clark,Business,2023,109,2.77,Good Standing,Spring 2029,No,No
+S0318,Riley,Clark,Mechanical Engineering,2022,121,2.09,Academic Warning,Fall 2027,Prefer not to say,No
+S0319,Finley,Harris,Mechanical Engineering,2025,70,3.04,Good Standing,Spring 2028,Yes,No
+S0320,Hayden,White,English,2024,60,2.29,Academic Warning,Spring 2028,Prefer not to say,No
+S0321,Hayden,Thomas,Biology,2024,77,3.92,Good Standing,Fall 2027,No,No
+S0322,Emerson,Jackson,Mechanical Engineering,2023,107,2.17,Academic Warning,Fall 2028,No,No
+S0323,Reese,Garcia,Mechanical Engineering,2024,79,2.85,Good Standing,Spring 2029,Prefer not to say,No
+S0324,Riley,Thomas,Business,2024,35,2.97,Good Standing,Spring 2027,No,No
+S0325,Alex,Anderson,Computer Science,2024,79,3.38,Good Standing,Fall 2028,Yes,No
+S0326,Hayden,Anderson,English,2024,117,3.62,Good Standing,Fall 2027,Yes,No
+S0327,Parker,Johnson,English,2023,107,2.39,Academic Warning,Spring 2029,Yes,No
+S0328,Jamie,Jackson,Computer Science,2022,150,3.03,Good Standing,Fall 2028,Yes,No
+S0329,Hayden,Davis,Biology,2022,140,2.99,Good Standing,Fall 2028,Prefer not to say,No
+S0330,Quinn,Thomas,Business,2025,59,2.92,Good Standing,Spring 2028,No,No
+S0331,Parker,Lewis,Computer Science,2026,17,2.7,Good Standing,Spring 2027,Yes,No
+S0332,Skyler,Moore,Biology,2022,139,2.7,Good Standing,Fall 2027,Prefer not to say,No
+S0333,Avery,Thomas,Psychology,2022,127,3.06,Good Standing,Spring 2029,Prefer not to say,Yes
+S0334,Alex,Lewis,Psychology,2024,79,3.83,Good Standing,Spring 2029,No,No
+S0335,Alex,Anderson,Biology,2026,0,3.6,Good Standing,Fall 2027,Yes,No
+S0336,Drew,Davis,Mechanical Engineering,2025,78,1.86,Probation,Spring 2027,Prefer not to say,No
+S0337,Quinn,Davis,Psychology,2026,21,2.8,Good Standing,Spring 2029,Prefer not to say,No
+S0338,Casey,Lee,Business,2026,2,2.57,Good Standing,Fall 2028,Prefer not to say,Yes
+S0339,Casey,Martinez,Biology,2025,36,3.96,Good Standing,Spring 2027,No,No
+S0340,Casey,Thomas,Business,2024,100,3.7,Good Standing,Spring 2029,Prefer not to say,No
+S0341,Parker,Johnson,Psychology,2024,96,2.38,Academic Warning,Spring 2027,No,No
+S0342,Reese,Garcia,Business,2026,18,3.27,Good Standing,Spring 2028,No,No
+S0343,Emerson,Brown,Biology,2023,90,3.39,Good Standing,Fall 2028,Prefer not to say,No
+S0344,Hayden,Moore,Psychology,2025,51,2.79,Good Standing,Spring 2029,Prefer not to say,No
+S0345,Taylor,Clark,Biology,2026,40,3.24,Good Standing,Fall 2028,Prefer not to say,No
+S0346,Morgan,Johnson,Computer Science,2026,21,3.64,Good Standing,Spring 2029,Prefer not to say,No
+S0347,Cameron,Jackson,English,2023,92,3.34,Good Standing,Spring 2029,No,Yes
+S0348,Emerson,Lee,Biology,2026,38,2.83,Good Standing,Spring 2029,No,No
+S0349,Finley,Martin,Business,2023,117,2.31,Academic Warning,Fall 2028,Prefer not to say,Yes
+S0350,Avery,Harris,Business,2024,100,2.9,Good Standing,Spring 2028,Yes,No
+S0351,Jordan,Martin,English,2022,130,3.58,Good Standing,Spring 2028,Prefer not to say,Yes
+S0352,Emerson,Johnson,Computer Science,2022,127,2.23,Academic Warning,Spring 2028,No,Yes
+S0353,Rowan,Harris,Biology,2025,27,3.33,Good Standing,Fall 2028,No,No
+S0354,Riley,White,Mechanical Engineering,2026,4,3.97,Good Standing,Spring 2027,Yes,No
+S0355,Riley,Martinez,Business,2026,0,3.93,Good Standing,Spring 2027,Yes,No
+S0356,Jamie,Lewis,Business,2026,31,2.95,Good Standing,Fall 2028,Yes,No
+S0357,Drew,Wilson,Psychology,2023,102,3.22,Good Standing,Spring 2027,Yes,No
+S0358,Avery,Martinez,Business,2026,27,3.61,Good Standing,Fall 2027,Yes,Yes
+S0359,Logan,Johnson,Computer Science,2025,58,3.08,Good Standing,Fall 2027,Prefer not to say,Yes
+S0360,Hayden,Wilson,Business,2023,105,2.97,Good Standing,Spring 2027,Yes,No
+S0361,Kendall,Jackson,Psychology,2023,117,2.06,Academic Warning,Spring 2029,Prefer not to say,No
+S0362,Reese,Brown,Psychology,2023,87,3.41,Good Standing,Spring 2029,Yes,No
+S0363,Hayden,Young,Psychology,2022,143,2.9,Good Standing,Fall 2027,Prefer not to say,No
+S0364,Jordan,White,English,2025,56,3.19,Good Standing,Fall 2028,Prefer not to say,No
+S0365,Riley,Thomas,Business,2025,46,2.57,Good Standing,Fall 2028,Yes,No
+S0366,Parker,Thomas,Business,2023,115,2.46,Academic Warning,Fall 2027,No,No
+S0367,Jamie,Lewis,English,2025,63,2.06,Academic Warning,Spring 2029,Yes,No
+S0368,Casey,Lee,Psychology,2023,130,3.26,Good Standing,Fall 2028,No,Yes
+S0369,Jordan,Anderson,Mechanical Engineering,2023,116,3.54,Good Standing,Fall 2028,Prefer not to say,No
+S0370,Quinn,Young,Computer Science,2022,150,3.56,Good Standing,Spring 2029,Yes,No
+S0371,Avery,Wilson,Psychology,2024,50,2.3,Academic Warning,Fall 2027,Prefer not to say,Yes
+S0372,Logan,Wilson,Business,2023,100,3.01,Good Standing,Fall 2028,Yes,No
+S0373,Alex,Lewis,Psychology,2025,65,2.6,Good Standing,Spring 2028,No,No
+S0374,Alex,Garcia,English,2025,59,2.58,Good Standing,Fall 2028,No,No
+S0375,Jamie,Johnson,Psychology,2024,72,2.23,Academic Warning,Spring 2029,Yes,No
+S0376,Hayden,Young,Computer Science,2024,67,2.26,Academic Warning,Spring 2029,Prefer not to say,No
+S0377,Casey,Martinez,Biology,2023,94,3.58,Good Standing,Fall 2028,Prefer not to say,No
+S0378,Casey,Anderson,Business,2026,10,4.0,Good Standing,Fall 2028,Prefer not to say,No
+S0379,Cameron,White,Business,2025,64,3.1,Good Standing,Fall 2027,Yes,No
+S0380,Hayden,Johnson,Business,2023,96,3.39,Good Standing,Spring 2029,Yes,No
+S0381,Avery,Martin,Computer Science,2022,129,3.07,Good Standing,Fall 2027,Prefer not to say,No
+S0382,Avery,Wilson,Mechanical Engineering,2023,150,2.95,Good Standing,Spring 2029,No,No
+S0383,Emerson,Moore,English,2026,48,2.61,Good Standing,Spring 2027,Yes,No
+S0384,Avery,Clark,Business,2022,139,3.97,Good Standing,Spring 2028,Prefer not to say,No
+S0385,Jamie,Davis,Computer Science,2026,16,4.0,Good Standing,Spring 2027,Yes,No
+S0386,Logan,Clark,Biology,2023,124,2.69,Good Standing,Spring 2028,No,No
+S0387,Rowan,Harris,Business,2022,150,3.53,Good Standing,Fall 2028,Prefer not to say,No
+S0388,Reese,Lee,Mechanical Engineering,2023,123,2.14,Academic Warning,Spring 2027,Yes,No
+S0389,Emerson,Johnson,Business,2026,14,2.86,Good Standing,Spring 2027,Prefer not to say,No
+S0390,Casey,Young,Business,2025,54,3.34,Good Standing,Spring 2027,Prefer not to say,No
+S0391,Kendall,Moore,Biology,2023,115,2.27,Academic Warning,Spring 2028,Yes,No
+S0392,Hayden,Young,Mechanical Engineering,2024,90,3.34,Good Standing,Spring 2027,Yes,No
+S0393,Quinn,Young,Psychology,2022,150,3.59,Good Standing,Fall 2027,Prefer not to say,No
+S0394,Cameron,Young,Computer Science,2024,99,3.25,Good Standing,Fall 2027,Prefer not to say,No
+S0395,Casey,Harris,Business,2026,26,2.09,Academic Warning,Fall 2027,Prefer not to say,No
+S0396,Jordan,Garcia,English,2024,91,3.11,Good Standing,Fall 2028,Yes,No
+S0397,Logan,Walker,Psychology,2026,32,2.3,Academic Warning,Fall 2028,No,Yes
+S0398,Emerson,Martinez,Psychology,2025,36,3.58,Good Standing,Spring 2028,Prefer not to say,No
+S0399,Kendall,Harris,Business,2023,111,3.37,Good Standing,Spring 2027,Prefer not to say,No
+S0400,Taylor,Anderson,Biology,2022,140,3.02,Good Standing,Fall 2027,No,No
+S0401,Skyler,Jackson,Mechanical Engineering,2023,128,2.72,Good Standing,Spring 2028,Yes,Yes
+S0402,Rowan,Anderson,Psychology,2025,57,2.75,Good Standing,Spring 2027,Yes,Yes
+S0403,Hayden,Lewis,Business,2025,48,2.83,Good Standing,Spring 2029,No,Yes
+S0404,Hayden,Lee,Computer Science,2024,87,2.74,Good Standing,Spring 2029,Prefer not to say,No
+S0405,Reese,Martin,Business,2022,150,2.51,Good Standing,Fall 2028,Yes,No
+S0406,Kendall,Clark,English,2023,108,2.76,Good Standing,Fall 2027,Prefer not to say,No
+S0407,Reese,Anderson,Biology,2024,110,3.11,Good Standing,Fall 2028,Yes,Yes
+S0408,Jamie,Thomas,Business,2024,102,2.18,Academic Warning,Fall 2028,Yes,No
+S0409,Logan,Walker,Biology,2025,60,3.49,Good Standing,Fall 2027,No,Yes
+S0410,Skyler,Jackson,Psychology,2022,141,3.59,Good Standing,Spring 2029,No,No
+S0411,Casey,Martin,Psychology,2025,46,3.78,Good Standing,Spring 2029,Yes,No
+S0412,Emerson,Jackson,English,2023,150,2.8,Good Standing,Fall 2027,No,No
+S0413,Kendall,Martinez,Psychology,2025,47,3.8,Good Standing,Spring 2028,No,No
+S0414,Morgan,Young,Business,2024,112,2.71,Good Standing,Fall 2027,Prefer not to say,No
+S0415,Avery,Thompson,Biology,2026,20,2.85,Good Standing,Fall 2027,No,No
+S0416,Jamie,Moore,Mechanical Engineering,2022,115,2.49,Academic Warning,Fall 2027,Prefer not to say,No
+S0417,Jamie,Harris,Psychology,2023,93,2.58,Good Standing,Spring 2027,No,No
+S0418,Skyler,Lewis,Business,2026,27,3.13,Good Standing,Spring 2029,Prefer not to say,No
+S0419,Hayden,Walker,Computer Science,2024,111,2.45,Academic Warning,Spring 2027,Yes,No
+S0420,Cameron,Walker,Mechanical Engineering,2024,101,2.88,Good Standing,Spring 2027,Prefer not to say,No
+S0421,Casey,Martin,Mechanical Engineering,2025,55,3.37,Good Standing,Spring 2027,Yes,Yes
+S0422,Finley,Lewis,Biology,2026,7,3.21,Good Standing,Spring 2029,Prefer not to say,No
+S0423,Skyler,Thompson,Business,2024,86,3.27,Good Standing,Spring 2029,Prefer not to say,No
+S0424,Emerson,Garcia,Psychology,2022,145,4.0,Good Standing,Spring 2028,No,No
+S0425,Riley,White,Computer Science,2022,128,2.71,Good Standing,Spring 2028,No,No
+S0426,Emerson,White,Biology,2026,16,2.69,Good Standing,Fall 2028,Yes,No
+S0427,Casey,Lee,Mechanical Engineering,2025,44,3.65,Good Standing,Spring 2028,Yes,No
+S0428,Casey,Garcia,Computer Science,2022,150,2.69,Good Standing,Fall 2027,Prefer not to say,No
+S0429,Cameron,Jackson,Biology,2026,13,3.26,Good Standing,Spring 2029,No,No
+S0430,Cameron,Davis,Biology,2025,46,3.35,Good Standing,Fall 2028,No,Yes
+S0431,Alex,Young,English,2023,115,2.17,Academic Warning,Fall 2028,No,Yes
+S0432,Drew,Lee,Biology,2023,139,3.99,Good Standing,Spring 2029,Yes,No
+S0433,Rowan,Jackson,English,2023,100,2.79,Good Standing,Fall 2027,No,Yes
+S0434,Finley,Jackson,Mechanical Engineering,2025,61,3.18,Good Standing,Spring 2029,No,No
+S0435,Rowan,White,English,2022,150,4.0,Good Standing,Fall 2028,Prefer not to say,No
+S0436,Logan,Young,Mechanical Engineering,2024,80,2.56,Good Standing,Spring 2027,Prefer not to say,No
+S0437,Reese,Garcia,Computer Science,2023,87,2.6,Good Standing,Fall 2027,No,No
+S0438,Jamie,Walker,English,2025,55,3.99,Good Standing,Fall 2027,Prefer not to say,No
+S0439,Hayden,Davis,Biology,2025,46,3.12,Good Standing,Spring 2029,Yes,No
+S0440,Casey,Thompson,Biology,2023,111,3.65,Good Standing,Spring 2029,Yes,No
+S0441,Riley,Wilson,Computer Science,2025,101,2.71,Good Standing,Fall 2028,Prefer not to say,No
+S0442,Emerson,Martin,Business,2025,47,3.57,Good Standing,Fall 2028,No,No
+S0443,Parker,Thomas,English,2022,150,4.0,Good Standing,Spring 2027,No,No
+S0444,Alex,Young,Psychology,2023,122,2.8,Good Standing,Fall 2028,Prefer not to say,No
+S0445,Drew,Lewis,English,2022,150,3.61,Good Standing,Spring 2028,Prefer not to say,No
+S0446,Hayden,Wilson,Computer Science,2025,70,3.28,Good Standing,Fall 2028,Yes,No
+S0447,Reese,Johnson,Mechanical Engineering,2023,131,3.64,Good Standing,Fall 2028,No,No
+S0448,Morgan,Martinez,Computer Science,2025,80,3.36,Good Standing,Fall 2027,Prefer not to say,No
+S0449,Jamie,Davis,Psychology,2026,24,3.08,Good Standing,Spring 2029,Yes,No
+S0450,Kendall,White,Biology,2022,150,2.55,Good Standing,Spring 2029,No,No
+S0451,Reese,Thomas,Biology,2024,90,2.78,Good Standing,Spring 2029,No,No
+S0452,Riley,Martin,English,2022,140,3.7,Good Standing,Spring 2027,No,No
+S0453,Parker,Brown,Biology,2023,115,3.03,Good Standing,Spring 2028,Yes,No
+S0454,Emerson,Brown,Mechanical Engineering,2025,31,3.41,Good Standing,Spring 2029,Prefer not to say,No
+S0455,Alex,Lee,Business,2025,67,4.0,Good Standing,Spring 2027,No,No
+S0456,Alex,Moore,Psychology,2024,78,3.12,Good Standing,Spring 2028,Prefer not to say,Yes
+S0457,Alex,White,Mechanical Engineering,2022,144,3.87,Good Standing,Spring 2027,Prefer not to say,No
+S0458,Emerson,Anderson,Business,2023,110,3.15,Good Standing,Spring 2028,No,No
+S0459,Kendall,Moore,English,2023,122,3.1,Good Standing,Spring 2028,Prefer not to say,No
+S0460,Alex,Smith,Computer Science,2022,131,3.11,Good Standing,Spring 2027,Yes,No
+S0461,Quinn,Brown,Computer Science,2025,75,2.44,Academic Warning,Spring 2028,Yes,No
+S0462,Rowan,Anderson,Psychology,2022,142,2.61,Good Standing,Spring 2027,No,No
+S0463,Jordan,Harris,Mechanical Engineering,2023,133,2.16,Academic Warning,Spring 2028,Prefer not to say,No
+S0464,Taylor,Garcia,Biology,2025,45,3.21,Good Standing,Spring 2027,Yes,No
+S0465,Parker,Clark,Biology,2026,56,2.96,Good Standing,Fall 2028,Yes,Yes
+S0466,Jamie,Brown,Psychology,2022,130,4.0,Good Standing,Fall 2028,Yes,No
+S0467,Morgan,Jackson,Computer Science,2022,113,1.79,Probation,Spring 2028,No,Yes
+S0468,Taylor,Clark,Biology,2023,119,2.72,Good Standing,Spring 2029,Yes,No
+S0469,Rowan,Wilson,Biology,2025,37,3.39,Good Standing,Fall 2027,No,No
+S0470,Taylor,Garcia,Business,2023,116,2.69,Good Standing,Fall 2027,Yes,No
+S0471,Jamie,Jackson,Business,2024,60,3.48,Good Standing,Fall 2027,Yes,No
+S0472,Hayden,Walker,Computer Science,2023,123,2.95,Good Standing,Spring 2029,Prefer not to say,No
+S0473,Reese,Wilson,Mechanical Engineering,2022,150,2.41,Academic Warning,Spring 2029,Prefer not to say,No
+S0474,Reese,Johnson,Mechanical Engineering,2025,28,2.62,Good Standing,Fall 2027,No,No
+S0475,Logan,Lee,Biology,2025,55,3.13,Good Standing,Spring 2029,Yes,No
+S0476,Skyler,Young,Psychology,2023,107,3.19,Good Standing,Fall 2028,No,No
+S0477,Taylor,Smith,Biology,2025,33,3.79,Good Standing,Spring 2029,Yes,Yes
+S0478,Jordan,Harris,Biology,2022,138,3.61,Good Standing,Spring 2029,No,No
+S0479,Jamie,Harris,English,2025,62,3.25,Good Standing,Spring 2027,Prefer not to say,No
+S0480,Drew,Lee,English,2023,122,3.25,Good Standing,Spring 2028,Yes,No
+S0481,Hayden,Jackson,Biology,2023,123,3.73,Good Standing,Fall 2028,Prefer not to say,No
+S0482,Reese,Martin,Mechanical Engineering,2022,143,3.39,Good Standing,Fall 2027,Yes,No
+S0483,Alex,Walker,Business,2022,138,3.79,Good Standing,Spring 2029,Yes,No
+S0484,Morgan,Smith,Mechanical Engineering,2023,99,3.99,Good Standing,Fall 2027,Prefer not to say,Yes
+S0485,Finley,Clark,Business,2024,83,2.21,Academic Warning,Spring 2028,Yes,No
+S0486,Morgan,Smith,Mechanical Engineering,2024,86,2.63,Good Standing,Spring 2028,No,No
+S0487,Kendall,Lee,Computer Science,2024,99,2.64,Good Standing,Fall 2028,No,No
+S0488,Kendall,Davis,Computer Science,2025,47,1.96,Probation,Spring 2028,Yes,Yes
+S0489,Morgan,Martinez,Computer Science,2026,19,1.67,Probation,Spring 2029,Yes,Yes
+S0490,Jordan,Moore,Computer Science,2023,83,3.42,Good Standing,Spring 2028,No,No
+S0491,Hayden,Martin,Biology,2022,150,3.23,Good Standing,Fall 2027,No,No
+S0492,Drew,Lee,Mechanical Engineering,2024,66,2.97,Good Standing,Spring 2029,No,Yes
+S0493,Cameron,Martinez,Mechanical Engineering,2022,139,2.36,Academic Warning,Spring 2029,Yes,No
+S0494,Reese,Thomas,Computer Science,2025,83,3.48,Good Standing,Spring 2028,Yes,No
+S0495,Quinn,Thomas,Computer Science,2024,80,3.01,Good Standing,Spring 2029,No,No
+S0496,Rowan,Young,Biology,2025,59,1.88,Probation,Fall 2028,Yes,No
+S0497,Riley,Smith,English,2023,107,2.62,Good Standing,Fall 2028,Yes,No
+S0498,Casey,Smith,Psychology,2022,121,2.85,Good Standing,Fall 2028,Prefer not to say,No
+S0499,Finley,Martinez,Computer Science,2023,144,3.35,Good Standing,Fall 2028,No,No
+S0500,Taylor,Johnson,Biology,2024,73,3.31,Good Standing,Fall 2027,Prefer not to say,No
